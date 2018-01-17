@@ -7,6 +7,7 @@ import lxml.html
 
 data_url = "https://coinmarketcap.com"
 percentage_difference = 20
+min_trading_volume = 100000
 
 logging.basicConfig(format = u'%(levelname)-8s [%(asctime)s] %(message)s', level = logging.DEBUG, filename = u'carousel_log.log')
 
@@ -44,7 +45,7 @@ def scan_cryptocoins():
             for tb_row in exchanges: # make uniq pair {exchange: price}
                 if (pu_item == tb_row.cssselect("tr td a")[1].text):
                     volume = tb_row.cssselect("tr td span")[0].get("data-usd")
-                    if (volume > 100000): 
+                    if (float(volume) > min_trading_volume): 
                         exchange_price = tb_row.cssselect("tr td span")[1].get("data-usd")
                         exchange_source = tb_row.cssselect("tr td a")[0].text
                         bunch = {exchange_source: exchange_price}

@@ -1,6 +1,19 @@
-This python script crawling the site coinmarketcap.com, obtains a list of existing crypto currency and then in each of them selects unique tradable pairs on exchanges and makes a comparison between items on which of them the difference in value is greater.
+Crypto-Carousel
+==========
 
-Example output:
+This python script crawling the [coinmarketcap.com](https://coinmarketcap.com), obtains a list of existing crypto currency and then in each of them selects unique tradable pairs on exchanges and makes a comparison between items on which of them the difference in value is greater.
+
+
+### Quick start
+
+Assuming you have a Python client::
+
+```sh
+./scan.py
+```
+
+### Example output:
+```javascript
 [{
 	"Bitcoin": {
 		"Differnce": [
@@ -107,3 +120,4 @@ Example output:
 		"Change": "1.29%"
 	}
 }]
+```
