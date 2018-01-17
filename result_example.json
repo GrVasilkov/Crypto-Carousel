@@ -1,0 +1,8486 @@
+[{
+	"Bitcoin": {
+		"Differnce": [
+			[{
+				"pair": "XDN/BTC",
+				"max diff": "27.2738809414 %",
+				"HitBTC": 17336.0,
+				"Bittrex": 12607.8
+			}],
+			[{
+				"pair": "EOS/BTC",
+				"Coinrail": 12751.2,
+				"Kraken": 16818.5,
+				"max diff": "31.8973900496 %"
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "23.5083313138 %",
+				"Kraken": 16818.5,
+				"HitBTC": 13617.3
+			}, {
+				"pair": "EOS/BTC",
+				"BigONE": 13644.0,
+				"max diff": "23.2666373498 %",
+				"Kraken": 16818.5
+			}, {
+				"pair": "EOS/BTC",
+				"ZB.COM": 13420.4,
+				"Kraken": 16818.5,
+				"max diff": "25.3204077375 %"
+			}],
+			[{
+				"pair": "XLM/BTC",
+				"Binance": 13950.2,
+				"max diff": "30.5244704746 %",
+				"Kraken": 20079.3
+			}, {
+				"pair": "XLM/BTC",
+				"max diff": "29.9582156748 %",
+				"Kraken": 20079.3,
+				"Bittrex": 14063.9
+			}],
+			[{
+				"pair": "BTC/KRW",
+				"Coinrail": 14151.2,
+				"max diff": "29.0752727684 %",
+				"Bithumb": 18265.7
+			}, {
+				"pair": "BTC/KRW",
+				"Coinrail": 14151.2,
+				"max diff": "32.147097066 %",
+				"Korbit": 18700.4
+			}, {
+				"pair": "BTC/KRW",
+				"Coinnest": 15547.0,
+				"max diff": "20.2830127999 %",
+				"Korbit": 18700.4
+			}, {
+				"pair": "BTC/KRW",
+				"Coinone": 18596.0,
+				"Coinrail": 14151.2,
+				"max diff": "31.4093504438 %"
+			}],
+			[{
+				"pair": "XRP/BTC",
+				"Huobi": 13710.5,
+				"max diff": "21.9678348711 %",
+				"Kraken": 16722.4
+			}, {
+				"pair": "XRP/BTC",
+				"Exmo": 13748.7,
+				"Kraken": 16722.4,
+				"max diff": "21.6289540102 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Coinrail": 13841.5,
+				"Kraken": 16722.4,
+				"max diff": "20.8134956471 %"
+			}]
+		],
+		"Market Cap": "$237,241,768,665",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitcoin/",
+		"Coin ID": "1",
+		"Price": "$14123.10",
+		"Change": "3.53%"
+	}
+}, {
+	"Ethereum": {
+		"Differnce": [
+			[{
+				"pair": "ETH/KRW",
+				"Coinrail": 1304.56,
+				"max diff": "26.6358005764 %",
+				"Bithumb": 1652.04
+			}, {
+				"pair": "ETH/KRW",
+				"Coinone": 1674.81,
+				"Coinrail": 1304.56,
+				"max diff": "28.3812166554 %"
+			}, {
+				"pair": "ETH/KRW",
+				"Coinrail": 1304.56,
+				"max diff": "29.1017661127 %",
+				"Korbit": 1684.21
+			}, {
+				"pair": "ETH/KRW",
+				"Coinrail": 1304.56,
+				"GOPAX": 1657.21,
+				"max diff": "21.2797412519 %"
+			}],
+			[{
+				"pair": "CAN/ETH",
+				"max diff": "92.1199854843 %",
+				"Kucoin": 95.5436,
+				"EXX": 1212.48
+			}],
+			[{
+				"pair": "AIDOC/ETH",
+				"Huobi": 1372.78,
+				"Bibox": 1093.12,
+				"max diff": "25.5836504684 %"
+			}],
+			[{
+				"pair": "ITC/ETH",
+				"Huobi": 1329.12,
+				"Bibox": 1103.35,
+				"max diff": "20.4622286672 %"
+			}],
+			[{
+				"pair": "EOS/ETH",
+				"max diff": "21.1222461151 %",
+				"Kraken": 1492.65,
+				"HitBTC": 1232.35
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "20.9828412103 %",
+				"Kraken": 1492.65,
+				"Gate.io": 1233.77
+			}, {
+				"pair": "EOS/ETH",
+				"Bibox": 1113.35,
+				"Kraken": 1492.65,
+				"max diff": "34.0683522702 %"
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "21.8410226271 %",
+				"Kraken": 1492.65,
+				"Kucoin": 1225.08
+			}, {
+				"pair": "EOS/ETH",
+				"Liqui": 1235.27,
+				"max diff": "20.8359306063 %",
+				"Kraken": 1492.65
+			}],
+			[{
+				"pair": "WAX/ETH",
+				"Tidex": 1705.72,
+				"Huobi": 1254.2,
+				"max diff": "26.4709330957 %"
+			}],
+			[{
+				"pair": "ETC/ETH",
+				"Bibox": 1467.66,
+				"Kraken": 1222.4,
+				"max diff": "20.0638089005 %"
+			}],
+			[{
+				"pair": "ETH/EUR",
+				"CoinFalcon": 1099.68,
+				"Exmo": 1360.8,
+				"max diff": "23.7450894806 %"
+			}]
+		],
+		"Market Cap": "$119,116,252,263",
+		"Coin URL": "https://coinmarketcap.com/currencies/ethereum/",
+		"Coin ID": "2",
+		"Price": "$1228.88",
+		"Change": "1.29%"
+	}
+}, {
+	"Ripple": {
+		"Differnce": [
+			[{
+				"pair": "XRP/KRW",
+				"Coinrail": 2.04176,
+				"max diff": "30.7372071154 %",
+				"Bithumb": 2.66934
+			}, {
+				"pair": "XRP/KRW",
+				"Coinone": 2.6891,
+				"Coinrail": 2.04176,
+				"max diff": "31.7049996082 %"
+			}, {
+				"pair": "XRP/KRW",
+				"Coinrail": 2.04176,
+				"max diff": "31.9812318784 %",
+				"Korbit": 2.69474
+			}],
+			[{
+				"pair": "XRP/USDT",
+				"Huobi": 2.01137,
+				"max diff": "20.3405202459 %",
+				"Gate.io": 2.52496
+			}, {
+				"pair": "XRP/USDT",
+				"Poloniex": 1.99831,
+				"max diff": "20.8577561625 %",
+				"Gate.io": 2.52496
+			}, {
+				"pair": "XRP/USDT",
+				"max diff": "20.7896362715 %",
+				"Gate.io": 2.52496,
+				"Bittrex": 2.00003
+			}],
+			[{
+				"pair": "XRP/EUR",
+				"CEX.IO": 2.12823,
+				"max diff": "21.2726068141 %",
+				"Kraken": 1.6755
+			}, {
+				"pair": "XRP/EUR",
+				"max diff": "29.8205198015 %",
+				"Kraken": 1.6755,
+				"Bitsane": 2.38745
+			}, {
+				"pair": "XRP/EUR",
+				"max diff": "23.1925846807 %",
+				"Kraken": 1.6755,
+				"BitFlip": 2.18143
+			}],
+			[{
+				"pair": "XRP/BTC",
+				"Binance": 2.03824,
+				"max diff": "23.0716391209 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Binance": 2.03824,
+				"BCEX": 1.41006,
+				"max diff": "44.5498773102 %"
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "23.2244964201 %",
+				"Gate.io": 2.64953,
+				"Bittrex": 2.03419
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "44.2626554898 %",
+				"Bittrex": 2.03419
+			}, {
+				"pair": "XRP/BTC",
+				"Poloniex": 2.03112,
+				"max diff": "23.3403660272 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Poloniex": 2.03112,
+				"BCEX": 1.41006,
+				"max diff": "44.0449342581 %"
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "23.4456677222 %",
+				"Gate.io": 2.64953,
+				"HitBTC": 2.02833
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "43.8470703374 %",
+				"HitBTC": 2.02833
+			}, {
+				"pair": "XRP/BTC",
+				"Bitfinex": 2.02959,
+				"max diff": "23.398112118 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"Bitfinex": 2.02959,
+				"max diff": "43.9364282371 %"
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "23.303378335 %",
+				"Gate.io": 2.64953,
+				"Bitstamp": 2.0321
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "44.1144348467 %",
+				"Bitstamp": 2.0321
+			}, {
+				"pair": "XRP/BTC",
+				"Qryptos": 2.16025,
+				"Kraken": 1.70485,
+				"max diff": "21.0808934151 %"
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "35.6546255374 %",
+				"Kraken": 1.70485,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Bits Blockchain": 2.14978,
+				"max diff": "20.6965363898 %",
+				"Kraken": 1.70485
+			}, {
+				"pair": "XRP/BTC",
+				"Tripe Dice Exchange": 2.14978,
+				"max diff": "20.6965363898 %",
+				"Kraken": 1.70485
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "20.9062025729 %",
+				"Kraken": 1.70485
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "23.1225367737 %",
+				"Kraken": 1.70485,
+				"BitFlip": 2.21762
+			}, {
+				"pair": "XRP/BTC",
+				"Huobi": 2.05778,
+				"max diff": "22.3341498303 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Huobi": 2.05778,
+				"max diff": "45.9356339447 %",
+				"BCEX": 1.41006
+			}, {
+				"pair": "XRP/BTC",
+				"Exmo": 2.05206,
+				"max diff": "22.5500371764 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"Exmo": 2.05206,
+				"max diff": "45.5299774478 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Coinrail": 2.03831,
+				"max diff": "23.0689971429 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"Coinrail": 2.03831,
+				"max diff": "44.5548416379 %"
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "22.3341498303 %",
+				"CEX.IO": 2.05778,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "45.9356339447 %",
+				"CEX.IO": 2.05778
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "21.6344030828 %",
+				"Gatehub": 2.07632,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "47.2504716111 %",
+				"Gatehub": 2.07632
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "22.5500371764 %",
+				"Bitcoin Indonesia": 2.05206,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "45.5299774478 %",
+				"Bitcoin Indonesia": 2.05206
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "22.6134446487 %",
+				"Bitsane": 2.05038,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "45.4108335815 %",
+				"Bitsane": 2.05038
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "22.5130494842 %",
+				"Gate.io": 2.64953,
+				"Bitstamp (Ripple Gateway)": 2.05304
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "45.5994780364 %",
+				"Bitstamp (Ripple Gateway)": 2.05304
+			}, {
+				"pair": "XRP/BTC",
+				"BTC Markets": 2.05206,
+				"max diff": "22.5500371764 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BTC Markets": 2.05206,
+				"BCEX": 1.41006,
+				"max diff": "45.5299774478 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Bitso": 2.06016,
+				"max diff": "22.244322578 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Bitso": 2.06016,
+				"max diff": "46.1044210885 %",
+				"BCEX": 1.41006
+			}, {
+				"pair": "XRP/BTC",
+				"AEX": 2.06602,
+				"max diff": "22.0231512759 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"AEX": 2.06602,
+				"BCEX": 1.41006,
+				"max diff": "46.5200062409 %"
+			}, {
+				"pair": "XRP/BTC",
+				"ZB.COM": 2.02582,
+				"max diff": "23.5404015052 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"ZB.COM": 2.02582,
+				"max diff": "43.6690637278 %"
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"Qryptos": 2.16025,
+				"max diff": "53.2027005943 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Bits Blockchain": 2.14978,
+				"max diff": "23.2465647648 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Tripe Dice Exchange": 2.14978,
+				"max diff": "23.2465647648 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Abucoins": 2.06253,
+				"max diff": "28.4601920942 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Mr. Exchange": 2.01599,
+				"max diff": "31.4257511198 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"max diff": "39.8353344768 %",
+				"CoinEgg": 1.89475,
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Exrates": 2.07502,
+				"max diff": "27.6869620534 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "87.9019332511 %",
+				"Gate.io": 2.64953
+			}, {
+				"pair": "XRP/BTC",
+				"Bits Blockchain": 2.14978,
+				"BCEX": 1.41006,
+				"max diff": "52.4601789995 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Tripe Dice Exchange": 2.14978,
+				"BCEX": 1.41006,
+				"max diff": "52.4601789995 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Abucoins": 2.06253,
+				"BCEX": 1.41006,
+				"max diff": "46.2724990426 %"
+			}, {
+				"pair": "XRP/BTC",
+				"Mr. Exchange": 2.01599,
+				"BCEX": 1.41006,
+				"max diff": "42.9719302725 %"
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "34.3737145937 %",
+				"CoinEgg": 1.89475
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"Exrates": 2.07502,
+				"max diff": "47.1582769528 %"
+			}, {
+				"pair": "XRP/BTC",
+				"BCEX": 1.41006,
+				"max diff": "36.4156167423 %",
+				"BitFlip": 2.21762
+			}],
+			[{
+				"pair": "XRP/USD",
+				"Bitfinex": 1.9897,
+				"Kraken": 1.64406,
+				"max diff": "21.0235636169 %"
+			}, {
+				"pair": "XRP/USD",
+				"max diff": "22.8665620476 %",
+				"Kraken": 1.64406,
+				"Bitstamp": 2.02
+			}, {
+				"pair": "XRP/USD",
+				"CEX.IO": 2.2165,
+				"max diff": "25.8263027295 %",
+				"Kraken": 1.64406
+			}, {
+				"pair": "XRP/USD",
+				"Exmo": 2.2411,
+				"Kraken": 1.64406,
+				"max diff": "26.6404890456 %"
+			}, {
+				"pair": "XRP/USD",
+				"max diff": "27.7336263736 %",
+				"Kraken": 1.64406,
+				"Bitsane": 2.275
+			}, {
+				"pair": "XRP/USD",
+				"Mr. Exchange": 2.12893,
+				"max diff": "22.7752908738 %",
+				"Kraken": 1.64406
+			}, {
+				"pair": "XRP/USD",
+				"max diff": "30.0102171137 %",
+				"Kraken": 1.64406,
+				"BitFlip": 2.349
+			}, {
+				"pair": "XRP/USD",
+				"The Rock Trading": 2.17391,
+				"Kraken": 1.64406,
+				"max diff": "24.3731341224 %"
+			}]
+		],
+		"Market Cap": "$80,060,636,882",
+		"Coin URL": "https://coinmarketcap.com/currencies/ripple/",
+		"Coin ID": "3",
+		"Price": "$2.07",
+		"Change": "17.94%"
+	}
+}, {
+	"Bitcoin Cash": {
+		"Differnce": [
+			[{
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "120.103101411 %",
+				"HitBTC": 2630.1
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "119.813547124 %",
+				"Bit-Z": 2626.64
+			}, {
+				"pair": "BCH/BTC",
+				"Poloniex": 2631.38,
+				"BITHOLIC": 1194.94,
+				"max diff": "120.21021976 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"Bitfinex": 2631.24,
+				"max diff": "120.198503691 %"
+			}, {
+				"pair": "BCH/BTC",
+				"Huobi": 2648.63,
+				"max diff": "121.653806886 %",
+				"BITHOLIC": 1194.94
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "109.736053693 %",
+				"Kraken": 2506.22
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "121.378479254 %",
+				"Bitstamp": 2645.34
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "118.811823188 %",
+				"CoinEgg": 2614.67
+			}, {
+				"pair": "BCH/BTC",
+				"Livecoin": 2638.36,
+				"BITHOLIC": 1194.94,
+				"max diff": "120.794349507 %"
+			}, {
+				"pair": "BCH/BTC",
+				"CoolCoin": 2719.33,
+				"BITHOLIC": 1194.94,
+				"max diff": "127.570421946 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"Exmo": 2617.44,
+				"max diff": "119.04363399 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"Exrates": 2533.95,
+				"max diff": "112.056672302 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "120.915694512 %",
+				"Kucoin": 2639.81
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"WEX": 2624.4,
+				"max diff": "119.626090013 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "121.378479254 %",
+				"bitFlyer": 2645.34
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "121.401911393 %",
+				"ChaoEX": 2645.62
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "120.738279746 %",
+				"Cryptopia": 2637.69
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "119.719818568 %",
+				"CEX.IO": 2625.52
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "127.803906472 %",
+				"Zaif": 2722.12
+			}, {
+				"pair": "BCH/BTC",
+				"Coinsquare": 2564.13,
+				"BITHOLIC": 1194.94,
+				"max diff": "114.582322125 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "104.43955345 %",
+				"xBTCe": 2442.93
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "118.692151907 %",
+				"Gate.io": 2613.24
+			}, {
+				"pair": "BCH/BTC",
+				"Bitso": 2603.46,
+				"max diff": "117.873700772 %",
+				"BITHOLIC": 1194.94
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "117.406731719 %",
+				"CoinExchange": 2597.88
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "118.528126935 %",
+				"Bitsane": 2611.28
+			}, {
+				"pair": "BCH/BTC",
+				"Tidex": 2617.22,
+				"BITHOLIC": 1194.94,
+				"max diff": "119.025223024 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BTC Markets": 2624.4,
+				"BITHOLIC": 1194.94,
+				"max diff": "119.626090013 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "122.056337557 %",
+				"BigONE": 2653.44
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"The Rock Trading": 2606.81,
+				"max diff": "118.154049576 %"
+			}, {
+				"pair": "BCH/BTC",
+				"Stocks.Exchange": 2638.36,
+				"BITHOLIC": 1194.94,
+				"max diff": "120.794349507 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "114.953888898 %",
+				"Mercatox": 2568.57
+			}, {
+				"pair": "BCH/BTC",
+				"CryptoBridge": 2580.81,
+				"BITHOLIC": 1194.94,
+				"max diff": "115.978208111 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "114.953052036 %",
+				"Trade Satoshi": 2568.56
+			}, {
+				"pair": "BCH/BTC",
+				"CoinFalcon": 2597.32,
+				"max diff": "117.359867441 %",
+				"BITHOLIC": 1194.94
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "113.785629404 %",
+				"Gatecoin": 2554.61
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"Kuna": 2638.36,
+				"max diff": "120.794349507 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"Qryptos": 2455.35,
+				"max diff": "105.478936181 %"
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "115.572329991 %",
+				"BtcTrade.im": 2575.96
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "98.5982559794 %",
+				"COSS": 2373.13
+			}, {
+				"pair": "BCH/BTC",
+				"SouthXchange": 2556.26,
+				"BITHOLIC": 1194.94,
+				"max diff": "113.923711651 %"
+			}, {
+				"pair": "BCH/BTC",
+				"SurBTC": 2617.14,
+				"BITHOLIC": 1194.94,
+				"max diff": "119.018528127 %"
+			}, {
+				"pair": "BCH/BTC",
+				"QBTC": 2304.04,
+				"max diff": "21.1723754796 %",
+				"Braziliex": 2791.86
+			}, {
+				"pair": "BCH/BTC",
+				"BITHOLIC": 1194.94,
+				"max diff": "133.640182771 %",
+				"Braziliex": 2791.86
+			}, {
+				"pair": "BCH/BTC",
+				"QBTC": 2304.04,
+				"max diff": "92.8163757176 %",
+				"BITHOLIC": 1194.94
+			}],
+			[{
+				"pair": "BCH/LTC",
+				"max diff": "30.6532048985 %",
+				"Trade Satoshi": 3099.29,
+				"Cryptopia": 2372.15
+			}],
+			[{
+				"pair": "BCH/KRW",
+				"Coinnest": 2826.0,
+				"max diff": "22.2239915074 %",
+				"Bithumb": 3454.05
+			}, {
+				"pair": "BCH/KRW",
+				"Coinrail": 2728.62,
+				"max diff": "26.5859665325 %",
+				"Bithumb": 3454.05
+			}, {
+				"pair": "BCH/KRW",
+				"Coinnest": 2826.0,
+				"Coinone": 3489.81,
+				"max diff": "23.4893842887 %"
+			}, {
+				"pair": "BCH/KRW",
+				"Coinone": 3489.81,
+				"Coinrail": 2728.62,
+				"max diff": "27.8965191196 %"
+			}, {
+				"pair": "BCH/KRW",
+				"Coinnest": 2826.0,
+				"max diff": "24.1050955414 %",
+				"Korbit": 3507.21
+			}, {
+				"pair": "BCH/KRW",
+				"Coinrail": 2728.62,
+				"max diff": "28.5342041032 %",
+				"Korbit": 3507.21
+			}, {
+				"pair": "BCH/KRW",
+				"Coinrail": 2728.62,
+				"GOPAX": 3462.71,
+				"max diff": "21.1998694664 %"
+			}]
+		],
+		"Market Cap": "$43,523,914,811",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitcoin-cash/",
+		"Coin ID": "4",
+		"Price": "$2574.26",
+		"Change": "2.97%"
+	}
+}, {
+	"Cardano": {
+		"Differnce": [
+			[{
+				"pair": "ADA/BTC",
+				"max diff": "29.0240632151 %",
+				"Gate.io": 1.11872,
+				"Bittrex": 0.794022
+			}, {
+				"pair": "ADA/BTC",
+				"Binance": 0.799885,
+				"max diff": "28.4999821224 %",
+				"Gate.io": 1.11872
+			}],
+			[{
+				"pair": "ADA/USDT",
+				"max diff": "30.2071062132 %",
+				"Gate.io": 1.10523,
+				"Bittrex": 0.771372
+			}]
+		],
+		"Market Cap": "$19,051,185,504",
+		"Coin URL": "https://coinmarketcap.com/currencies/cardano/",
+		"Coin ID": "5",
+		"Price": "$0.734799",
+		"Change": "5.46%"
+	}
+}, {
+	"Litecoin": {
+		"Differnce": [
+			[{
+				"pair": "LTC/CNY",
+				"RippleFox": 290.463,
+				"OKCoin.cn": 52.6161,
+				"max diff": "81.8854380765 %"
+			}],
+			[{
+				"pair": "ZEIT/LTC",
+				"max diff": "23.8636857108 %",
+				"Trade Satoshi": 438.316,
+				"Cryptopia": 575.699
+			}, {
+				"pair": "ZEIT/LTC",
+				"SouthXchange": 453.786,
+				"max diff": "21.1765175899 %",
+				"Cryptopia": 575.699
+			}],
+			[{
+				"pair": "XVG/LTC",
+				"max diff": "23.321201709 %",
+				"Trade Satoshi": 272.768,
+				"Cryptopia": 221.185
+			}],
+			[{
+				"pair": "PIGGY/LTC",
+				"max diff": "48.3766175586 %",
+				"Trade Satoshi": 201.659,
+				"Cryptopia": 390.635
+			}],
+			[{
+				"pair": "DOT/LTC",
+				"max diff": "69.7027701819 %",
+				"Trade Satoshi": 2102.75,
+				"Cryptopia": 637.075
+			}],
+			[{
+				"pair": "LTC/BTC",
+				"OKEx": 239.672,
+				"max diff": "20.0629189168 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"OKEx": 239.672,
+				"max diff": "299.278981511 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"OKEx": 239.672,
+				"BITHOLIC": 132.393,
+				"max diff": "81.0307191468 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Binance": 238.569,
+				"max diff": "297.441450567 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Binance": 238.569,
+				"BITHOLIC": 132.393,
+				"max diff": "80.1975935284 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.373147059 %",
+				"Bit-Z": 238.528
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.1666251237 %",
+				"Bit-Z": 238.528
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.674682056 %",
+				"Bittrex": 238.709
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.3033393004 %",
+				"Bittrex": 238.709
+			}, {
+				"pair": "LTC/BTC",
+				"Poloniex": 239.065,
+				"max diff": "298.267756413 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Poloniex": 239.065,
+				"BITHOLIC": 132.393,
+				"max diff": "80.5722356922 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Bitfinex": 238.904,
+				"max diff": "297.999540201 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Bitfinex": 238.904,
+				"max diff": "80.4506280544 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"GDAX": 239.267,
+				"max diff": "298.604276133 %"
+			}, {
+				"pair": "LTC/BTC",
+				"GDAX": 239.267,
+				"max diff": "80.7248117348 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "296.196993979 %",
+				"Cryptopia": 237.822
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "79.6333643017 %",
+				"Cryptopia": 237.822
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "291.38742749 %",
+				"Kraken": 234.935
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "77.4527354165 %",
+				"Kraken": 234.935
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "296.816723364 %",
+				"Kucoin": 238.194
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "79.9143459246 %",
+				"Kucoin": 238.194
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"WEX": 238.151,
+				"max diff": "296.745087978 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"WEX": 238.151,
+				"max diff": "79.8818668661 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Huobi": 239.651,
+				"max diff": "20.0523990342 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Huobi": 239.651,
+				"max diff": "299.243996788 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Huobi": 239.651,
+				"max diff": "81.014857281 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.591385095 %",
+				"Bitstamp": 238.659
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.2655729533 %",
+				"Bitstamp": 238.659
+			}, {
+				"pair": "LTC/BTC",
+				"CoolCoin": 242.464,
+				"max diff": "21.4615623528 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"CoolCoin": 242.464,
+				"max diff": "303.930283776 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"CoolCoin": 242.464,
+				"BITHOLIC": 132.393,
+				"max diff": "83.1395919724 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Bibox": 234.39,
+				"max diff": "290.479490622 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Bibox": 234.39,
+				"max diff": "77.0410822324 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.837507622 %",
+				"HitBTC": 239.407
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.8305575068 %",
+				"HitBTC": 239.407
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.372710583 %",
+				"CoinEgg": 239.128
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.6198212896 %",
+				"CoinEgg": 239.128
+			}, {
+				"pair": "LTC/BTC",
+				"Liqui": 234.768,
+				"max diff": "291.109215643 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Liqui": 234.768,
+				"BITHOLIC": 132.393,
+				"max diff": "77.326595817 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Livecoin": 236.895,
+				"max diff": "294.652668335 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Livecoin": 236.895,
+				"BITHOLIC": 132.393,
+				"max diff": "78.9331762253 %"
+			}, {
+				"pair": "LTC/BTC",
+				"YoBit": 238.402,
+				"max diff": "297.163238719 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"YoBit": 238.402,
+				"BITHOLIC": 132.393,
+				"max diff": "80.0714539288 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.685907154 %",
+				"RightBTC": 239.316
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.761822755 %",
+				"RightBTC": 239.316
+			}, {
+				"pair": "LTC/BTC",
+				"TOPBTC": 239.343,
+				"max diff": "298.730887512 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"TOPBTC": 239.343,
+				"BITHOLIC": 132.393,
+				"max diff": "80.7822165824 %"
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "20.2798288766 %",
+				"CoinExchange": 240.105,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "300.000333188 %",
+				"CoinExchange": 240.105
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "81.3577757132 %",
+				"CoinExchange": 240.105
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Exmo": 238.8,
+				"max diff": "297.826282523 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Exmo": 238.8,
+				"max diff": "80.3720740523 %"
+			}, {
+				"pair": "LTC/BTC",
+				"CoinFalcon": 239.686,
+				"max diff": "20.0699321718 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"CoinFalcon": 239.686,
+				"max diff": "299.30230466 %"
+			}, {
+				"pair": "LTC/BTC",
+				"CoinFalcon": 239.686,
+				"max diff": "81.041293724 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Coinsquare": 238.779,
+				"max diff": "297.7912978 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Coinsquare": 238.779,
+				"BITHOLIC": 132.393,
+				"max diff": "80.3562121864 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Coinut": 238.849,
+				"max diff": "297.907913544 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Coinut": 238.849,
+				"max diff": "80.4090850725 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.650922431 %",
+				"EXX": 239.295
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.7459608892 %",
+				"EXX": 239.295
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "294.760954383 %",
+				"Bitsane": 236.96
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "78.9822724766 %",
+				"Bitsane": 236.96
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.139479094 %",
+				"Gate.io": 238.988
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.5140755176 %",
+				"Gate.io": 238.988
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "295.583928351 %",
+				"BitGrail": 237.454
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "79.3554039866 %",
+				"BitGrail": 237.454
+			}, {
+				"pair": "LTC/BTC",
+				"AEX": 237.313,
+				"max diff": "295.349030923 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"AEX": 237.313,
+				"BITHOLIC": 132.393,
+				"max diff": "79.2489028876 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BTC Markets": 238.695,
+				"max diff": "297.651358907 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"BTC Markets": 238.695,
+				"BITHOLIC": 132.393,
+				"max diff": "80.2927647232 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Stocks.Exchange": 247.085,
+				"max diff": "23.7764374668 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Stocks.Exchange": 247.085,
+				"max diff": "311.62858885 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Stocks.Exchange": 247.085,
+				"BITHOLIC": 132.393,
+				"max diff": "86.6299577772 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "276.675518357 %",
+				"ChaoEX": 226.104
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "70.7824431805 %",
+				"ChaoEX": 226.104
+			}, {
+				"pair": "LTC/BTC",
+				"CryptoBridge": 233.279,
+				"max diff": "288.628632164 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"CryptoBridge": 233.279,
+				"BITHOLIC": 132.393,
+				"max diff": "76.2019139985 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.116155945 %",
+				"Bitcoin Indonesia": 238.974
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.5035009404 %",
+				"Bitcoin Indonesia": 238.974
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "25.7341375199 %",
+				"CoinsMarkets": 199.622,
+				"xBTCe": 250.993
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "318.139079269 %",
+				"xBTCe": 250.993
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "89.5817754715 %",
+				"xBTCe": 250.993
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Qryptos": 233.823,
+				"max diff": "289.534903092 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Qryptos": 233.823,
+				"max diff": "76.6128118556 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "294.187871296 %",
+				"Bleutrade": 236.616
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "78.7224400082 %",
+				"Bleutrade": 236.616
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "277.919974944 %",
+				"COSS": 226.851
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "71.3466724072 %",
+				"COSS": 226.851
+			}, {
+				"pair": "LTC/BTC",
+				"ZB.COM": 239.561,
+				"max diff": "20.0073138231 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"ZB.COM": 239.561,
+				"max diff": "299.094062259 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"ZB.COM": 239.561,
+				"max diff": "80.9468778561 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Exrates": 238.5,
+				"max diff": "297.326500761 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Exrates": 238.5,
+				"max diff": "80.1454759693 %"
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "20.2733165683 %",
+				"CoinsMarkets": 199.622,
+				"LocalTrade": 240.092
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "299.978675978 %",
+				"LocalTrade": 240.092
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "81.347956463 %",
+				"LocalTrade": 240.092
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "21.389926962 %",
+				"BX Thailand": 242.321,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "303.69205447 %",
+				"BX Thailand": 242.321
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "83.0315802195 %",
+				"BX Thailand": 242.321
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "20.9791505946 %",
+				"Trade Satoshi": 241.501,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "302.32598432 %",
+				"Trade Satoshi": 241.501
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "82.412212126 %",
+				"Trade Satoshi": 241.501
+			}, {
+				"pair": "LTC/BTC",
+				"Tidex": 237.313,
+				"max diff": "295.349030923 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Tidex": 237.313,
+				"BITHOLIC": 132.393,
+				"max diff": "79.2489028876 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Bitso": 236.292,
+				"max diff": "293.648106993 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Bitso": 236.292,
+				"max diff": "78.4777140785 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Abucoins": 238.447,
+				"max diff": "297.238205983 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Abucoins": 238.447,
+				"BITHOLIC": 132.393,
+				"max diff": "80.1054436413 %"
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "22.9363497009 %",
+				"Bitbank": 245.408,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "308.8348088 %",
+				"Bitbank": 245.408
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "85.3632744934 %",
+				"Bitbank": 245.408
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "20.1400647223 %",
+				"CoinsMarkets": 199.622,
+				"Coinbene": 239.826
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "299.535536149 %",
+				"Coinbene": 239.826
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "81.147039496 %",
+				"Coinbene": 239.826
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"BTC-Alpha": 238.904,
+				"max diff": "297.999540201 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"BTC-Alpha": 238.904,
+				"max diff": "80.4506280544 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Tripe Dice Exchange": 238.569,
+				"max diff": "297.441450567 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Tripe Dice Exchange": 238.569,
+				"BITHOLIC": 132.393,
+				"max diff": "80.1975935284 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Bits Blockchain": 238.569,
+				"max diff": "297.441450567 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Bits Blockchain": 238.569,
+				"BITHOLIC": 132.393,
+				"max diff": "80.1975935284 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "286.991013924 %",
+				"Allcoin": 232.296
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "75.4594276132 %",
+				"Allcoin": 232.296
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "298.839173561 %",
+				"Gatecoin": 239.408
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.8313128338 %",
+				"Gatecoin": 239.408
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "296.976653528 %",
+				"BigONE": 238.29
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "79.9868573112 %",
+				"BigONE": 238.29
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Bitlish": 237.173,
+				"max diff": "295.115799434 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Bitlish": 237.173,
+				"max diff": "79.1431571156 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "21.8182364669 %",
+				"CoinsMarkets": 199.622,
+				"DSX": 243.176
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "305.116432491 %",
+				"DSX": 243.176
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "83.677384756 %",
+				"DSX": 243.176
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.456444019 %",
+				"C-CEX": 238.578
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.2043914708 %",
+				"C-CEX": 238.578
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "24.4757591849 %",
+				"Mercatox": 248.481,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "313.954239982 %",
+				"Mercatox": 248.481
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "87.68439419 %",
+				"Mercatox": 248.481
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Waves Decentralized Exchange": 233.125,
+				"max diff": "288.372077526 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"Waves Decentralized Exchange": 233.125,
+				"max diff": "76.0855936492 %"
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "20.4195930308 %",
+				"BitMarket": 240.384,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "300.465130226 %",
+				"BitMarket": 240.384
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "81.5685119304 %",
+				"BitMarket": 240.384
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "290.697728658 %",
+				"BtcTrade.im": 234.521
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "77.140030062 %",
+				"BtcTrade.im": 234.521
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"The Rock Trading": 235.917,
+				"max diff": "293.023379791 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"The Rock Trading": 235.917,
+				"max diff": "78.1944664748 %"
+			}, {
+				"pair": "LTC/BTC",
+				"SouthXchange": 236.123,
+				"max diff": "293.366563267 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"SouthXchange": 236.123,
+				"BITHOLIC": 132.393,
+				"max diff": "78.3500638251 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "280.235630441 %",
+				"OpenLedger DEX": 228.241
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "72.3965768583 %",
+				"OpenLedger DEX": 228.241
+			}, {
+				"pair": "LTC/BTC",
+				"Mr. Exchange": 239.759,
+				"max diff": "20.1065012874 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Mr. Exchange": 239.759,
+				"max diff": "299.423918222 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Mr. Exchange": 239.759,
+				"BITHOLIC": 132.393,
+				"max diff": "81.0964325908 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "267.442883274 %",
+				"BitFlip": 220.562
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "66.5964212609 %",
+				"BitFlip": 220.562
+			}, {
+				"pair": "LTC/BTC",
+				"BCEX": 252.641,
+				"max diff": "26.5596978289 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"BCEX": 252.641,
+				"max diff": "320.884547081 %"
+			}, {
+				"pair": "LTC/BTC",
+				"BCEX": 252.641,
+				"max diff": "90.826554274 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.674682056 %",
+				"CoinsBank": 238.709
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.3033393004 %",
+				"CoinsBank": 238.709
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "297.069946124 %",
+				"Cryptox": 238.346
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "80.02915562 %",
+				"Cryptox": 238.346
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"Tux Exchange": 234.521,
+				"max diff": "290.697728658 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Tux Exchange": 234.521,
+				"max diff": "77.140030062 %",
+				"BITHOLIC": 132.393
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "295.349030923 %",
+				"Braziliex": 237.313
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "79.2489028876 %",
+				"Braziliex": 237.313
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "24.4757591849 %",
+				"FreiExchange": 248.481,
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "313.954239982 %",
+				"FreiExchange": 248.481
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "87.68439419 %",
+				"FreiExchange": 248.481
+			}, {
+				"pair": "LTC/BTC",
+				"Coingi": 238.569,
+				"max diff": "297.441450567 %",
+				"Dgtmarket": 60.0262
+			}, {
+				"pair": "LTC/BTC",
+				"Coingi": 238.569,
+				"BITHOLIC": 132.393,
+				"max diff": "80.1975935284 %"
+			}, {
+				"pair": "LTC/BTC",
+				"max diff": "23.2799991985 %",
+				"CoinsMarkets": 199.622,
+				"Bisq": 246.094
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "309.977643096 %",
+				"Bisq": 246.094
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "85.8814287764 %",
+				"Bisq": 246.094
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"max diff": "232.558116289 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"QBTC": 260.863,
+				"max diff": "23.4763074871 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"BITHOLIC": 132.393,
+				"max diff": "50.7798750689 %",
+				"CoinsMarkets": 199.622
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"QBTC": 260.863,
+				"max diff": "76.989377566 %"
+			}, {
+				"pair": "LTC/BTC",
+				"Dgtmarket": 60.0262,
+				"BITHOLIC": 132.393,
+				"max diff": "54.660593838 %"
+			}, {
+				"pair": "LTC/BTC",
+				"QBTC": 260.863,
+				"max diff": "97.0368524016 %",
+				"BITHOLIC": 132.393
+			}],
+			[{
+				"pair": "LTC/KRW",
+				"Coinrail": 243.458,
+				"max diff": "28.8312563153 %",
+				"Bithumb": 313.65
+			}, {
+				"pair": "LTC/KRW",
+				"Coinone": 316.896,
+				"Coinrail": 243.458,
+				"max diff": "30.1645458354 %"
+			}, {
+				"pair": "LTC/KRW",
+				"Coinrail": 243.458,
+				"GOPAX": 323.623,
+				"max diff": "24.7711071216 %"
+			}],
+			[{
+				"pair": "LTC/UAH",
+				"BitFlip": 491.996,
+				"max diff": "49.4062959861 %",
+				"BTC Trade UA": 248.919
+			}],
+			[{
+				"pair": "NKA/LTC",
+				"max diff": "20.0001610578 %",
+				"Trade Satoshi": 198.686,
+				"Cryptopia": 248.358
+			}],
+			[{
+				"pair": "RDD/LTC",
+				"max diff": "47.2619236884 %",
+				"Trade Satoshi": 132.689,
+				"Cryptopia": 251.6
+			}],
+			[{
+				"pair": "LTC/ETH",
+				"Binance": 236.139,
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "32.8085430882 %"
+			}, {
+				"pair": "LTC/ETH",
+				"Binance": 236.139,
+				"max diff": "21.717293941 %",
+				"Gatecoin": 301.649
+			}, {
+				"pair": "LTC/ETH",
+				"Binance": 236.139,
+				"max diff": "53.0499564576 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Waves Decentralized Exchange": 351.442,
+				"Bibox": 243.406,
+				"max diff": "30.740776572 %"
+			}, {
+				"pair": "LTC/ETH",
+				"Bibox": 243.406,
+				"max diff": "51.6051042035 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "32.7012707645 %",
+				"Bittrex": 236.516
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "21.592314246 %",
+				"Gatecoin": 301.649,
+				"Bittrex": 236.516
+			}, {
+				"pair": "LTC/ETH",
+				"TDAX": 502.958,
+				"max diff": "52.9749999006 %",
+				"Bittrex": 236.516
+			}, {
+				"pair": "LTC/ETH",
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "33.0945077708 %",
+				"Kucoin": 235.134
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "22.0504626238 %",
+				"Kucoin": 235.134,
+				"Gatecoin": 301.649
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "53.249774335 %",
+				"Kucoin": 235.134,
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "31.6638307317 %",
+				"HitBTC": 240.162
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "20.3836246764 %",
+				"Gatecoin": 301.649,
+				"HitBTC": 240.162
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "52.2500884766 %",
+				"HitBTC": 240.162,
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"OKEx": 237.67,
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "32.3729093279 %"
+			}, {
+				"pair": "LTC/ETH",
+				"OKEx": 237.67,
+				"max diff": "21.2097504053 %",
+				"Gatecoin": 301.649
+			}, {
+				"pair": "LTC/ETH",
+				"OKEx": 237.67,
+				"max diff": "52.7455572831 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Liqui": 234.121,
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "33.3827487893 %"
+			}, {
+				"pair": "LTC/ETH",
+				"Liqui": 234.121,
+				"max diff": "22.3862833956 %",
+				"Gatecoin": 301.649
+			}, {
+				"pair": "LTC/ETH",
+				"Liqui": 234.121,
+				"max diff": "53.4511828025 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Tidex": 232.786,
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "33.7626123229 %"
+			}, {
+				"pair": "LTC/ETH",
+				"Tidex": 232.786,
+				"max diff": "22.8288507504 %",
+				"Gatecoin": 301.649
+			}, {
+				"pair": "LTC/ETH",
+				"Tidex": 232.786,
+				"max diff": "53.7166125203 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Mr. Exchange": 256.792,
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "26.9318977242 %"
+			}, {
+				"pair": "LTC/ETH",
+				"Mr. Exchange": 256.792,
+				"max diff": "48.9436493703 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"Waves Decentralized Exchange": 351.442,
+				"max diff": "30.1249806147 %",
+				"TDAX": 502.958
+			}, {
+				"pair": "LTC/ETH",
+				"max diff": "40.0250120288 %",
+				"Gatecoin": 301.649,
+				"TDAX": 502.958
+			}],
+			[{
+				"pair": "TRC/LTC",
+				"max diff": "30.0009717328 %",
+				"C-CEX": 254.187,
+				"Cryptopia": 195.527
+			}, {
+				"pair": "TRC/LTC",
+				"max diff": "23.0762875566 %",
+				"Trade Satoshi": 254.183,
+				"Cryptopia": 195.527
+			}],
+			[{
+				"pair": "LTC/USD",
+				"Coingi": 220.61,
+				"max diff": "24.6453016636 %",
+				"BitFlip": 274.98
+			}, {
+				"pair": "LTC/USD",
+				"Coingi": 220.61,
+				"NIX-E": 285.0,
+				"max diff": "22.5929824561 %"
+			}]
+		],
+		"Market Cap": "$13,087,262,569",
+		"Coin URL": "https://coinmarketcap.com/currencies/litecoin/",
+		"Coin ID": "6",
+		"Price": "$239.16",
+		"Change": "2.44%"
+	}
+}, {
+	"NEM": {
+		"Differnce": [
+			[{
+				"pair": "XEM/ETH",
+				"max diff": "34.1210777462 %",
+				"COSS": 2.0747,
+				"HitBTC": 1.36679
+			}, {
+				"pair": "XEM/ETH",
+				"max diff": "33.8974309539 %",
+				"COSS": 2.0747,
+				"Bittrex": 1.37143
+			}, {
+				"pair": "XEM/ETH",
+				"OKEx": 1.39316,
+				"max diff": "32.8500506097 %",
+				"COSS": 2.0747
+			}, {
+				"pair": "XEM/ETH",
+				"Livecoin": 1.40138,
+				"max diff": "32.4538487492 %",
+				"COSS": 2.0747
+			}]
+		],
+		"Market Cap": "$12,446,549,999",
+		"Coin URL": "https://coinmarketcap.com/currencies/nem/",
+		"Coin ID": "7",
+		"Price": "$1.38",
+		"Change": "2.06%"
+	}
+}, {
+	"Stellar": {
+		"Differnce": [
+			[{
+				"pair": "XLM/USD",
+				"Exrates": 0.75,
+				"max diff": "34.7210197124 %",
+				"Gatehub": 0.556706
+			}, {
+				"pair": "XLM/USD",
+				"Exrates": 0.75,
+				"max diff": "32.0041396498 %",
+				"Bitstamp (Ripple Gateway)": 0.568164
+			}],
+			[{
+				"pair": "XLM/BTC",
+				"Binance": 0.691,
+				"max diff": "45.0848567943 %",
+				"Kraken": 0.476273
+			}, {
+				"pair": "XLM/BTC",
+				"Binance": 0.691,
+				"BCEX": 0.558384,
+				"max diff": "23.7499641824 %"
+			}, {
+				"pair": "XLM/BTC",
+				"max diff": "43.9124199776 %",
+				"Kraken": 0.476273,
+				"Bittrex": 0.685416
+			}, {
+				"pair": "XLM/BTC",
+				"BCEX": 0.558384,
+				"max diff": "22.7499355282 %",
+				"Bittrex": 0.685416
+			}, {
+				"pair": "XLM/BTC",
+				"OKEx": 0.697282,
+				"max diff": "31.6957844889 %",
+				"Kraken": 0.476273
+			}, {
+				"pair": "XLM/BTC",
+				"AEX": 0.67006,
+				"max diff": "28.9208429096 %",
+				"Kraken": 0.476273
+			}, {
+				"pair": "XLM/BTC",
+				"Exrates": 0.693317,
+				"Kraken": 0.476273,
+				"max diff": "31.3051605543 %"
+			}, {
+				"pair": "XLM/BTC",
+				"Qryptos": 0.678436,
+				"Kraken": 0.476273,
+				"max diff": "29.7983892364 %"
+			}, {
+				"pair": "XLM/BTC",
+				"max diff": "21.0510437335 %",
+				"Kraken": 0.476273,
+				"Gatehub": 0.603267
+			}, {
+				"pair": "XLM/BTC",
+				"Stellar Decentralized Exchange": 0.646329,
+				"max diff": "26.3110583 %",
+				"Kraken": 0.476273
+			}, {
+				"pair": "XLM/BTC",
+				"max diff": "26.4698753329 %",
+				"Kraken": 0.476273,
+				"CoinEgg": 0.647725
+			}, {
+				"pair": "XLM/BTC",
+				"max diff": "23.1722326805 %",
+				"Kraken": 0.476273,
+				"Bitstamp (Ripple Gateway)": 0.619923
+			}, {
+				"pair": "XLM/BTC",
+				"OKEx": 0.697282,
+				"BCEX": 0.558384,
+				"max diff": "24.8749964182 %"
+			}, {
+				"pair": "XLM/BTC",
+				"BCEX": 0.558384,
+				"Exrates": 0.693317,
+				"max diff": "24.1649116021 %"
+			}, {
+				"pair": "XLM/BTC",
+				"BCEX": 0.558384,
+				"Qryptos": 0.678436,
+				"max diff": "21.4998997106 %"
+			}]
+		],
+		"Market Cap": "$12,021,226,090",
+		"Coin URL": "https://coinmarketcap.com/currencies/stellar/",
+		"Coin ID": "8",
+		"Price": "$0.671950",
+		"Change": "33.34%"
+	}
+}, {
+	"EOS": {
+		"Differnce": [
+			[{
+				"pair": "EOS/ETH",
+				"Binance": 14.1205,
+				"max diff": "35.787094913 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"Binance": 14.1205,
+				"max diff": "211.943569374 %",
+				"IDEX": 4.52662
+			}, {
+				"pair": "EOS/ETH",
+				"Bitfinex": 14.2123,
+				"Kraken": 10.399,
+				"max diff": "36.6698721031 %"
+			}, {
+				"pair": "EOS/ETH",
+				"Bitfinex": 14.2123,
+				"IDEX": 4.52662,
+				"max diff": "213.971572608 %"
+			}, {
+				"pair": "EOS/ETH",
+				"Huobi": 14.1515,
+				"max diff": "36.0852005 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"Huobi": 14.1515,
+				"max diff": "212.628407068 %",
+				"IDEX": 4.52662
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "26.7665741771 %",
+				"Kraken": 10.399,
+				"HitBTC": 14.1998
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "26.6818957373 %",
+				"Kraken": 10.399,
+				"Gate.io": 14.1834
+			}, {
+				"pair": "EOS/ETH",
+				"Bibox": 15.7174,
+				"Kraken": 10.399,
+				"max diff": "33.8376576279 %"
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "27.1982637917 %",
+				"Kraken": 10.399,
+				"Kucoin": 14.284
+			}, {
+				"pair": "EOS/ETH",
+				"Liqui": 14.1662,
+				"max diff": "26.5928760006 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"ChaoEX": 14.1085,
+				"max diff": "26.2926604529 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "26.486494129 %",
+				"Kraken": 10.399,
+				"EXX": 14.1457
+			}, {
+				"pair": "EOS/ETH",
+				"COSS": 15.0887,
+				"max diff": "31.080875092 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "36.3823786714 %",
+				"Kraken": 10.399,
+				"Mercatox": 16.3461
+			}, {
+				"pair": "EOS/ETH",
+				"IDEX": 4.52662,
+				"max diff": "129.72990885 %",
+				"Kraken": 10.399
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "213.695428377 %",
+				"IDEX": 4.52662,
+				"HitBTC": 14.1998
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "213.333127146 %",
+				"IDEX": 4.52662,
+				"Gate.io": 14.1834
+			}, {
+				"pair": "EOS/ETH",
+				"EtherDelta": 12.874,
+				"Bibox": 15.7174,
+				"max diff": "22.0863756408 %"
+			}, {
+				"pair": "EOS/ETH",
+				"Livecoin": 12.5744,
+				"Bibox": 15.7174,
+				"max diff": "24.9952284006 %"
+			}, {
+				"pair": "EOS/ETH",
+				"Bibox": 15.7174,
+				"IDEX": 4.52662,
+				"max diff": "247.221547203 %"
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "215.555535919 %",
+				"IDEX": 4.52662,
+				"Kucoin": 14.284
+			}, {
+				"pair": "EOS/ETH",
+				"Liqui": 14.1662,
+				"max diff": "212.953152683 %",
+				"IDEX": 4.52662
+			}, {
+				"pair": "EOS/ETH",
+				"EtherDelta": 12.874,
+				"max diff": "21.2411523238 %",
+				"Mercatox": 16.3461
+			}, {
+				"pair": "EOS/ETH",
+				"EtherDelta": 12.874,
+				"max diff": "184.406466635 %",
+				"IDEX": 4.52662
+			}, {
+				"pair": "EOS/ETH",
+				"IDEX": 4.52662,
+				"max diff": "211.678470912 %",
+				"ChaoEX": 14.1085
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "212.500276144 %",
+				"IDEX": 4.52662,
+				"EXX": 14.1457
+			}, {
+				"pair": "EOS/ETH",
+				"IDEX": 4.52662,
+				"max diff": "233.332596949 %",
+				"COSS": 15.0887
+			}, {
+				"pair": "EOS/ETH",
+				"Livecoin": 12.5744,
+				"max diff": "23.0740054203 %",
+				"Mercatox": 16.3461
+			}, {
+				"pair": "EOS/ETH",
+				"Livecoin": 12.5744,
+				"max diff": "177.787841701 %",
+				"IDEX": 4.52662
+			}, {
+				"pair": "EOS/ETH",
+				"max diff": "261.110497457 %",
+				"IDEX": 4.52662,
+				"Mercatox": 16.3461
+			}],
+			[{
+				"pair": "EOS/BTC",
+				"Binance": 14.3084,
+				"max diff": "36.7628223509 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Binance": 14.3084,
+				"max diff": "37.3095746126 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"Binance": 14.3084,
+				"max diff": "93.7775683139 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"OKEx": 14.3179,
+				"max diff": "36.8536254325 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"OKEx": 14.3179,
+				"max diff": "37.2679515771 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"OKEx": 14.3179,
+				"max diff": "93.9062260883 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Bitfinex": 14.236,
+				"Kraken": 10.4622,
+				"max diff": "36.0708072872 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"Bitfinex": 14.236,
+				"max diff": "37.6267859568 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Bitfinex": 14.236,
+				"COSS": 7.38393,
+				"max diff": "92.7970606439 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Huobi": 14.2856,
+				"max diff": "36.5448949552 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"Huobi": 14.2856,
+				"max diff": "37.4094698978 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Huobi": 14.2856,
+				"max diff": "93.4687896554 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Coinrail": 15.2358,
+				"Kraken": 10.4622,
+				"max diff": "31.3314693026 %"
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "26.6669937687 %",
+				"Kraken": 10.4622,
+				"HitBTC": 14.2667
+			}, {
+				"pair": "EOS/BTC",
+				"BigONE": 14.2388,
+				"max diff": "26.5233025255 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"ZB.COM": 14.4761,
+				"Kraken": 10.4622,
+				"max diff": "27.7277719828 %"
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "34.0178227938 %",
+				"Kraken": 10.4622,
+				"Bit-Z": 15.8561
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "26.5594069831 %",
+				"Kraken": 10.4622,
+				"Kucoin": 14.2458
+			}, {
+				"pair": "EOS/BTC",
+				"Bibox": 15.4951,
+				"Kraken": 10.4622,
+				"max diff": "32.4805906383 %"
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "28.0468766119 %",
+				"Kraken": 10.4622,
+				"Gate.io": 14.5403
+			}, {
+				"pair": "EOS/BTC",
+				"Liqui": 14.2297,
+				"max diff": "26.4763136257 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "28.0052849249 %",
+				"Kraken": 10.4622,
+				"EXX": 14.5319
+			}, {
+				"pair": "EOS/BTC",
+				"YoBit": 14.5164,
+				"max diff": "27.928412003 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Livecoin": 14.1627,
+				"max diff": "26.1284924485 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Exrates": 14.1506,
+				"Kraken": 10.4622,
+				"max diff": "26.0653258519 %"
+			}, {
+				"pair": "EOS/BTC",
+				"BtcTrade.im": 15.3556,
+				"max diff": "31.8672015421 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "36.4861009088 %",
+				"Kraken": 10.4622,
+				"Mercatox": 16.4723
+			}, {
+				"pair": "EOS/BTC",
+				"CoolCoin": 15.2158,
+				"max diff": "31.2412097951 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "54.1612082072 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "27.2366883659 %",
+				"Kraken": 10.4622,
+				"OpenLedger DEX": 14.3784
+			}, {
+				"pair": "EOS/BTC",
+				"COSS": 7.38393,
+				"max diff": "41.6887754895 %",
+				"Kraken": 10.4622
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"Coinrail": 15.2358,
+				"max diff": "33.2462900731 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Coinrail": 15.2358,
+				"COSS": 7.38393,
+				"max diff": "106.337275678 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "37.4922778316 %",
+				"HitBTC": 14.2667
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "93.212828399 %",
+				"COSS": 7.38393,
+				"HitBTC": 14.2667
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "37.6145181148 %",
+				"BigONE": 14.2388
+			}, {
+				"pair": "EOS/BTC",
+				"COSS": 7.38393,
+				"max diff": "92.83498083 %",
+				"BigONE": 14.2388
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"ZB.COM": 14.4761,
+				"max diff": "36.5748185017 %"
+			}, {
+				"pair": "EOS/BTC",
+				"ZB.COM": 14.4761,
+				"COSS": 7.38393,
+				"max diff": "96.0487166048 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "30.5285249234 %",
+				"Bit-Z": 15.8561
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "114.737951199 %",
+				"COSS": 7.38393,
+				"Bit-Z": 15.8561
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "37.5838485097 %",
+				"Kucoin": 14.2458
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "92.9297812953 %",
+				"COSS": 7.38393,
+				"Kucoin": 14.2458
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"Bibox": 15.4951,
+				"max diff": "32.1102002725 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Bibox": 15.4951,
+				"COSS": 7.38393,
+				"max diff": "109.848955773 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "36.2935344091 %",
+				"Gate.io": 14.5403
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "96.9181723012 %",
+				"COSS": 7.38393,
+				"Gate.io": 14.5403
+			}, {
+				"pair": "EOS/BTC",
+				"Liqui": 14.2297,
+				"max diff": "37.6543886014 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"Liqui": 14.2297,
+				"max diff": "92.7117402251 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "36.3303379352 %",
+				"EXX": 14.5319
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "96.8044117428 %",
+				"COSS": 7.38393,
+				"EXX": 14.5319
+			}, {
+				"pair": "EOS/BTC",
+				"YoBit": 14.5164,
+				"max diff": "36.3982492037 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"YoBit": 14.5164,
+				"max diff": "96.5944964267 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Livecoin": 14.1627,
+				"max diff": "37.947940536 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"Livecoin": 14.1627,
+				"max diff": "91.8043643426 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"Exrates": 14.1506,
+				"max diff": "38.0009551391 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Exrates": 14.1506,
+				"COSS": 7.38393,
+				"max diff": "91.6404949668 %"
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "32.7214016886 %",
+				"BtcTrade.im": 15.3556
+			}, {
+				"pair": "EOS/BTC",
+				"COSS": 7.38393,
+				"max diff": "107.959717928 %",
+				"BtcTrade.im": 15.3556
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "27.8287233996 %",
+				"Mercatox": 16.4723
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "123.083100734 %",
+				"COSS": 7.38393,
+				"Mercatox": 16.4723
+			}, {
+				"pair": "EOS/BTC",
+				"CoolCoin": 15.2158,
+				"max diff": "33.3339175163 %",
+				"Tidex": 22.8239
+			}, {
+				"pair": "EOS/BTC",
+				"CoolCoin": 15.2158,
+				"max diff": "106.066417206 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "58.7374116731 %",
+				"OpenLedger DEX": 14.3784
+			}, {
+				"pair": "EOS/BTC",
+				"Tidex": 22.8239,
+				"max diff": "209.102334394 %",
+				"COSS": 7.38393
+			}, {
+				"pair": "EOS/BTC",
+				"max diff": "94.7255729672 %",
+				"COSS": 7.38393,
+				"OpenLedger DEX": 14.3784
+			}]
+		],
+		"Market Cap": "$8,622,311,701",
+		"Coin URL": "https://coinmarketcap.com/currencies/eos/",
+		"Coin ID": "10",
+		"Price": "$14.40",
+		"Change": "36.92%"
+	}
+}, {
+	"Dash": {
+		"Differnce": [
+			[{
+				"pair": "DASH/DOGE",
+				"max diff": "30.8219240652 %",
+				"Trade Satoshi": 766.263,
+				"Bleutrade": 1002.44
+			}, {
+				"pair": "DASH/DOGE",
+				"max diff": "37.5753156823 %",
+				"Trade Satoshi": 766.263,
+				"Cryptopia": 1227.5
+			}],
+			[{
+				"pair": "DASH/RUB",
+				"Exmo": 1107.2,
+				"max diff": "23.646645059 %",
+				"BitFlip": 1450.1
+			}],
+			[{
+				"pair": "DASH/USD",
+				"Bitfinex": 1041.0,
+				"max diff": "106.699362627 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"Exmo": 1155.7,
+				"max diff": "129.474018625 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"max diff": "21.073480663 %",
+				"Kraken": 999.999,
+				"BitFlip": 1267.0
+			}, {
+				"pair": "DASH/USD",
+				"max diff": "98.5582669817 %",
+				"Kraken": 999.999,
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"Livecoin": 1112.56,
+				"max diff": "120.908206421 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"max diff": "125.993288724 %",
+				"CEX.IO": 1138.17,
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"Quoine": 503.63,
+				"max diff": "108.821952624 %",
+				"xBTCe": 1051.69
+			}, {
+				"pair": "DASH/USD",
+				"Quoine": 503.63,
+				"max diff": "108.458590632 %",
+				"LocalTrade": 1049.86
+			}, {
+				"pair": "DASH/USD",
+				"Exrates": 1038.74,
+				"max diff": "106.250620495 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"YoBit": 1150.0,
+				"max diff": "128.342235371 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"SouthXchange": 1036.46,
+				"max diff": "105.797907194 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"BitBay": 1100.0,
+				"max diff": "118.414312094 %",
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"max diff": "124.236046304 %",
+				"C-CEX": 1129.32,
+				"Quoine": 503.63
+			}, {
+				"pair": "DASH/USD",
+				"Quoine": 503.63,
+				"max diff": "151.573575839 %",
+				"BitFlip": 1267.0
+			}],
+			[{
+				"pair": "DASH/KRW",
+				"Coinrail": 1069.1,
+				"max diff": "29.7951548031 %",
+				"Bithumb": 1387.64
+			}],
+			[{
+				"pair": "DASH/BTC",
+				"max diff": "34.8447563766 %",
+				"COSS": 785.926,
+				"HitBTC": 1059.78
+			}, {
+				"pair": "DASH/BTC",
+				"YoBit": 1052.48,
+				"max diff": "33.9159157478 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Binance": 1055.23,
+				"max diff": "34.2658214641 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "34.9910805852 %",
+				"COSS": 785.926,
+				"Bittrex": 1060.93
+			}, {
+				"pair": "DASH/BTC",
+				"Poloniex": 1062.65,
+				"max diff": "35.2099307059 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Bitfinex": 1059.32,
+				"COSS": 785.926,
+				"max diff": "34.7862266931 %"
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "35.2099307059 %",
+				"COSS": 785.926,
+				"Bit-Z": 1062.65
+			}, {
+				"pair": "DASH/BTC",
+				"Livecoin": 1054.62,
+				"max diff": "34.1882060143 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Huobi": 1056.24,
+				"max diff": "34.3943322908 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Exmo": 1062.46,
+				"COSS": 785.926,
+				"max diff": "35.1857554019 %"
+			}, {
+				"pair": "DASH/BTC",
+				"OKEx": 1056.12,
+				"max diff": "34.3790636778 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"COSS": 785.926,
+				"max diff": "29.4167644282 %",
+				"Kraken": 1017.12
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "32.3979611312 %",
+				"COSS": 785.926,
+				"xBTCe": 1040.55
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "33.0366981115 %",
+				"COSS": 785.926,
+				"Kucoin": 1045.57
+			}, {
+				"pair": "DASH/BTC",
+				"Liqui": 1061.13,
+				"max diff": "35.0165282737 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "34.0546056499 %",
+				"COSS": 785.926,
+				"Cryptopia": 1053.57
+			}, {
+				"pair": "DASH/BTC",
+				"Exrates": 1033.78,
+				"COSS": 785.926,
+				"max diff": "31.5365568769 %"
+			}, {
+				"pair": "DASH/BTC",
+				"COSS": 785.926,
+				"max diff": "33.1932013956 %",
+				"CEX.IO": 1046.8
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "29.1279331642 %",
+				"COSS": 785.926,
+				"Mercatox": 1014.85
+			}, {
+				"pair": "DASH/BTC",
+				"Coinsquare": 1059.56,
+				"max diff": "34.8167639192 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "32.1663871662 %",
+				"COSS": 785.926,
+				"Gate.io": 1038.73
+			}, {
+				"pair": "DASH/BTC",
+				"COSS": 785.926,
+				"max diff": "31.6523438593 %",
+				"CoinExchange": 1034.69
+			}, {
+				"pair": "DASH/BTC",
+				"Tidex": 1051.98,
+				"max diff": "33.8522965266 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"AEX": 1046.97,
+				"max diff": "33.2148319307 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "33.6868865517 %",
+				"COSS": 785.926,
+				"Bleutrade": 1050.68
+			}, {
+				"pair": "DASH/BTC",
+				"Abucoins": 1051.11,
+				"max diff": "33.7415990818 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"BitBay": 1068.51,
+				"max diff": "35.9555479778 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Qryptos": 1019.19,
+				"COSS": 785.926,
+				"max diff": "29.6801480038 %"
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "34.9300061329 %",
+				"COSS": 785.926,
+				"Bitsane": 1060.45
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "30.1445683181 %",
+				"COSS": 785.926,
+				"C-CEX": 1022.84
+			}, {
+				"pair": "DASH/BTC",
+				"SouthXchange": 1056.52,
+				"max diff": "25.6118199372 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "25.2609456427 %",
+				"COSS": 785.926,
+				"Cryptox": 1051.56
+			}, {
+				"pair": "DASH/BTC",
+				"Tux Exchange": 1046.97,
+				"max diff": "24.9332836662 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"Trade Satoshi": 995.319,
+				"max diff": "21.0377778381 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "20.9279863814 %",
+				"COSS": 785.926,
+				"Braziliex": 993.937
+			}, {
+				"pair": "DASH/BTC",
+				"Coingi": 1125.73,
+				"max diff": "30.1852131506 %",
+				"COSS": 785.926
+			}, {
+				"pair": "DASH/BTC",
+				"max diff": "23.1443379621 %",
+				"COSS": 785.926,
+				"Bisq": 1022.6
+			}],
+			[{
+				"pair": "DASH/EUR",
+				"Bittylicious": 1284.26,
+				"max diff": "21.2075436438 %",
+				"Kraken": 1011.9
+			}, {
+				"pair": "DASH/EUR",
+				"max diff": "25.5452167007 %",
+				"Bittylicious": 1284.26,
+				"Bitsane": 956.193
+			}]
+		],
+		"Market Cap": "$8,234,458,175",
+		"Coin URL": "https://coinmarketcap.com/currencies/dash/",
+		"Coin ID": "11",
+		"Price": "$1053.89",
+		"Change": "3.55%"
+	}
+}, {
+	"NEO": {
+		"Differnce": [
+			[{
+				"pair": "NEO/BTC",
+				"Binance": 124.24,
+				"Qryptos": 209.31,
+				"max diff": "40.6430653098 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "39.9455353304 %",
+				"CoinEgg": 125.7
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "41.1743347188 %",
+				"Bittrex": 123.128
+			}, {
+				"pair": "NEO/BTC",
+				"Huobi": 123.752,
+				"Qryptos": 209.31,
+				"max diff": "40.8762123167 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Bitfinex": 123.583,
+				"Qryptos": 209.31,
+				"max diff": "40.9569538006 %"
+			}, {
+				"pair": "NEO/BTC",
+				"OKEx": 123.799,
+				"Qryptos": 209.31,
+				"max diff": "40.8537575844 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "40.3229659357 %",
+				"Kucoin": 124.91
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "40.242702212 %",
+				"HitBTC": 125.078
+			}, {
+				"pair": "NEO/BTC",
+				"Lbank": 125.538,
+				"Qryptos": 209.31,
+				"max diff": "40.0229324925 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "40.6120108929 %",
+				"Cryptopia": 124.305
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "41.3702164254 %",
+				"Gate.io": 122.718
+			}, {
+				"pair": "NEO/BTC",
+				"Exrates": 114.439,
+				"Qryptos": 209.31,
+				"max diff": "45.3255936171 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Livecoin": 124.938,
+				"Qryptos": 209.31,
+				"max diff": "40.3095886484 %"
+			}, {
+				"pair": "NEO/BTC",
+				"CoolCoin": 115.865,
+				"Qryptos": 209.31,
+				"max diff": "44.6443074865 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"BigONE": 122.844,
+				"max diff": "41.3100186327 %"
+			}, {
+				"pair": "NEO/BTC",
+				"Qryptos": 209.31,
+				"max diff": "40.6430653098 %",
+				"Allcoin": 124.24
+			}]
+		],
+		"Market Cap": "$7,902,440,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/neo/",
+		"Coin ID": "12",
+		"Price": "$121.58",
+		"Change": "6.41%"
+	}
+}, {
+	"TRON": {
+		"Differnce": [
+			[{
+				"pair": "TRX/BTC",
+				"Binance": 0.110979,
+				"max diff": "20.4998710565 %",
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"Liqui": 0.108466,
+				"max diff": "22.3000659045 %",
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"max diff": "23.3402103212 %",
+				"CoinEgg": 0.107014,
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"max diff": "21.1001747901 %",
+				"Bit-Z": 0.110141,
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"max diff": "21.6001891172 %",
+				"Gatecoin": 0.109443,
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"max diff": "20.4998710565 %",
+				"HitBTC": 0.110979,
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"OKEx": 0.111537,
+				"max diff": "20.100146136 %",
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"YoBit": 0.110979,
+				"max diff": "20.4998710565 %",
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"Qryptos": 0.108622,
+				"max diff": "22.1883148514 %",
+				"BitFlip": 0.139596
+			}, {
+				"pair": "TRX/BTC",
+				"CoolCoin": 0.0985547,
+				"max diff": "41.6431687175 %",
+				"BitFlip": 0.139596
+			}],
+			[{
+				"pair": "TRX/ETH",
+				"Binance": 0.110387,
+				"Token Store": 0.143343,
+				"max diff": "22.9910075832 %"
+			}, {
+				"pair": "TRX/ETH",
+				"Liqui": 0.10747,
+				"Token Store": 0.143343,
+				"max diff": "25.0259866195 %"
+			}, {
+				"pair": "TRX/ETH",
+				"Token Store": 0.143343,
+				"max diff": "24.131628332 %",
+				"Gatecoin": 0.108752
+			}, {
+				"pair": "TRX/ETH",
+				"Token Store": 0.143343,
+				"max diff": "22.7196305365 %",
+				"HitBTC": 0.110776
+			}, {
+				"pair": "TRX/ETH",
+				"Token Store": 0.143343,
+				"max diff": "24.0262865993 %",
+				"Gate.io": 0.108903
+			}, {
+				"pair": "TRX/ETH",
+				"OKEx": 0.109393,
+				"Token Store": 0.143343,
+				"max diff": "23.6844491883 %"
+			}, {
+				"pair": "TRX/ETH",
+				"Qryptos": 0.112197,
+				"Token Store": 0.143343,
+				"max diff": "21.7283020447 %"
+			}, {
+				"pair": "TRX/ETH",
+				"Token Store": 0.143343,
+				"max diff": "28.6843445442 %",
+				"Bit-Z": 0.102226
+			}, {
+				"pair": "TRX/ETH",
+				"Token Store": 0.143343,
+				"max diff": "29.5451464515 %",
+				"Mercatox": 0.110651
+			}, {
+				"pair": "TRX/ETH",
+				"Tidex": 0.113166,
+				"Token Store": 0.143343,
+				"max diff": "26.6661364721 %"
+			}]
+		],
+		"Market Cap": "$7,247,751,998",
+		"Coin URL": "https://coinmarketcap.com/currencies/tron/",
+		"Coin ID": "13",
+		"Price": "$0.110235",
+		"Change": "0.28%"
+	}
+}, {
+	"Monero": {
+		"Differnce": [
+			[{
+				"pair": "XMR/BTC",
+				"max diff": "92.3893840633 %",
+				"Mercatox": 5010.58,
+				"HitBTC": 381.336
+			}, {
+				"pair": "XMR/BTC",
+				"Poloniex": 380.403,
+				"max diff": "92.4080046621 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Binance": 382.269,
+				"max diff": "92.3707634645 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.4207975923 %",
+				"Mercatox": 5010.58,
+				"Bittrex": 379.762
+			}, {
+				"pair": "XMR/BTC",
+				"Bitfinex": 380.821,
+				"max diff": "92.3996623145 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Livecoin": 381.651,
+				"max diff": "92.383097366 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.4463435371 %",
+				"Kraken": 378.482,
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Exmo": 382.104,
+				"max diff": "92.3740564965 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"OKEx": 381.824,
+				"max diff": "92.3796446719 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.3652152046 %",
+				"Mercatox": 5010.58,
+				"Cryptopia": 382.547
+			}, {
+				"pair": "XMR/BTC",
+				"BTC-Alpha": 380.821,
+				"max diff": "92.3996623145 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Exrates": 373.496,
+				"max diff": "92.5458529751 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.4083239864 %",
+				"Mercatox": 5010.58,
+				"Gate.io": 380.387
+			}, {
+				"pair": "XMR/BTC",
+				"Qryptos": 382.452,
+				"max diff": "92.3671111927 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Abucoins": 382.338,
+				"max diff": "92.3693863784 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.6462006394 %",
+				"Mercatox": 5010.58,
+				"Bisq": 368.468
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "93.0238415513 %",
+				"Braziliex": 349.546,
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"SouthXchange": 377.571,
+				"max diff": "92.464525065 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"Tux Exchange": 376.002,
+				"max diff": "92.4958388051 %",
+				"Mercatox": 5010.58
+			}, {
+				"pair": "XMR/BTC",
+				"max diff": "92.4446870422 %",
+				"Mercatox": 5010.58,
+				"Cryptox": 378.565
+			}]
+		],
+		"Market Cap": "$5,887,459,156",
+		"Coin URL": "https://coinmarketcap.com/currencies/monero/",
+		"Coin ID": "14",
+		"Price": "$377.57",
+		"Change": "2.05%"
+	}
+}, {
+	"Bitcoin Gold": {
+		"Differnce": [
+			[{
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "35.9036335781 %",
+				"Bittrex": 222.655
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "22.6918308307 %",
+				"Bit-Z": 181.475,
+				"Bittrex": 222.655
+			}, {
+				"pair": "BTG/BTC",
+				"Binance": 225.908,
+				"max diff": "37.8891920431 %",
+				"OKEx": 163.833
+			}, {
+				"pair": "BTG/BTC",
+				"Binance": 225.908,
+				"max diff": "24.4843642375 %",
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"Huobi": 194.115,
+				"max diff": "24.1628672894 %",
+				"Kucoin": 255.963
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "34.6511386595 %",
+				"HitBTC": 220.603
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "21.5610965698 %",
+				"Bit-Z": 181.475,
+				"HitBTC": 220.603
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"Bitfinex": 222.055,
+				"max diff": "35.5374069937 %"
+			}, {
+				"pair": "BTG/BTC",
+				"Bitfinex": 222.055,
+				"max diff": "22.3612067778 %",
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"Exrates": 234.598,
+				"max diff": "43.1933737403 %"
+			}, {
+				"pair": "BTG/BTC",
+				"Exrates": 234.598,
+				"max diff": "29.2729026037 %",
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "25.6024848669 %",
+				"YoBit": 220.213
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "26.1873868029 %",
+				"Gate.io": 221.958
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "35.9934834332 %",
+				"Kucoin": 255.963
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "27.104013811 %",
+				"CEX.IO": 224.749
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "23.0411867496 %",
+				"DSX": 212.884
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "28.5875563382 %",
+				"Abucoins": 229.418
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "24.7678743629 %",
+				"Bleutrade": 217.77
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "26.2896709348 %",
+				"Bitsane": 222.266
+			}, {
+				"pair": "BTG/BTC",
+				"OKEx": 163.833,
+				"max diff": "22.7880256002 %",
+				"Trade Satoshi": 212.186
+			}, {
+				"pair": "BTG/BTC",
+				"YoBit": 220.213,
+				"max diff": "21.3461909354 %",
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "22.3077558892 %",
+				"Bit-Z": 181.475,
+				"Gate.io": 221.958
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "20.2359031209 %",
+				"Kucoin": 255.963,
+				"DSX": 212.884
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "20.6314271441 %",
+				"Trade Satoshi": 212.186,
+				"Kucoin": 255.963
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "41.0458740873 %",
+				"Kucoin": 255.963,
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "23.8457087753 %",
+				"CEX.IO": 224.749,
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"Abucoins": 229.418,
+				"max diff": "26.418514947 %",
+				"Bit-Z": 181.475
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "20.0 %",
+				"Bit-Z": 181.475,
+				"Bleutrade": 217.77
+			}, {
+				"pair": "BTG/BTC",
+				"max diff": "22.4774762364 %",
+				"Bitsane": 222.266,
+				"Bit-Z": 181.475
+			}],
+			[{
+				"pair": "BTG/KRW",
+				"Coinone": 392.168,
+				"max diff": "34.3569592624 %",
+				"Bithumb": 257.431
+			}, {
+				"pair": "BTG/KRW",
+				"max diff": "36.812948104 %",
+				"Bithumb": 257.431,
+				"Korbit": 407.411
+			}, {
+				"pair": "BTG/KRW",
+				"Coinnest": 270.98,
+				"Coinone": 392.168,
+				"max diff": "44.7221197136 %"
+			}, {
+				"pair": "BTG/KRW",
+				"Coinnest": 270.98,
+				"max diff": "50.3472581002 %",
+				"Korbit": 407.411
+			}]
+		],
+		"Market Cap": "$3,738,203,279",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitcoin-gold/",
+		"Coin ID": "15",
+		"Price": "$223.05",
+		"Change": "4.73%"
+	}
+}, {
+	"Qtum": {
+		"Differnce": [
+			[{
+				"pair": "QTUM/BTC",
+				"Lbank": 50.0521,
+				"Qryptos": 83.7576,
+				"max diff": "40.2417213483 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"Lbank": 50.0521,
+				"max diff": "26.3693009963 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Huobi": 50.2545,
+				"Qryptos": 83.7576,
+				"max diff": "40.0000716353 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"Huobi": 50.2545,
+				"max diff": "26.8803114538 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Binance": 50.3941,
+				"Qryptos": 83.7576,
+				"max diff": "39.8334001929 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Binance": 50.3941,
+				"max diff": "27.2327672832 %",
+				"Liqui": 39.6078
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.327086736 %",
+				"Bittrex": 49.9806
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.1887809977 %",
+				"Bittrex": 49.9806
+			}, {
+				"pair": "QTUM/BTC",
+				"OKEx": 50.5351,
+				"Qryptos": 83.7576,
+				"max diff": "39.6650572605 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"OKEx": 50.5351,
+				"max diff": "27.5887577699 %",
+				"Liqui": 39.6078
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "39.0167578823 %",
+				"CoinEgg": 51.0781
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "28.9596998571 %",
+				"CoinEgg": 51.0781
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.3166996189 %",
+				"Bit-Z": 49.9893
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.2107463681 %",
+				"Bit-Z": 49.9893
+			}, {
+				"pair": "QTUM/BTC",
+				"Bitfinex": 50.0465,
+				"Qryptos": 83.7576,
+				"max diff": "40.2484073087 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"Bitfinex": 50.0465,
+				"max diff": "26.355162367 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Coinrail": 50.3034,
+				"Qryptos": 83.7576,
+				"max diff": "39.9416888736 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"Coinrail": 50.3034,
+				"max diff": "27.0037719843 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"ZB.COM": 50.087,
+				"Qryptos": 83.7576,
+				"max diff": "40.2000534877 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"ZB.COM": 50.087,
+				"max diff": "26.4574149536 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.33341452 %",
+				"Gate.io": 49.9753
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.175399795 %",
+				"Gate.io": 49.9753
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"BigONE": 50.2545,
+				"max diff": "40.0000716353 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.8803114538 %",
+				"BigONE": 50.2545
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.0000716353 %",
+				"Kucoin": 50.2545
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.8803114538 %",
+				"Kucoin": 50.2545
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.1833385866 %",
+				"EXX": 50.101
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.4927615268 %",
+				"EXX": 50.101
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "40.0000716353 %",
+				"Allcoin": 50.2545
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "26.8803114538 %",
+				"Allcoin": 50.2545
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"CoinExchange": 48.8586,
+				"max diff": "41.6666666667 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"COSS": 61.7935,
+				"max diff": "20.9324605339 %",
+				"CoinExchange": 48.8586
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "23.3560056353 %",
+				"CoinExchange": 48.8586
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "38.3333572118 %",
+				"HitBTC": 51.6505
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "30.4048697479 %",
+				"HitBTC": 51.6505
+			}, {
+				"pair": "QTUM/BTC",
+				"Livecoin": 50.2697,
+				"Qryptos": 83.7576,
+				"max diff": "39.9819240284 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Livecoin": 50.2697,
+				"max diff": "26.9186877332 %",
+				"Liqui": 39.6078
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"max diff": "45.8333333333 %",
+				"Bleutrade": 45.3687
+			}, {
+				"pair": "QTUM/BTC",
+				"max diff": "26.5801419243 %",
+				"COSS": 61.7935,
+				"Bleutrade": 45.3687
+			}, {
+				"pair": "QTUM/BTC",
+				"BCEX": 58.6301,
+				"max diff": "22.6187572595 %",
+				"Bleutrade": 45.3687
+			}, {
+				"pair": "QTUM/BTC",
+				"CoolCoin": 53.0465,
+				"Qryptos": 83.7576,
+				"max diff": "36.6666427882 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"CoolCoin": 53.0465,
+				"max diff": "33.929428042 %",
+				"Liqui": 39.6078
+			}, {
+				"pair": "QTUM/BTC",
+				"Qryptos": 83.7576,
+				"COSS": 61.7935,
+				"max diff": "35.5443533705 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"Qryptos": 83.7576,
+				"max diff": "111.467438232 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"BCEX": 58.6301,
+				"Qryptos": 83.7576,
+				"max diff": "42.8576789055 %"
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"max diff": "56.0134619949 %",
+				"COSS": 61.7935
+			}, {
+				"pair": "QTUM/BTC",
+				"Liqui": 39.6078,
+				"BCEX": 58.6301,
+				"max diff": "32.4445975702 %"
+			}],
+			[{
+				"pair": "QTUM/ETH",
+				"Huobi": 49.7626,
+				"max diff": "20.8480396757 %",
+				"CoinExchange": 62.8697
+			}, {
+				"pair": "QTUM/ETH",
+				"Binance": 49.9085,
+				"max diff": "20.6159724001 %",
+				"CoinExchange": 62.8697
+			}, {
+				"pair": "QTUM/ETH",
+				"OKEx": 50.2328,
+				"max diff": "20.1001436304 %",
+				"CoinExchange": 62.8697
+			}, {
+				"pair": "QTUM/ETH",
+				"Bitfinex": 49.6457,
+				"CoinExchange": 62.8697,
+				"max diff": "21.0339798027 %"
+			}, {
+				"pair": "QTUM/ETH",
+				"max diff": "21.2938824267 %",
+				"CoinExchange": 62.8697,
+				"HitBTC": 49.4823
+			}],
+			[{
+				"pair": "QTUM/USDT",
+				"Liqui": 14.8266,
+				"Huobi": 48.9522,
+				"max diff": "230.164703978 %"
+			}, {
+				"pair": "QTUM/USDT",
+				"OKEx": 49.6326,
+				"max diff": "234.753753389 %",
+				"Liqui": 14.8266
+			}, {
+				"pair": "QTUM/USDT",
+				"Liqui": 14.8266,
+				"ZB.COM": 54.6059,
+				"max diff": "268.29684486 %"
+			}, {
+				"pair": "QTUM/USDT",
+				"Liqui": 14.8266,
+				"max diff": "229.354673357 %",
+				"Gate.io": 48.8321
+			}, {
+				"pair": "QTUM/USDT",
+				"Liqui": 14.8266,
+				"max diff": "274.843187245 %",
+				"EXX": 55.5765
+			}],
+			[{
+				"pair": "QTUM/KRW",
+				"Coinrail": 50.1971,
+				"max diff": "31.5651700995 %",
+				"Bithumb": 66.0419
+			}, {
+				"pair": "QTUM/KRW",
+				"Coinone": 66.0513,
+				"Coinrail": 50.1971,
+				"max diff": "31.5838962809 %"
+			}]
+		],
+		"Market Cap": "$3,617,449,241",
+		"Coin URL": "https://coinmarketcap.com/currencies/qtum/",
+		"Coin ID": "16",
+		"Price": "$49.02",
+		"Change": "3.62%"
+	}
+}, {
+	"Lisk": {
+		"Differnce": [
+			[{
+				"pair": "LSK/BTC",
+				"max diff": "89.9715765751 %",
+				"BitGrail": 297.29,
+				"Bit-Z": 29.8135
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "33.4803339974 %",
+				"Bit-Z": 29.8135
+			}, {
+				"pair": "LSK/BTC",
+				"Binance": 29.8763,
+				"max diff": "89.9504524202 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"Binance": 29.8763,
+				"max diff": "33.7615007499 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"max diff": "90.1063271553 %",
+				"BitGrail": 297.29,
+				"CoinEgg": 29.4129
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "31.686776656 %",
+				"CoinEgg": 29.4129
+			}, {
+				"pair": "LSK/BTC",
+				"max diff": "90.0687880521 %",
+				"BitGrail": 297.29,
+				"Bittrex": 29.5245
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "32.1864296747 %",
+				"Bittrex": 29.5245
+			}, {
+				"pair": "LSK/BTC",
+				"Poloniex": 29.7536,
+				"max diff": "89.9917252514 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"Poloniex": 29.7536,
+				"max diff": "33.21215106 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"Livecoin": 29.4018,
+				"max diff": "90.1100608833 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"Livecoin": 29.4018,
+				"max diff": "31.6370799848 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"YoBit": 29.6777,
+				"max diff": "90.0172558781 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"YoBit": 29.6777,
+				"max diff": "32.8723332811 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"max diff": "90.0232432978 %",
+				"BitGrail": 297.29,
+				"HitBTC": 29.6599
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "32.79263952 %",
+				"HitBTC": 29.6599
+			}, {
+				"pair": "LSK/BTC",
+				"BitGrail": 297.29,
+				"max diff": "90.0499848633 %",
+				"ChaoEX": 29.5804
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "32.4367039019 %",
+				"ChaoEX": 29.5804
+			}, {
+				"pair": "LSK/BTC",
+				"BitBay": 30.2143,
+				"max diff": "89.8367587204 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"BitBay": 30.2143,
+				"max diff": "35.2747867744 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"Exrates": 29.5608,
+				"BitGrail": 297.29,
+				"max diff": "90.0565777524 %"
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"Exrates": 29.5608,
+				"max diff": "32.3489512212 %"
+			}, {
+				"pair": "LSK/BTC",
+				"Abucoins": 30.378,
+				"max diff": "89.7816946416 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"Abucoins": 30.378,
+				"max diff": "36.0077007455 %",
+				"CoolCoin": 22.3355
+			}, {
+				"pair": "LSK/BTC",
+				"max diff": "90.2049513943 %",
+				"BitGrail": 297.29,
+				"Gate.io": 29.1197
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "30.3740681874 %",
+				"Gate.io": 29.1197
+			}, {
+				"pair": "LSK/BTC",
+				"COSS": 31.4089,
+				"max diff": "846.515159716 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "1231.02012491 %",
+				"BitGrail": 297.29
+			}, {
+				"pair": "LSK/BTC",
+				"CoolCoin": 22.3355,
+				"max diff": "40.6232231201 %",
+				"COSS": 31.4089
+			}]
+		],
+		"Market Cap": "$3,529,190,758",
+		"Coin URL": "https://coinmarketcap.com/currencies/lisk/",
+		"Coin ID": "18",
+		"Price": "$30.18",
+		"Change": "14.75%"
+	}
+}, {
+	"Ethereum Classic": {
+		"Differnce": [
+			[{
+				"pair": "ETC/BTC",
+				"OKEx": 34.4971,
+				"max diff": "28.673470149 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"OKEx": 34.4971,
+				"BITHOLIC": 24.0366,
+				"max diff": "43.5190501152 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.1169572321 %",
+				"Bittrex": 34.3479
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "42.8983300467 %",
+				"Bittrex": 34.3479
+			}, {
+				"pair": "ETC/BTC",
+				"Binance": 34.4523,
+				"max diff": "28.5063670747 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"Binance": 34.4523,
+				"BITHOLIC": 24.0366,
+				"max diff": "43.3326676818 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.5582137875 %",
+				"Bit-Z": 34.4662
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "43.39049616 %",
+				"Bit-Z": 34.4662
+			}, {
+				"pair": "ETC/BTC",
+				"Poloniex": 34.4662,
+				"max diff": "28.5582137875 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"Poloniex": 34.4662,
+				"BITHOLIC": 24.0366,
+				"max diff": "43.39049616 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Bitfinex": 34.4495,
+				"max diff": "28.4959231326 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Bitfinex": 34.4495,
+				"max diff": "43.3210187797 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Huobi": 34.4942,
+				"max diff": "28.6626532089 %"
+			}, {
+				"pair": "ETC/BTC",
+				"Huobi": 34.4942,
+				"max diff": "43.5069851809 %",
+				"BITHOLIC": 24.0366
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "27.7708151497 %",
+				"Kraken": 34.2551
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "42.5122521488 %",
+				"Kraken": 34.2551
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.1937948064 %",
+				"HitBTC": 34.3685
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "42.9840326835 %",
+				"HitBTC": 34.3685
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.5977515685 %",
+				"CoinEgg": 34.4768
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "43.4345955751 %",
+				"CoinEgg": 34.4768
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.4146095831 %",
+				"Kucoin": 34.4277
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "43.2303237563 %",
+				"Kucoin": 34.4277
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "29.6701696579 %",
+				"RightBTC": 31.1683
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Bibox": 32.2497,
+				"max diff": "20.2907145894 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Bibox": 32.2497,
+				"max diff": "34.1691420584 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "26.7006840782 %",
+				"Cryptopia": 33.9682
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "41.3186557167 %",
+				"Cryptopia": 33.9682
+			}, {
+				"pair": "ETC/BTC",
+				"CoolCoin": 31.4933,
+				"BITHOLIC": 24.0366,
+				"max diff": "31.0222743649 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Exmo": 35.1265,
+				"max diff": "31.021119143 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Exmo": 35.1265,
+				"max diff": "46.1375568924 %"
+			}, {
+				"pair": "ETC/BTC",
+				"AEX": 35.4574,
+				"max diff": "32.2553693053 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"AEX": 35.4574,
+				"BITHOLIC": 24.0366,
+				"max diff": "47.5142075002 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.9051018657 %",
+				"CoinExchange": 34.5592
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "43.7774061223 %",
+				"CoinExchange": 34.5592
+			}, {
+				"pair": "ETC/BTC",
+				"YoBit": 34.2069,
+				"max diff": "27.5910301457 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"YoBit": 34.2069,
+				"BITHOLIC": 24.0366,
+				"max diff": "42.31172462 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"ZB.COM": 34.4802,
+				"max diff": "28.6104334982 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"ZB.COM": 34.4802,
+				"max diff": "43.4487406705 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.0897283829 %",
+				"Gate.io": 34.3406
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "42.8679596948 %",
+				"Gate.io": 34.3406
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "23.8722407478 %",
+				"BtcTrade.im": 33.2099
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "38.1638834111 %",
+				"BtcTrade.im": 33.2099
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Exrates": 34.1549,
+				"max diff": "27.3970712202 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Exrates": 34.1549,
+				"max diff": "42.0953878668 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Lbank": 34.4801,
+				"max diff": "28.6100605003 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Lbank": 34.4801,
+				"max diff": "43.4483246383 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"BTC-Alpha": 34.3769,
+				"max diff": "28.2251266328 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"BTC-Alpha": 34.3769,
+				"max diff": "43.0189793898 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Coinut": 34.3964,
+				"max diff": "28.2978612298 %"
+			}, {
+				"pair": "ETC/BTC",
+				"Coinut": 34.3964,
+				"max diff": "43.1001056722 %",
+				"BITHOLIC": 24.0366
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "28.5063670747 %",
+				"ChaoEX": 34.4523
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "43.3326676818 %",
+				"ChaoEX": 34.4523
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "29.4433378839 %",
+				"EXX": 34.7035
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "44.3777406122 %",
+				"EXX": 34.7035
+			}, {
+				"pair": "ETC/BTC",
+				"BTC Markets": 34.4528,
+				"max diff": "28.5082320644 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"BTC Markets": 34.4528,
+				"BITHOLIC": 24.0366,
+				"max diff": "43.3347478429 %"
+			}, {
+				"pair": "ETC/BTC",
+				"Abucoins": 34.6289,
+				"max diff": "29.1650814254 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"Abucoins": 34.6289,
+				"BITHOLIC": 24.0366,
+				"max diff": "44.067380578 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "27.1523845758 %",
+				"BigONE": 34.0893
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "41.8224707321 %",
+				"BigONE": 34.0893
+			}, {
+				"pair": "ETC/BTC",
+				"Stocks.Exchange": 38.1097,
+				"max diff": "42.1483934979 %",
+				"BTCC": 26.8098
+			}, {
+				"pair": "ETC/BTC",
+				"Stocks.Exchange": 38.1097,
+				"BITHOLIC": 24.0366,
+				"max diff": "58.5486300059 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"max diff": "43.1898037285 %",
+				"C-CEX": 38.3889
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"max diff": "59.7101919573 %",
+				"C-CEX": 38.3889
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"Qryptos": 33.5029,
+				"max diff": "24.9651246932 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BITHOLIC": 24.0366,
+				"Qryptos": 33.5029,
+				"max diff": "39.3828578085 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BTCC": 26.8098,
+				"BCEX": 37.2721,
+				"max diff": "28.0700577644 %"
+			}, {
+				"pair": "ETC/BTC",
+				"BCEX": 37.2721,
+				"max diff": "55.0639441518 %",
+				"BITHOLIC": 24.0366
+			}]
+		],
+		"Market Cap": "$3,387,638,274",
+		"Coin URL": "https://coinmarketcap.com/currencies/ethereum-classic/",
+		"Coin ID": "20",
+		"Price": "$34.20",
+		"Change": "0.89%"
+	}
+}, {
+	"OmiseGO": {
+		"Differnce": [
+			[{
+				"pair": "OMG/ETH",
+				"Huobi": 22.7727,
+				"max diff": "20.3559600043 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"Binance": 22.6318,
+				"max diff": "20.8487362336 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"max diff": "20.4045731313 %",
+				"Mercatox": 28.5931,
+				"Bittrex": 22.7588
+			}, {
+				"pair": "OMG/ETH",
+				"Bitfinex": 22.3464,
+				"max diff": "21.8468791422 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"Poloniex": 22.8234,
+				"max diff": "20.1786444981 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"max diff": "20.4133164994 %",
+				"Kucoin": 22.7563,
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"Liqui": 22.5907,
+				"max diff": "20.992477206 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"max diff": "20.8522335808 %",
+				"ChaoEX": 22.6308,
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"EtherDelta": 22.6331,
+				"max diff": "20.8441896821 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"OKEx": 22.5802,
+				"max diff": "21.0291993523 %",
+				"Mercatox": 28.5931
+			}, {
+				"pair": "OMG/ETH",
+				"max diff": "21.283806233 %",
+				"Mercatox": 28.5931,
+				"Gate.io": 22.5074
+			}, {
+				"pair": "OMG/ETH",
+				"max diff": "25.2417541295 %",
+				"COSS": 21.3757,
+				"Mercatox": 28.5931
+			}]
+		],
+		"Market Cap": "$2,268,661,032",
+		"Coin URL": "https://coinmarketcap.com/currencies/omisego/",
+		"Coin ID": "22",
+		"Price": "$22.23",
+		"Change": "2.53%"
+	}
+}, {
+	"Zcash": {
+		"Differnce": [
+			[{
+				"pair": "ZEC/LTC",
+				"max diff": "214.324122197 %",
+				"Trade Satoshi": 1660.15,
+				"Cryptopia": 528.165
+			}],
+			[{
+				"pair": "ZEC/KRW",
+				"Coinrail": 747.358,
+				"max diff": "21.641703173 %",
+				"Bithumb": 909.099
+			}],
+			[{
+				"pair": "ZEC/BTC",
+				"max diff": "24.7311461287 %",
+				"Mercatox": 557.18,
+				"HitBTC": 694.977
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "24.9637460067 %",
+				"Bit-Z": 696.273,
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Bitfinex": 694.629,
+				"max diff": "24.6686887541 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "24.7187623389 %",
+				"Mercatox": 557.18,
+				"Bittrex": 694.908
+			}, {
+				"pair": "ZEC/BTC",
+				"Huobi": 696.572,
+				"max diff": "25.0174090958 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Poloniex": 693.525,
+				"max diff": "24.4705481173 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Binance": 694.936,
+				"max diff": "24.7237876449 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Lbank": 697.348,
+				"max diff": "25.1566818622 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Exmo": 685.26,
+				"max diff": "22.9871854697 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"WEX": 687.945,
+				"max diff": "23.4690764205 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"OKEx": 696.298,
+				"max diff": "24.968232887 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"BTC-Alpha": 694.212,
+				"max diff": "24.5938475896 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "24.4687533652 %",
+				"Mercatox": 557.18,
+				"Cryptopia": 693.515
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "23.9764528519 %",
+				"CEX.IO": 690.772,
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "22.7192289745 %",
+				"Mercatox": 557.18,
+				"Gate.io": 683.767
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "23.6914462113 %",
+				"BigONE": 689.184,
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "23.4690764205 %",
+				"BX Thailand": 687.945,
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "24.3490433971 %",
+				"Mercatox": 557.18,
+				"LocalTrade": 692.848
+			}, {
+				"pair": "ZEC/BTC",
+				"Qryptos": 698.21,
+				"max diff": "25.3113894971 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"The Rock Trading": 677.5,
+				"max diff": "21.5944578054 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Abucoins": 680.989,
+				"max diff": "22.2206468287 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"Waves Decentralized Exchange": 698.161,
+				"max diff": "25.3025952116 %",
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"max diff": "22.4692200007 %",
+				"Trade Satoshi": 682.374,
+				"Mercatox": 557.18
+			}, {
+				"pair": "ZEC/BTC",
+				"BCEX": 765.931,
+				"max diff": "37.4656304964 %",
+				"Mercatox": 557.18
+			}]
+		],
+		"Market Cap": "$2,146,322,372",
+		"Coin URL": "https://coinmarketcap.com/currencies/zcash/",
+		"Coin ID": "24",
+		"Price": "$706.08",
+		"Change": "11.07%"
+	}
+}, {
+	"Siacoin": {
+		"Differnce": [
+			[{
+				"pair": "SC/BTC",
+				"max diff": "45.4829148258 %",
+				"HitBTC": 0.125167,
+				"Bittrex": 0.0682374
+			}, {
+				"pair": "SC/BTC",
+				"Bisq": 0.0552863,
+				"max diff": "23.4255140966 %",
+				"Bittrex": 0.0682374
+			}, {
+				"pair": "SC/BTC",
+				"BITHOLIC": 0.0100267,
+				"max diff": "580.556913042 %",
+				"Bittrex": 0.0682374
+			}, {
+				"pair": "SC/BTC",
+				"Poloniex": 0.065313,
+				"max diff": "47.8193133973 %",
+				"HitBTC": 0.125167
+			}, {
+				"pair": "SC/BTC",
+				"Poloniex": 0.065313,
+				"BITHOLIC": 0.0100267,
+				"max diff": "551.3907866 %"
+			}, {
+				"pair": "SC/BTC",
+				"Abucoins": 0.0675411,
+				"max diff": "46.0392116133 %",
+				"HitBTC": 0.125167
+			}, {
+				"pair": "SC/BTC",
+				"Abucoins": 0.0675411,
+				"max diff": "22.1660700752 %",
+				"Bisq": 0.0552863
+			}, {
+				"pair": "SC/BTC",
+				"Abucoins": 0.0675411,
+				"BITHOLIC": 0.0100267,
+				"max diff": "573.612454746 %"
+			}, {
+				"pair": "SC/BTC",
+				"max diff": "126.397859868 %",
+				"HitBTC": 0.125167,
+				"Bisq": 0.0552863
+			}, {
+				"pair": "SC/BTC",
+				"BITHOLIC": 0.0100267,
+				"max diff": "1148.33694037 %",
+				"HitBTC": 0.125167
+			}, {
+				"pair": "SC/BTC",
+				"BITHOLIC": 0.0100267,
+				"max diff": "451.3907866 %",
+				"Bisq": 0.0552863
+			}]
+		],
+		"Market Cap": "$2,105,714,407",
+		"Coin URL": "https://coinmarketcap.com/currencies/siacoin/",
+		"Coin ID": "25",
+		"Price": "$0.067069",
+		"Change": "-1.18%"
+	}
+}, {
+	"BitConnect": {
+		"Differnce": [
+			[{
+				"pair": "BCC/BTC",
+				"max diff": "21.5954833868 %",
+				"Trade Satoshi": 410.396,
+				"BCC Exchange": 321.769
+			}, {
+				"pair": "BCC/BTC",
+				"Livecoin": 317.162,
+				"max diff": "22.7180576809 %",
+				"Trade Satoshi": 410.396
+			}, {
+				"pair": "BCC/BTC",
+				"Trade Satoshi": 410.396,
+				"max diff": "22.105722278 %",
+				"CoinExchange": 319.675
+			}, {
+				"pair": "BCC/BTC",
+				"max diff": "21.1057125313 %",
+				"Trade Satoshi": 410.396,
+				"HitBTC": 323.779
+			}]
+		],
+		"Market Cap": "$2,012,658,991",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitconnect/",
+		"Coin ID": "26",
+		"Price": "$324.30",
+		"Change": "11.62%"
+	}
+}, {
+	"Populous": {
+		"Differnce": [
+			[{
+				"pair": "PPT/BTC",
+				"Binance": 52.4895,
+				"max diff": "52.9394096973 %",
+				"Mercatox": 111.536
+			}, {
+				"pair": "PPT/BTC",
+				"max diff": "50.7219193803 %",
+				"Kucoin": 54.9628,
+				"Mercatox": 111.536
+			}, {
+				"pair": "PPT/BTC",
+				"max diff": "52.5651807488 %",
+				"Mercatox": 111.536,
+				"HitBTC": 52.9069
+			}, {
+				"pair": "PPT/BTC",
+				"OKEx": 55.8384,
+				"max diff": "49.9368813657 %",
+				"Mercatox": 111.536
+			}],
+			[{
+				"pair": "PPT/ETH",
+				"Binance": 51.6978,
+				"max diff": "25.1092987209 %",
+				"Mercatox": 69.031
+			}, {
+				"pair": "PPT/ETH",
+				"EtherDelta": 50.8409,
+				"max diff": "26.3506250815 %",
+				"Mercatox": 69.031
+			}, {
+				"pair": "PPT/ETH",
+				"Token Store": 53.565,
+				"max diff": "22.4044269966 %",
+				"Mercatox": 69.031
+			}, {
+				"pair": "PPT/ETH",
+				"OKEx": 51.4837,
+				"max diff": "34.0832146874 %",
+				"Mercatox": 69.031
+			}]
+		],
+		"Market Cap": "$1,930,788,714",
+		"Coin URL": "https://coinmarketcap.com/currencies/populous/",
+		"Coin ID": "27",
+		"Price": "$52.18",
+		"Change": "6.73%"
+	}
+}, {
+	"Bytecoin": {
+		"Differnce": [
+			[{
+				"pair": "BCN/ETH",
+				"Stocks.Exchange": 0.00609529,
+				"max diff": "79.4713623142 %",
+				"HitBTC": 0.0109393
+			}],
+			[{
+				"pair": "BCN/BTC",
+				"Stocks.Exchange": 0.00606631,
+				"max diff": "81.2634039474 %",
+				"HitBTC": 0.010996
+			}, {
+				"pair": "BCN/BTC",
+				"Poloniex": 0.0115865,
+				"max diff": "90.9974927097 %",
+				"Stocks.Exchange": 0.00606631
+			}]
+		],
+		"Market Cap": "$1,862,152,762",
+		"Coin URL": "https://coinmarketcap.com/currencies/bytecoin-bcn/",
+		"Coin ID": "29",
+		"Price": "$0.010139",
+		"Change": "0.69%"
+	}
+}, {
+	"VeChain": {
+		"Differnce": [
+			[{
+				"pair": "VEN/BTC",
+				"Binance": 6.0445,
+				"max diff": "39.6774558807 %",
+				"COSS": 4.32747
+			}, {
+				"pair": "VEN/BTC",
+				"Lbank": 6.10579,
+				"COSS": 4.32747,
+				"max diff": "41.0937568602 %"
+			}, {
+				"pair": "VEN/BTC",
+				"Huobi": 6.06823,
+				"max diff": "40.225813235 %",
+				"COSS": 4.32747
+			}, {
+				"pair": "VEN/BTC",
+				"max diff": "41.2904075592 %",
+				"COSS": 4.32747,
+				"HitBTC": 6.1143
+			}, {
+				"pair": "VEN/BTC",
+				"Liqui": 6.07521,
+				"max diff": "40.3871084028 %",
+				"COSS": 4.32747
+			}, {
+				"pair": "VEN/BTC",
+				"COSS": 4.32747,
+				"max diff": "34.1936512558 %",
+				"BigONE": 5.80719
+			}, {
+				"pair": "VEN/BTC",
+				"max diff": "29.9530913117 %",
+				"COSS": 4.32747,
+				"Kucoin": 6.17796
+			}],
+			[{
+				"pair": "VEN/ETH",
+				"EtherDelta": 7.00438,
+				"max diff": "26.6008151609 %",
+				"COSS": 5.53265
+			}]
+		],
+		"Market Cap": "$1,755,099,117",
+		"Coin URL": "https://coinmarketcap.com/currencies/vechain/",
+		"Coin ID": "31",
+		"Price": "$6.33",
+		"Change": "2.08%"
+	}
+}, {
+	"BitShares": {
+		"Differnce": [
+			[{
+				"pair": "BTS/BTC",
+				"Binance": 0.627763,
+				"max diff": "67.8602622323 %",
+				"YoBit": 1.95323
+			}, {
+				"pair": "BTS/BTC",
+				"Poloniex": 0.632928,
+				"max diff": "67.5958284483 %",
+				"YoBit": 1.95323
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"ZB.COM": 0.619945,
+				"max diff": "68.2605223143 %"
+			}, {
+				"pair": "BTS/BTC",
+				"Livecoin": 0.631532,
+				"max diff": "67.667299806 %",
+				"YoBit": 1.95323
+			}, {
+				"pair": "BTS/BTC",
+				"AEX": 0.610034,
+				"max diff": "68.7679382356 %",
+				"YoBit": 1.95323
+			}, {
+				"pair": "BTS/BTC",
+				"AEX": 0.610034,
+				"max diff": "20.5455222734 %",
+				"Tidex": 0.767778
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"max diff": "67.6243965124 %",
+				"Bitcoin Indonesia": 0.63237
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"Lbank": 0.631672,
+				"max diff": "67.6601321913 %"
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"max diff": "66.2164722025 %",
+				"Gate.io": 0.65987
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"max diff": "67.0533936096 %",
+				"CoinEgg": 0.643523
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"max diff": "67.1241482058 %",
+				"BigONE": 0.642141
+			}, {
+				"pair": "BTS/BTC",
+				"YoBit": 1.95323,
+				"max diff": "154.400360521 %",
+				"Tidex": 0.767778
+			}]
+		],
+		"Market Cap": "$1,610,298,218",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitshares/",
+		"Coin ID": "32",
+		"Price": "$0.617673",
+		"Change": "6.78%"
+	}
+}, {
+	"Tether": {
+		"Differnce": [
+			[{
+				"pair": "ADA/USDT",
+				"max diff": "43.2801161103 %",
+				"Gate.io": 0.72345,
+				"Bittrex": 1.03656
+			}],
+			[{
+				"pair": "PRO/USDT",
+				"OKEx": 1.04497,
+				"max diff": "534.30697697 %",
+				"Liqui": 0.164742
+			}],
+			[{
+				"pair": "XRP/USDT",
+				"Huobi": 1.00548,
+				"max diff": "25.5343587695 %",
+				"Gate.io": 0.80096
+			}, {
+				"pair": "XRP/USDT",
+				"Poloniex": 1.01205,
+				"max diff": "26.3546244507 %",
+				"Gate.io": 0.80096
+			}, {
+				"pair": "XRP/USDT",
+				"max diff": "26.2460047942 %",
+				"Gate.io": 0.80096,
+				"Bittrex": 1.01118
+			}],
+			[{
+				"pair": "BTC/USDT",
+				"OKEx": 1.02278,
+				"max diff": "21.2571726656 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Binance": 1.02133,
+				"max diff": "21.0852658036 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Huobi": 1.02531,
+				"max diff": "21.5571205008 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Poloniex": 1.01866,
+				"max diff": "20.7687200645 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"max diff": "20.8303694219 %",
+				"Bit-Z": 0.84348,
+				"Bittrex": 1.01918
+			}, {
+				"pair": "BTC/USDT",
+				"max diff": "20.6987717551 %",
+				"Bit-Z": 0.84348,
+				"HitBTC": 1.01807
+			}, {
+				"pair": "BTC/USDT",
+				"max diff": "21.5820173567 %",
+				"Bit-Z": 0.84348,
+				"Gate.io": 1.02552
+			}, {
+				"pair": "BTC/USDT",
+				"Liqui": 1.04688,
+				"max diff": "24.1143832693 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"max diff": "21.1658841941 %",
+				"Bit-Z": 0.84348,
+				"Coinbene": 1.02201
+			}, {
+				"pair": "BTC/USDT",
+				"max diff": "20.2672262531 %",
+				"Kucoin": 1.01443,
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Bibox": 1.03404,
+				"max diff": "22.5921183668 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Exmo": 1.02705,
+				"max diff": "21.7634087352 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Coinut": 1.0165,
+				"max diff": "20.5126381183 %",
+				"Bit-Z": 0.84348
+			}, {
+				"pair": "BTC/USDT",
+				"Tidex": 1.01697,
+				"max diff": "20.5683596529 %",
+				"Bit-Z": 0.84348
+			}],
+			[{
+				"pair": "UBTC/USDT",
+				"OKEx": 1.06203,
+				"max diff": "75.7050752847 %",
+				"EXX": 0.604439
+			}]
+		],
+		"Market Cap": "$1,477,236,036",
+		"Coin URL": "https://coinmarketcap.com/currencies/tether/",
+		"Coin ID": "33",
+		"Price": "$1.01",
+		"Change": "0.31%"
+	}
+}, {
+	"Status": {
+		"Differnce": [
+			[{
+				"pair": "SNT/BTC",
+				"max diff": "74.6575761423 %",
+				"Gatecoin": 1.73294,
+				"Bittrex": 0.439169
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "945.182586676 %",
+				"Bittrex": 0.439169
+			}, {
+				"pair": "SNT/BTC",
+				"Binance": 0.439169,
+				"max diff": "74.6575761423 %",
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Binance": 0.439169,
+				"max diff": "945.182586676 %",
+				"Tidex": 0.0420184
+			}, {
+				"pair": "SNT/BTC",
+				"Bitfinex": 0.436377,
+				"max diff": "74.8186896257 %",
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"Bitfinex": 0.436377,
+				"max diff": "938.537878644 %"
+			}, {
+				"pair": "SNT/BTC",
+				"Huobi": 0.437424,
+				"max diff": "74.7582720694 %",
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"Huobi": 0.437424,
+				"max diff": "941.029644156 %"
+			}, {
+				"pair": "SNT/BTC",
+				"Liqui": 0.441682,
+				"max diff": "74.5125624661 %",
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Liqui": 0.441682,
+				"max diff": "951.163299888 %",
+				"Tidex": 0.0420184
+			}, {
+				"pair": "SNT/BTC",
+				"max diff": "74.7542326913 %",
+				"Kucoin": 0.437494,
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "941.196237839 %",
+				"Kucoin": 0.437494
+			}, {
+				"pair": "SNT/BTC",
+				"max diff": "75.4308862396 %",
+				"Gatecoin": 1.73294,
+				"Gate.io": 0.425768
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "913.289416065 %",
+				"Gate.io": 0.425768
+			}, {
+				"pair": "SNT/BTC",
+				"max diff": "74.3837063026 %",
+				"Gatecoin": 1.73294,
+				"HitBTC": 0.443915
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "956.477638368 %",
+				"HitBTC": 0.443915
+			}, {
+				"pair": "SNT/BTC",
+				"max diff": "73.4170254019 %",
+				"BigONE": 0.460667,
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "996.345886564 %",
+				"BigONE": 0.460667
+			}, {
+				"pair": "SNT/BTC",
+				"Livecoin": 0.446986,
+				"max diff": "74.2064930119 %",
+				"Gatecoin": 1.73294
+			}, {
+				"pair": "SNT/BTC",
+				"Livecoin": 0.446986,
+				"max diff": "963.786341222 %",
+				"Tidex": 0.0420184
+			}, {
+				"pair": "SNT/BTC",
+				"Tidex": 0.0420184,
+				"max diff": "4024.24080879 %",
+				"Gatecoin": 1.73294
+			}],
+			[{
+				"pair": "SNT/ETH",
+				"Binance": 0.436982,
+				"max diff": "34.4283401284 %",
+				"IDEX": 0.666419
+			}, {
+				"pair": "SNT/ETH",
+				"max diff": "34.7905746985 %",
+				"IDEX": 0.666419,
+				"Bittrex": 0.434568
+			}, {
+				"pair": "SNT/ETH",
+				"max diff": "34.6282143816 %",
+				"IDEX": 0.666419,
+				"Gatecoin": 0.43565
+			}, {
+				"pair": "SNT/ETH",
+				"Liqui": 0.439497,
+				"max diff": "34.0509499279 %",
+				"IDEX": 0.666419
+			}, {
+				"pair": "SNT/ETH",
+				"Bitfinex": 0.43531,
+				"IDEX": 0.666419,
+				"max diff": "34.6792333352 %"
+			}, {
+				"pair": "SNT/ETH",
+				"max diff": "34.1508870545 %",
+				"IDEX": 0.666419,
+				"HitBTC": 0.438831
+			}, {
+				"pair": "SNT/ETH",
+				"max diff": "35.2830576559 %",
+				"IDEX": 0.666419,
+				"Gate.io": 0.431286
+			}, {
+				"pair": "SNT/ETH",
+				"IDEX": 0.666419,
+				"max diff": "34.7188480521 %",
+				"ChaoEX": 0.435046
+			}, {
+				"pair": "SNT/ETH",
+				"max diff": "37.3584786748 %",
+				"IDEX": 0.666419,
+				"Kucoin": 0.417455
+			}, {
+				"pair": "SNT/ETH",
+				"EtherDelta": 0.465236,
+				"max diff": "30.1886650891 %",
+				"IDEX": 0.666419
+			}, {
+				"pair": "SNT/ETH",
+				"Livecoin": 0.41494,
+				"max diff": "37.7358688753 %",
+				"IDEX": 0.666419
+			}]
+		],
+		"Market Cap": "$1,465,054,320",
+		"Coin URL": "https://coinmarketcap.com/currencies/status/",
+		"Coin ID": "34",
+		"Price": "$0.422147",
+		"Change": "6.65%"
+	}
+}, {
+	"Dogecoin": {
+		"Differnce": [
+			[{
+				"pair": "NVC/DOGE",
+				"max diff": "48.3785148397 %",
+				"Cryptopia": 0.0108931,
+				"Bleutrade": 0.00562318
+			}],
+			[{
+				"pair": "START/DOGE",
+				"max diff": "48.7532671457 %",
+				"Cryptopia": 0.00804984,
+				"Bleutrade": 0.0119744
+			}],
+			[{
+				"pair": "BTA/DOGE",
+				"max diff": "25.6022568141 %",
+				"Cryptopia": 0.0197092,
+				"Bleutrade": 0.0146632
+			}],
+			[{
+				"pair": "CLAM/DOGE",
+				"max diff": "22.3221143431 %",
+				"Cryptopia": 0.0101554,
+				"Bleutrade": 0.0124223
+			}],
+			[{
+				"pair": "XBC/DOGE",
+				"max diff": "70.7990503284 %",
+				"Trade Satoshi": 0.0337801,
+				"Cryptopia": 0.00986411
+			}],
+			[{
+				"pair": "BTG/DOGE",
+				"max diff": "97.1553653966 %",
+				"Cryptopia": 0.427946,
+				"Bleutrade": 0.0121735
+			}],
+			[{
+				"pair": "VRC/DOGE",
+				"max diff": "42.7909177392 %",
+				"Cryptopia": 0.0198673,
+				"Bleutrade": 0.0113659
+			}],
+			[{
+				"pair": "DGC/DOGE",
+				"max diff": "44.6370270945 %",
+				"Cryptopia": 0.00616878,
+				"Bleutrade": 0.00892234
+			}],
+			[{
+				"pair": "DCR/DOGE",
+				"max diff": "24.9207674558 %",
+				"Cryptopia": 0.0111381,
+				"Bleutrade": 0.0139138
+			}],
+			[{
+				"pair": "DGB/DOGE",
+				"max diff": "68.0357950788 %",
+				"Trade Satoshi": 0.00367371,
+				"Cryptopia": 0.0114932
+			}],
+			[{
+				"pair": "BOLI/DOGE",
+				"max diff": "61.4291386471 %",
+				"Trade Satoshi": 0.0128069,
+				"Cryptopia": 0.00793345
+			}],
+			[{
+				"pair": "FJC/DOGE",
+				"max diff": "27.1995671023 %",
+				"Cryptopia": 0.0158929,
+				"Bleutrade": 0.0115701
+			}],
+			[{
+				"pair": "BTCZ/DOGE",
+				"max diff": "24.6252058609 %",
+				"Trade Satoshi": 0.0146806,
+				"C-CEX": 0.0117798
+			}],
+			[{
+				"pair": "XPM/DOGE",
+				"max diff": "30.2257797242 %",
+				"Cryptopia": 0.0135176,
+				"Bleutrade": 0.0176034
+			}],
+			[{
+				"pair": "DOT/DOGE",
+				"max diff": "52.3810051743 %",
+				"Trade Satoshi": 0.0631393,
+				"Cryptopia": 0.0300663
+			}],
+			[{
+				"pair": "POT/DOGE",
+				"max diff": "54.7173601148 %",
+				"Cryptopia": 0.010455,
+				"Bleutrade": 0.0161757
+			}],
+			[{
+				"pair": "TRC/DOGE",
+				"max diff": "25.1309455786 %",
+				"Trade Satoshi": 0.0115627,
+				"Cryptopia": 0.00924048
+			}, {
+				"pair": "TRC/DOGE",
+				"max diff": "49.5917960972 %",
+				"C-CEX": 0.013823,
+				"Cryptopia": 0.00924048
+			}],
+			[{
+				"pair": "SLG/DOGE",
+				"max diff": "33.6739037558 %",
+				"Cryptopia": 0.0128735,
+				"Bleutrade": 0.00853849
+			}],
+			[{
+				"pair": "DIME/DOGE",
+				"max diff": "76.733255758 %",
+				"CoinExchange": 0.0143164,
+				"Cryptopia": 0.0615316
+			}],
+			[{
+				"pair": "ZET/DOGE",
+				"max diff": "51.999608266 %",
+				"Cryptopia": 0.00878147,
+				"Bleutrade": 0.0133478
+			}],
+			[{
+				"pair": "ZEIT/DOGE",
+				"Trade Satoshi": 0.0233639,
+				"max diff": "68.4998651766 %",
+				"CoinExchange": 0.00735966
+			}, {
+				"pair": "ZEIT/DOGE",
+				"max diff": "70.1850959104 %",
+				"CoinExchange": 0.00735966,
+				"Cryptopia": 0.0246845
+			}],
+			[{
+				"pair": "BITB/DOGE",
+				"max diff": "37.3625752544 %",
+				"CoinExchange": 0.012152,
+				"Cryptopia": 0.00884666
+			}, {
+				"pair": "BITB/DOGE",
+				"max diff": "47.0588900218 %",
+				"Cryptopia": 0.00884666,
+				"Bleutrade": 0.0130098
+			}],
+			[{
+				"pair": "DOGE/EUR",
+				"max diff": "21.9970904138 %",
+				"LiteBit.eu": 0.0126002,
+				"BitFlip": 0.0161535
+			}],
+			[{
+				"pair": "EFL/DOGE",
+				"max diff": "33.575518224 %",
+				"Cryptopia": 0.00715569,
+				"Bleutrade": 0.00475313
+			}],
+			[{
+				"pair": "ADC/DOGE",
+				"max diff": "70.255842497 %",
+				"Cryptopia": 0.0440779,
+				"Bleutrade": 0.0131106
+			}],
+			[{
+				"pair": "BLK/DOGE",
+				"max diff": "36.6958466507 %",
+				"Cryptopia": 0.0119831,
+				"Bleutrade": 0.0163804
+			}],
+			[{
+				"pair": "XP/DOGE",
+				"CryptoBridge": 0.0165212,
+				"max diff": "25.3789071012 %",
+				"CoinExchange": 0.0123283
+			}, {
+				"pair": "XP/DOGE",
+				"CryptoBridge": 0.0165212,
+				"max diff": "28.3170100891 %",
+				"Trade Satoshi": 0.0128753
+			}],
+			[{
+				"pair": "WDC/DOGE",
+				"max diff": "26.9814263434 %",
+				"Cryptopia": 0.0126954,
+				"Bleutrade": 0.0161208
+			}],
+			[{
+				"pair": "DASH/DOGE",
+				"max diff": "23.5605767234 %",
+				"Trade Satoshi": 0.0178179,
+				"Bleutrade": 0.0136199
+			}, {
+				"pair": "DASH/DOGE",
+				"max diff": "22.4513832073 %",
+				"Cryptopia": 0.0111227,
+				"Bleutrade": 0.0136199
+			}, {
+				"pair": "DASH/DOGE",
+				"max diff": "60.1940176396 %",
+				"Trade Satoshi": 0.0178179,
+				"Cryptopia": 0.0111227
+			}],
+			[{
+				"pair": "NKA/DOGE",
+				"max diff": "355.399815165 %",
+				"Trade Satoshi": 0.0620883,
+				"Cryptopia": 0.0136338
+			}],
+			[{
+				"pair": "1337/DOGE",
+				"max diff": "25.6771604643 %",
+				"CoinExchange": 0.0124464,
+				"Cryptopia": 0.0167464
+			}, {
+				"pair": "1337/DOGE",
+				"max diff": "24.5192996704 %",
+				"Trade Satoshi": 0.0126403,
+				"Cryptopia": 0.0167464
+			}],
+			[{
+				"pair": "BTCD/DOGE",
+				"max diff": "37.2398836562 %",
+				"Cryptopia": 0.00921751,
+				"Bleutrade": 0.0126501
+			}],
+			[{
+				"pair": "DOGE/USD",
+				"YoBit": 0.01425,
+				"max diff": "20.8651399491 %",
+				"Coingi": 0.01179
+			}, {
+				"pair": "DOGE/USD",
+				"YoBit": 0.01425,
+				"NIX-E": 0.005001,
+				"max diff": "184.943011398 %"
+			}, {
+				"pair": "DOGE/USD",
+				"Livecoin": 0.0134135,
+				"NIX-E": 0.005001,
+				"max diff": "168.216356729 %"
+			}, {
+				"pair": "DOGE/USD",
+				"Exrates": 0.0120238,
+				"max diff": "20.366911716 %",
+				"BitFlip": 0.015099
+			}, {
+				"pair": "DOGE/USD",
+				"NIX-E": 0.005001,
+				"Exrates": 0.0120238,
+				"max diff": "140.427914417 %"
+			}, {
+				"pair": "DOGE/USD",
+				"NIX-E": 0.005001,
+				"max diff": "159.948010398 %",
+				"C-CEX": 0.013
+			}, {
+				"pair": "DOGE/USD",
+				"Coingi": 0.01179,
+				"max diff": "28.0661577608 %",
+				"BitFlip": 0.015099
+			}, {
+				"pair": "DOGE/USD",
+				"NIX-E": 0.005001,
+				"max diff": "201.919616077 %",
+				"BitFlip": 0.015099
+			}, {
+				"pair": "DOGE/USD",
+				"Coingi": 0.01179,
+				"NIX-E": 0.005001,
+				"max diff": "135.75284943 %"
+			}],
+			[{
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"Mercatox": 0.0190786,
+				"Bittrex": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"Bittrex": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"Bittrex": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"Bittrex": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"Bittrex": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Poloniex": 0.0126727,
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Poloniex": 0.0126727,
+				"max diff": "24.1664273062 %",
+				"CryptoBridge": 0.0167112
+			}, {
+				"pair": "DOGE/BTC",
+				"Poloniex": 0.0126727,
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Poloniex": 0.0126727,
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"CoinExchange": 0.0128119,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"CoinExchange": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"CoinExchange": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"CoinExchange": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"CoinExchange": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786,
+				"Cryptopia": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "24.1664273062 %",
+				"Cryptopia": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %",
+				"Cryptopia": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %",
+				"Cryptopia": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"Mercatox": 0.0190786,
+				"HitBTC": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"HitBTC": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"HitBTC": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"HitBTC": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"HitBTC": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"YoBit": 0.0128119,
+				"max diff": "32.8467497615 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"YoBit": 0.0128119,
+				"max diff": "23.3334530135 %",
+				"CryptoBridge": 0.0167112
+			}, {
+				"pair": "DOGE/BTC",
+				"YoBit": 0.0128119,
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"YoBit": 0.0128119,
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"YoBit": 0.0128119,
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "41.1681150609 %",
+				"Kraken": 0.0112243,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "32.8336684379 %",
+				"Kraken": 0.0112243
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "43.6367014492 %",
+				"Kraken": 0.0112243
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "185.257192233 %",
+				"Kraken": 0.0112243
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.11661233 %",
+				"Bitcoin Indonesia": 0.0129512,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "22.4998803198 %",
+				"Bitcoin Indonesia": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "34.9649998494 %",
+				"Bitcoin Indonesia": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "22.3681475462 %",
+				"Bitcoin Indonesia": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "229.145064552 %",
+				"Bitcoin Indonesia": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786,
+				"Gate.io": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "24.1664273062 %",
+				"Gate.io": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %",
+				"Gate.io": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %",
+				"Gate.io": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"Exmo": 0.0126727,
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"Exmo": 0.0126727,
+				"max diff": "24.1664273062 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"Exmo": 0.0126727,
+				"max diff": "36.3634994125 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"Exmo": 0.0126727,
+				"max diff": "222.067195283 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Livecoin": 0.0126727,
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Livecoin": 0.0126727,
+				"max diff": "24.1664273062 %",
+				"CryptoBridge": 0.0167112
+			}, {
+				"pair": "DOGE/BTC",
+				"Livecoin": 0.0126727,
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Livecoin": 0.0126727,
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.11661233 %",
+				"BtcTrade.im": 0.0129512,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "22.4998803198 %",
+				"BtcTrade.im": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "34.9649998494 %",
+				"BtcTrade.im": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "22.3681475462 %",
+				"BtcTrade.im": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "229.145064552 %",
+				"BtcTrade.im": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"AEX": 0.0126727,
+				"max diff": "33.5763630455 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"AEX": 0.0126727,
+				"max diff": "24.1664273062 %",
+				"CryptoBridge": 0.0167112
+			}, {
+				"pair": "DOGE/BTC",
+				"AEX": 0.0126727,
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"AEX": 0.0126727,
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Coinsquare": 0.0129512,
+				"max diff": "32.11661233 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Coinsquare": 0.0129512,
+				"max diff": "22.4998803198 %",
+				"CryptoBridge": 0.0167112
+			}, {
+				"pair": "DOGE/BTC",
+				"Coinsquare": 0.0129512,
+				"DC-Ex": 0.0199142,
+				"max diff": "34.9649998494 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Coinsquare": 0.0129512,
+				"Tux Exchange": 0.0105838,
+				"max diff": "22.3681475462 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Coinsquare": 0.0129512,
+				"QBTC": 0.0039348,
+				"max diff": "229.145064552 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.11661233 %",
+				"BX Thailand": 0.0129512,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "22.4998803198 %",
+				"BX Thailand": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "34.9649998494 %",
+				"BX Thailand": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "22.3681475462 %",
+				"BX Thailand": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "229.145064552 %",
+				"BX Thailand": 0.0129512
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8394116969 %",
+				"CoinEgg": 0.0128133,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3250753985 %",
+				"CoinEgg": 0.0128133
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.6574705487 %",
+				"CoinEgg": 0.0128133
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0652128725 %",
+				"CoinEgg": 0.0128133
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.640439158 %",
+				"CoinEgg": 0.0128133
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "35.0366379084 %",
+				"Mercatox": 0.0190786,
+				"Bleutrade": 0.0123941
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "25.8335726938 %",
+				"Bleutrade": 0.0123941
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "37.7625011298 %",
+				"Bleutrade": 0.0123941
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "214.986784589 %",
+				"Bleutrade": 0.0123941
+			}, {
+				"pair": "DOGE/BTC",
+				"Stocks.Exchange": 0.0135082,
+				"max diff": "29.1971108991 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Stocks.Exchange": 0.0135082,
+				"DC-Ex": 0.0199142,
+				"max diff": "32.1680007231 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Stocks.Exchange": 0.0135082,
+				"Tux Exchange": 0.0105838,
+				"max diff": "27.6309076135 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Stocks.Exchange": 0.0135082,
+				"QBTC": 0.0039348,
+				"max diff": "243.30080309 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"BitGrail": 0.0128119,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"BitGrail": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"BitGrail": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"BitGrail": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"BitGrail": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Exrates": 0.0119624,
+				"max diff": "37.2993825543 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"Exrates": 0.0119624,
+				"max diff": "28.416870123 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"Exrates": 0.0119624,
+				"max diff": "39.9303009913 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"Exrates": 0.0119624,
+				"max diff": "204.015451865 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"C-CEX": 0.0128119,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"C-CEX": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"C-CEX": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"C-CEX": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"C-CEX": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"Trade Satoshi": 0.0128119,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"Trade Satoshi": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"Trade Satoshi": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"Trade Satoshi": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"Trade Satoshi": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "32.8467497615 %",
+				"Bit-Z": 0.0128119,
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "23.3334530135 %",
+				"Bit-Z": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.664500708 %",
+				"Bit-Z": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "21.0519851093 %",
+				"Bit-Z": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "225.604859205 %",
+				"Bit-Z": 0.0128119
+			}, {
+				"pair": "DOGE/BTC",
+				"BCEX": 0.0128119,
+				"max diff": "32.8467497615 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"BCEX": 0.0128119,
+				"max diff": "23.3334530135 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"BCEX": 0.0128119,
+				"max diff": "35.664500708 %",
+				"DC-Ex": 0.0199142
+			}, {
+				"pair": "DOGE/BTC",
+				"BCEX": 0.0128119,
+				"max diff": "21.0519851093 %",
+				"Tux Exchange": 0.0105838
+			}, {
+				"pair": "DOGE/BTC",
+				"BCEX": 0.0128119,
+				"max diff": "225.604859205 %",
+				"QBTC": 0.0039348
+			}, {
+				"pair": "DOGE/BTC",
+				"Tripe Dice Exchange": 0.0136475,
+				"max diff": "28.4669734677 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Tripe Dice Exchange": 0.0136475,
+				"DC-Ex": 0.0199142,
+				"max diff": "31.4684998644 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Tripe Dice Exchange": 0.0136475,
+				"Tux Exchange": 0.0105838,
+				"max diff": "28.9470700505 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Tripe Dice Exchange": 0.0136475,
+				"QBTC": 0.0039348,
+				"max diff": "246.841008438 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Bits Blockchain": 0.0136475,
+				"max diff": "39.7955669537 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Tidex": 0.0123941,
+				"max diff": "53.9329196957 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"SouthXchange": 0.0125334,
+				"max diff": "52.2220626486 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "50.5488175369 %",
+				"Mercatox": 0.0190786,
+				"alcurEX": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"Coingi": 0.0126727,
+				"max diff": "50.5488175369 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "50.5488175369 %",
+				"Mercatox": 0.0190786,
+				"BitFlip": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"max diff": "49.4555595594 %",
+				"Mercatox": 0.0190786,
+				"OpenLedger DEX": 0.0127654
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "80.2622876472 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "384.868354173 %",
+				"Mercatox": 0.0190786
+			}, {
+				"pair": "DOGE/BTC",
+				"Bits Blockchain": 0.0136475,
+				"DC-Ex": 0.0199142,
+				"max diff": "31.4684998644 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Bits Blockchain": 0.0136475,
+				"Tux Exchange": 0.0105838,
+				"max diff": "28.9470700505 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Bits Blockchain": 0.0136475,
+				"QBTC": 0.0039348,
+				"max diff": "246.841008438 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "34.8318958214 %",
+				"Tidex": 0.0123941
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "33.3333333333 %",
+				"SouthXchange": 0.0125334
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "31.8677156407 %",
+				"alcurEX": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "31.8677156407 %",
+				"Coingi": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "31.8677156407 %",
+				"BitFlip": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"max diff": "30.9101164084 %",
+				"OpenLedger DEX": 0.0127654
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"Tux Exchange": 0.0105838,
+				"max diff": "57.8941401009 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"CryptoBridge": 0.0167112,
+				"QBTC": 0.0039348,
+				"max diff": "324.702653248 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Tidex": 0.0123941,
+				"DC-Ex": 0.0199142,
+				"max diff": "37.7625011298 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Tidex": 0.0123941,
+				"QBTC": 0.0039348,
+				"max diff": "214.986784589 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"SouthXchange": 0.0125334,
+				"DC-Ex": 0.0199142,
+				"max diff": "37.0630002712 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"SouthXchange": 0.0125334,
+				"QBTC": 0.0039348,
+				"max diff": "218.526989936 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %",
+				"alcurEX": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %",
+				"alcurEX": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"Coingi": 0.0126727,
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"Coingi": 0.0126727,
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %"
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "36.3634994125 %",
+				"BitFlip": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "222.067195283 %",
+				"BitFlip": 0.0126727
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "35.8980024304 %",
+				"OpenLedger DEX": 0.0127654
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "20.6126344035 %",
+				"OpenLedger DEX": 0.0127654
+			}, {
+				"pair": "DOGE/BTC",
+				"QBTC": 0.0039348,
+				"max diff": "224.423096473 %",
+				"OpenLedger DEX": 0.0127654
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "88.1573725883 %",
+				"Tux Exchange": 0.0105838
+			}, {
+				"pair": "DOGE/BTC",
+				"DC-Ex": 0.0199142,
+				"max diff": "406.104503406 %",
+				"QBTC": 0.0039348
+			}, {
+				"pair": "DOGE/BTC",
+				"Tux Exchange": 0.0105838,
+				"max diff": "168.979363627 %",
+				"QBTC": 0.0039348
+			}],
+			[{
+				"pair": "PAC/DOGE",
+				"max diff": "179.375875674 %",
+				"Trade Satoshi": 0.0201594,
+				"Cryptopia": 0.00721587
+			}]
+		],
+		"Market Cap": "$1,412,215,444",
+		"Coin URL": "https://coinmarketcap.com/currencies/dogecoin/",
+		"Coin ID": "35",
+		"Price": "$0.012527",
+		"Change": "4.65%"
+	}
+}, {
+	"Ardor": {
+		"Differnce": [
+			[{
+				"pair": "ARDR/BTC",
+				"max diff": "40.341545968 %",
+				"OpenLedger DEX": 2.27495,
+				"HitBTC": 1.3572
+			}, {
+				"pair": "ARDR/BTC",
+				"Poloniex": 1.33133,
+				"max diff": "41.4787138179 %",
+				"OpenLedger DEX": 2.27495
+			}, {
+				"pair": "ARDR/BTC",
+				"AEX": 1.36475,
+				"max diff": "40.0096705422 %",
+				"OpenLedger DEX": 2.27495
+			}, {
+				"pair": "ARDR/BTC",
+				"Stocks.Exchange": 1.33049,
+				"max diff": "41.5156377063 %",
+				"OpenLedger DEX": 2.27495
+			}, {
+				"pair": "ARDR/BTC",
+				"max diff": "46.1787082016 %",
+				"OpenLedger DEX": 2.27495,
+				"Bittrex": 1.55628
+			}]
+		],
+		"Market Cap": "$1,355,922,035",
+		"Coin URL": "https://coinmarketcap.com/currencies/ardor/",
+		"Coin ID": "36",
+		"Price": "$1.36",
+		"Change": "-0.86%"
+	}
+}, {
+	"Steem": {
+		"Differnce": [
+			[{
+				"pair": "STEEM/BTC",
+				"max diff": "31.4035367734 %",
+				"HitBTC": 7.95697,
+				"Bittrex": 5.4582
+			}, {
+				"pair": "STEEM/BTC",
+				"Poloniex": 5.42163,
+				"max diff": "31.8631338311 %",
+				"HitBTC": 7.95697
+			}, {
+				"pair": "STEEM/BTC",
+				"max diff": "39.0245010422 %",
+				"OpenLedger DEX": 5.72343,
+				"HitBTC": 7.95697
+			}, {
+				"pair": "STEEM/BTC",
+				"Tidex": 4.76036,
+				"max diff": "67.1505936526 %",
+				"HitBTC": 7.95697
+			}, {
+				"pair": "STEEM/BTC",
+				"Tidex": 4.76036,
+				"max diff": "20.2310329471 %",
+				"OpenLedger DEX": 5.72343
+			}]
+		],
+		"Market Cap": "$1,305,480,039",
+		"Coin URL": "https://coinmarketcap.com/currencies/steem/",
+		"Coin ID": "37",
+		"Price": "$5.29",
+		"Change": "14.33%"
+	}
+}, {
+	"Augur": {
+		"Differnce": [
+			[{
+				"pair": "REP/BTC",
+				"Poloniex": 108.373,
+				"max diff": "133.694456784 %",
+				"BigONE": 46.3738
+			}, {
+				"pair": "REP/BTC",
+				"Poloniex": 108.373,
+				"Qryptos": 1114.08,
+				"max diff": "90.2724220882 %"
+			}, {
+				"pair": "REP/BTC",
+				"Poloniex": 108.373,
+				"max diff": "99.8657686782 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "133.711707904 %",
+				"BigONE": 46.3738,
+				"Bittrex": 108.381
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "90.2717040069 %",
+				"Bittrex": 108.381
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.8657587693 %",
+				"Mercatox": 80736.0,
+				"Bittrex": 108.381
+			}, {
+				"pair": "REP/BTC",
+				"BigONE": 46.3738,
+				"max diff": "105.973631663 %",
+				"Kraken": 95.5178
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"Kraken": 95.5178,
+				"max diff": "91.4263069079 %"
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.881691191 %",
+				"Kraken": 95.5178,
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Liqui": 106.357,
+				"max diff": "129.347174482 %",
+				"BigONE": 46.3738
+			}, {
+				"pair": "REP/BTC",
+				"Liqui": 106.357,
+				"Qryptos": 1114.08,
+				"max diff": "90.4533785725 %"
+			}, {
+				"pair": "REP/BTC",
+				"Liqui": 106.357,
+				"max diff": "99.8682657055 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "137.867071493 %",
+				"BigONE": 46.3738,
+				"HitBTC": 110.308
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "90.0987361769 %",
+				"HitBTC": 110.308
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.8633719778 %",
+				"Mercatox": 80736.0,
+				"HitBTC": 110.308
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "133.045383385 %",
+				"BigONE": 46.3738,
+				"Cryptopia": 108.072
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "90.2994398966 %",
+				"Cryptopia": 108.072
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.8661414982 %",
+				"Mercatox": 80736.0,
+				"Cryptopia": 108.072
+			}, {
+				"pair": "REP/BTC",
+				"Exrates": 110.944,
+				"BigONE": 46.3738,
+				"max diff": "139.238535552 %"
+			}, {
+				"pair": "REP/BTC",
+				"Exrates": 110.944,
+				"Qryptos": 1114.08,
+				"max diff": "90.0416487146 %"
+			}, {
+				"pair": "REP/BTC",
+				"Exrates": 110.944,
+				"max diff": "99.8625842251 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Livecoin": 108.623,
+				"max diff": "134.233554291 %",
+				"BigONE": 46.3738
+			}, {
+				"pair": "REP/BTC",
+				"Livecoin": 108.623,
+				"Qryptos": 1114.08,
+				"max diff": "90.249982048 %"
+			}, {
+				"pair": "REP/BTC",
+				"Livecoin": 108.623,
+				"max diff": "99.865459027 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Abucoins": 117.218,
+				"max diff": "152.767726604 %",
+				"BigONE": 46.3738
+			}, {
+				"pair": "REP/BTC",
+				"Abucoins": 117.218,
+				"Qryptos": 1114.08,
+				"max diff": "89.4784934655 %"
+			}, {
+				"pair": "REP/BTC",
+				"Abucoins": 117.218,
+				"max diff": "21.9883546069 %",
+				"Gatecoin": 96.0895
+			}, {
+				"pair": "REP/BTC",
+				"Abucoins": 117.218,
+				"max diff": "99.8548132184 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Mr. Exchange": 104.054,
+				"max diff": "124.381008242 %",
+				"BigONE": 46.3738
+			}, {
+				"pair": "REP/BTC",
+				"Mr. Exchange": 104.054,
+				"Qryptos": 1114.08,
+				"max diff": "90.6600962229 %"
+			}, {
+				"pair": "REP/BTC",
+				"Mr. Exchange": 104.054,
+				"max diff": "99.8711182124 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "57.5409265702 %",
+				"BigONE": 46.3738,
+				"Gatehub": 109.22
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"BigONE": 46.3738,
+				"max diff": "95.8374802528 %"
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "51.7389517065 %",
+				"BigONE": 46.3738,
+				"Gatecoin": 96.0895
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.9425611871 %",
+				"BigONE": 46.3738,
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "90.1963952319 %",
+				"Gatehub": 109.22
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.8647195799 %",
+				"Gatehub": 109.22,
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "1059.41908325 %",
+				"Gatecoin": 96.0895
+			}, {
+				"pair": "REP/BTC",
+				"Qryptos": 1114.08,
+				"max diff": "98.6200951249 %",
+				"Mercatox": 80736.0
+			}, {
+				"pair": "REP/BTC",
+				"max diff": "99.8809830807 %",
+				"Mercatox": 80736.0,
+				"Gatecoin": 96.0895
+			}],
+			[{
+				"pair": "REP/ETH",
+				"Livecoin": 120.287,
+				"max diff": "22.2782179288 %",
+				"Kraken": 93.4892
+			}]
+		],
+		"Market Cap": "$1,242,461,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/augur/",
+		"Coin ID": "38",
+		"Price": "$112.95",
+		"Change": "25.67%"
+	}
+}, {
+	"Dentacoin": {
+		"Differnce": [
+			[{
+				"pair": "DCN/BTC",
+				"max diff": "2298.39423776 %",
+				"CoinExchange": 0.00362949,
+				"Cryptopia": 0.00015133
+			}, {
+				"pair": "DCN/BTC",
+				"max diff": "2482.89169365 %",
+				"Mercatox": 0.00390869,
+				"Cryptopia": 0.00015133
+			}]
+		],
+		"Market Cap": "$1,176,626,001",
+		"Coin URL": "https://coinmarketcap.com/currencies/dentacoin/",
+		"Coin ID": "39",
+		"Price": "$0.003618",
+		"Change": "8.54%"
+	}
+}, {
+	"Waves": {
+		"Differnce": [
+			[{
+				"pair": "WAVES/BTC",
+				"Tidex": 11.4101,
+				"max diff": "28.4228439839 %",
+				"COSS": 8.88479
+			}, {
+				"pair": "WAVES/BTC",
+				"YoBit": 11.5291,
+				"max diff": "29.7622115998 %",
+				"COSS": 8.88479
+			}, {
+				"pair": "WAVES/BTC",
+				"max diff": "28.3868273758 %",
+				"COSS": 8.88479,
+				"Bittrex": 11.4069
+			}, {
+				"pair": "WAVES/BTC",
+				"Binance": 11.5864,
+				"max diff": "30.4071339897 %",
+				"COSS": 8.88479
+			}, {
+				"pair": "WAVES/BTC",
+				"Exmo": 11.6004,
+				"COSS": 8.88479,
+				"max diff": "30.5647066504 %"
+			}, {
+				"pair": "WAVES/BTC",
+				"Waves Decentralized Exchange": 11.4812,
+				"COSS": 8.88479,
+				"max diff": "29.2230879965 %"
+			}, {
+				"pair": "WAVES/BTC",
+				"Liqui": 11.57,
+				"max diff": "30.2225488728 %",
+				"COSS": 8.88479
+			}, {
+				"pair": "WAVES/BTC",
+				"Livecoin": 11.4848,
+				"max diff": "29.2636066806 %",
+				"COSS": 8.88479
+			}, {
+				"pair": "WAVES/BTC",
+				"Exrates": 11.5377,
+				"COSS": 8.88479,
+				"max diff": "29.8590062342 %"
+			}, {
+				"pair": "WAVES/BTC",
+				"max diff": "20.3150839934 %",
+				"Gate.io": 11.489,
+				"HitBTC": 13.823
+			}, {
+				"pair": "WAVES/BTC",
+				"max diff": "55.5804920544 %",
+				"COSS": 8.88479,
+				"HitBTC": 13.823
+			}, {
+				"pair": "WAVES/BTC",
+				"max diff": "29.3108784788 %",
+				"COSS": 8.88479,
+				"Gate.io": 11.489
+			}, {
+				"pair": "WAVES/BTC",
+				"max diff": "23.2136930895 %",
+				"COSS": 8.88479,
+				"OpenLedger DEX": 11.5708
+			}],
+			[{
+				"pair": "MER/WAVES",
+				"Tidex": 19.3818,
+				"Waves Decentralized Exchange": 13.042,
+				"max diff": "32.7100682083 %"
+			}],
+			[{
+				"pair": "WAVES/ETH",
+				"Binance": 11.506,
+				"max diff": "67.5718107688 %",
+				"COSS": 6.86631
+			}, {
+				"pair": "WAVES/ETH",
+				"max diff": "68.2970911596 %",
+				"COSS": 6.86631,
+				"Bittrex": 11.5558
+			}, {
+				"pair": "WAVES/ETH",
+				"Liqui": 11.3232,
+				"max diff": "64.9095365633 %",
+				"COSS": 6.86631
+			}, {
+				"pair": "WAVES/ETH",
+				"Liqui": 11.3232,
+				"Waves Decentralized Exchange": 14.3047,
+				"max diff": "20.8427999189 %"
+			}, {
+				"pair": "WAVES/ETH",
+				"Tidex": 11.3133,
+				"max diff": "64.7653543169 %",
+				"COSS": 6.86631
+			}, {
+				"pair": "WAVES/ETH",
+				"Tidex": 11.3133,
+				"Waves Decentralized Exchange": 14.3047,
+				"max diff": "20.9120079414 %"
+			}, {
+				"pair": "WAVES/ETH",
+				"Waves Decentralized Exchange": 14.3047,
+				"COSS": 6.86631,
+				"max diff": "51.9996225017 %"
+			}],
+			[{
+				"pair": "AHT/WAVES",
+				"Tidex": 9.80663,
+				"Waves Decentralized Exchange": 19.6133,
+				"max diff": "100.000407887 %"
+			}],
+			[{
+				"pair": "RBX/WAVES",
+				"Tidex": 4.18367,
+				"Waves Decentralized Exchange": 12.9847,
+				"max diff": "210.366257377 %"
+			}],
+			[{
+				"pair": "B@/WAVES",
+				"Tidex": 3.53332,
+				"Waves Decentralized Exchange": 13.0733,
+				"max diff": "270.000452832 %"
+			}],
+			[{
+				"pair": "ETH/WAVES",
+				"Tidex": 15.3014,
+				"Waves Decentralized Exchange": 11.391,
+				"max diff": "25.5558314925 %"
+			}],
+			[{
+				"pair": "INCNT/WAVES",
+				"Tidex": 42.4092,
+				"Waves Decentralized Exchange": 16.9569,
+				"max diff": "60.0159870971 %"
+			}],
+			[{
+				"pair": "WGO/WAVES",
+				"Tidex": 6.08578,
+				"Waves Decentralized Exchange": 11.592,
+				"max diff": "90.4768164475 %"
+			}]
+		],
+		"Market Cap": "$1,159,960,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/waves/",
+		"Coin ID": "40",
+		"Price": "$11.60",
+		"Change": "3.09%"
+	}
+}, {
+	"DigiByte": {
+		"Differnce": [
+			[{
+				"pair": "DGB/DOGE",
+				"max diff": "212.847917085 %",
+				"Trade Satoshi": 0.357995,
+				"Cryptopia": 0.114431
+			}]
+		],
+		"Market Cap": "$984,169,472",
+		"Coin URL": "https://coinmarketcap.com/currencies/digibyte/",
+		"Coin ID": "41",
+		"Price": "$0.101612",
+		"Change": "1.90%"
+	}
+}, {
+	"Dragonchain": {
+		"Differnce": [
+			[{
+				"pair": "DRGN/ETH",
+				"Tidex": 3.8562,
+				"Token Store": 4.88851,
+				"max diff": "26.7701364037 %"
+			}]
+		],
+		"Market Cap": "$971,843,591",
+		"Coin URL": "https://coinmarketcap.com/currencies/dragonchain/",
+		"Coin ID": "42",
+		"Price": "$4.08",
+		"Change": "-6.18%"
+	}
+}, {
+	"0x": {
+		"Differnce": [
+			[{
+				"pair": "ZRX/BTC",
+				"Binance": 1.99225,
+				"max diff": "58.0774418789 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"Poloniex": 1.9768,
+				"max diff": "56.8515432833 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"Huobi": 1.99922,
+				"max diff": "58.6304848052 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"Bitfinex": 2.00535,
+				"BigONE": 1.2603,
+				"max diff": "59.1168769341 %"
+			}, {
+				"pair": "ZRX/BTC",
+				"max diff": "54.6965008331 %",
+				"BigONE": 1.2603,
+				"HitBTC": 1.94964
+			}, {
+				"pair": "ZRX/BTC",
+				"OKEx": 1.99574,
+				"max diff": "58.354360073 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"Liqui": 1.97373,
+				"max diff": "56.607950488 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"max diff": "59.8897087995 %",
+				"BigONE": 1.2603,
+				"Gate.io": 2.01509
+			}, {
+				"pair": "ZRX/BTC",
+				"Livecoin": 1.9158,
+				"max diff": "52.011425851 %",
+				"BigONE": 1.2603
+			}, {
+				"pair": "ZRX/BTC",
+				"max diff": "50.8291676585 %",
+				"BigONE": 1.2603,
+				"Gatecoin": 1.9009
+			}, {
+				"pair": "ZRX/BTC",
+				"max diff": "65.7462508926 %",
+				"BigONE": 1.2603,
+				"Mercatox": 2.0889
+			}],
+			[{
+				"pair": "ZRX/ETH",
+				"Binance": 2.00143,
+				"max diff": "1687.77322221 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"Poloniex": 1.95825,
+				"max diff": "1649.20277621 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "1585.88936231 %",
+				"ChaoEX": 1.88737,
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"EtherDelta": 1.86584,
+				"max diff": "1566.65773419 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"Bitfinex": 1.97182,
+				"max diff": "1661.32415074 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "1654.43720914 %",
+				"Gatecoin": 0.111951,
+				"HitBTC": 1.96411
+			}, {
+				"pair": "ZRX/ETH",
+				"Liqui": 1.92239,
+				"max diff": "1617.17090513 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "1595.54537253 %",
+				"Gatecoin": 0.111951,
+				"Gate.io": 1.89818
+			}, {
+				"pair": "ZRX/ETH",
+				"OKEx": 1.90602,
+				"max diff": "1602.54843637 %",
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "25.3520010417 %",
+				"IDEX": 1.76633,
+				"Mercatox": 2.21413
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "1877.7670588 %",
+				"Mercatox": 2.21413,
+				"Gatecoin": 0.111951
+			}, {
+				"pair": "ZRX/ETH",
+				"max diff": "1477.77063179 %",
+				"IDEX": 1.76633,
+				"Gatecoin": 0.111951
+			}]
+		],
+		"Market Cap": "$946,259,033",
+		"Coin URL": "https://coinmarketcap.com/currencies/0x/",
+		"Coin ID": "43",
+		"Price": "$1.93",
+		"Change": "-3.66%"
+	}
+}, {
+	"Loopring": {
+		"Differnce": [
+			[{
+				"pair": "LRC/ETH",
+				"Binance": 1.48023,
+				"max diff": "25.6094803021 %",
+				"CoinExchange": 1.98981
+			}, {
+				"pair": "LRC/ETH",
+				"OKEx": 1.48448,
+				"max diff": "25.3958920701 %",
+				"CoinExchange": 1.98981
+			}, {
+				"pair": "LRC/ETH",
+				"max diff": "25.9215704012 %",
+				"CoinExchange": 1.98981,
+				"Gate.io": 1.47402
+			}, {
+				"pair": "LRC/ETH",
+				"max diff": "27.5473537674 %",
+				"CoinExchange": 1.98981,
+				"HitBTC": 1.44167
+			}],
+			[{
+				"pair": "LRC/BTC",
+				"Binance": 1.49106,
+				"max diff": "37.9410234533 %",
+				"YoBit": 2.40265
+			}, {
+				"pair": "LRC/BTC",
+				"OKEx": 1.5022,
+				"max diff": "37.4773687387 %",
+				"YoBit": 2.40265
+			}, {
+				"pair": "LRC/BTC",
+				"YoBit": 2.40265,
+				"max diff": "38.4454664641 %",
+				"HitBTC": 1.47894
+			}, {
+				"pair": "LRC/BTC",
+				"YoBit": 2.40265,
+				"max diff": "38.7929993965 %",
+				"Gate.io": 1.47059
+			}, {
+				"pair": "LRC/BTC",
+				"YoBit": 2.40265,
+				"max diff": "31.6870954987 %",
+				"CoinExchange": 1.64132
+			}]
+		],
+		"Market Cap": "$936,145,584",
+		"Coin URL": "https://coinmarketcap.com/currencies/loopring/",
+		"Coin ID": "44",
+		"Price": "$1.50",
+		"Change": "-9.79%"
+	}
+}, {
+	"Ark": {
+		"Differnce": [
+			[{
+				"pair": "ARK/BTC",
+				"Binance": 9.03465,
+				"max diff": "22.9513299619 %",
+				"COSS": 11.7259
+			}, {
+				"pair": "ARK/BTC",
+				"max diff": "24.2465823519 %",
+				"COSS": 11.7259,
+				"Bittrex": 8.88277
+			}, {
+				"pair": "ARK/BTC",
+				"max diff": "23.49423072 %",
+				"COSS": 11.7259,
+				"Cryptopia": 8.97099
+			}, {
+				"pair": "ARK/BTC",
+				"OKEx": 9.26414,
+				"max diff": "20.9942093997 %",
+				"COSS": 11.7259
+			}, {
+				"pair": "ARK/BTC",
+				"max diff": "34.7863469899 %",
+				"COSS": 11.7259,
+				"Bit-Z": 8.69962
+			}]
+		],
+		"Market Cap": "$862,427,343",
+		"Coin URL": "https://coinmarketcap.com/currencies/ark/",
+		"Coin ID": "46",
+		"Price": "$8.80",
+		"Change": "3.40%"
+	}
+}, {
+	"Komodo": {
+		"Differnce": [
+			[{
+				"pair": "KMD/ETH",
+				"Binance": 8.38682,
+				"max diff": "33.3996077614 %",
+				"CoinExchange": 6.28699
+			}]
+		],
+		"Market Cap": "$860,546,310",
+		"Coin URL": "https://coinmarketcap.com/currencies/komodo/",
+		"Coin ID": "47",
+		"Price": "$8.28",
+		"Change": "14.10%"
+	}
+}, {
+	"WAX": {
+		"Differnce": [
+			[{
+				"pair": "WAX/BTC",
+				"Tidex": 1.167,
+				"Huobi": 1.62962,
+				"max diff": "39.6418166238 %"
+			}],
+			[{
+				"pair": "WAX/ETH",
+				"Tidex": 1.21155,
+				"Huobi": 1.63572,
+				"max diff": "35.0105237093 %"
+			}]
+		],
+		"Market Cap": "$842,779,725",
+		"Coin URL": "https://coinmarketcap.com/currencies/wax/",
+		"Coin ID": "48",
+		"Price": "$1.71",
+		"Change": "-10.54%"
+	}
+}, {
+	"Hshare": {
+		"Differnce": [
+			[{
+				"pair": "HSR/BTC",
+				"Binance": 18.7305,
+				"max diff": "51.0714108455 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"Binance": 18.7305,
+				"max diff": "34.8841817632 %",
+				"Hypex": 28.7649
+			}, {
+				"pair": "HSR/BTC",
+				"Binance": 18.7305,
+				"QBTC": 61.3216,
+				"max diff": "69.45529797 %"
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "50.8969131142 %",
+				"Trade Satoshi": 38.2813,
+				"Allcoin": 18.7973
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "34.6519542915 %",
+				"Allcoin": 18.7973
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "69.346364087 %",
+				"Allcoin": 18.7973
+			}, {
+				"pair": "HSR/BTC",
+				"OKEx": 18.754,
+				"max diff": "51.0100231706 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"OKEx": 18.754,
+				"max diff": "34.802484973 %",
+				"Hypex": 28.7649
+			}, {
+				"pair": "HSR/BTC",
+				"OKEx": 18.754,
+				"QBTC": 61.3216,
+				"max diff": "69.4169754214 %"
+			}, {
+				"pair": "HSR/BTC",
+				"Huobi": 18.6121,
+				"max diff": "51.3807002375 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"Huobi": 18.6121,
+				"max diff": "35.2957945274 %"
+			}, {
+				"pair": "HSR/BTC",
+				"Huobi": 18.6121,
+				"max diff": "69.6483783854 %",
+				"QBTC": 61.3216
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "50.9987905322 %",
+				"Trade Satoshi": 38.2813,
+				"Bit-Z": 18.7583
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "34.7875361986 %",
+				"Bit-Z": 18.7583
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "69.4099632104 %",
+				"Bit-Z": 18.7583
+			}, {
+				"pair": "HSR/BTC",
+				"TOPBTC": 20.318,
+				"max diff": "46.9244774864 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"TOPBTC": 20.318,
+				"max diff": "29.3653028517 %",
+				"Hypex": 28.7649
+			}, {
+				"pair": "HSR/BTC",
+				"TOPBTC": 20.318,
+				"QBTC": 61.3216,
+				"max diff": "66.866487502 %"
+			}, {
+				"pair": "HSR/BTC",
+				"ZB.COM": 18.6609,
+				"Trade Satoshi": 38.2813,
+				"max diff": "51.2532228529 %"
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"ZB.COM": 18.6609,
+				"max diff": "35.1261433205 %"
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"ZB.COM": 18.6609,
+				"max diff": "69.568797944 %"
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "51.2532228529 %",
+				"Trade Satoshi": 38.2813,
+				"EXX": 18.6609
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "35.1261433205 %",
+				"EXX": 18.6609
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "69.568797944 %",
+				"EXX": 18.6609
+			}, {
+				"pair": "HSR/BTC",
+				"CoolCoin": 19.873,
+				"max diff": "48.0869249477 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"CoolCoin": 19.873,
+				"max diff": "30.9123271765 %",
+				"Hypex": 28.7649
+			}, {
+				"pair": "HSR/BTC",
+				"CoolCoin": 19.873,
+				"QBTC": 61.3216,
+				"max diff": "67.5921698064 %"
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "49.0714787638 %",
+				"Trade Satoshi": 38.2813,
+				"Cryptopia": 19.4961
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "32.2226046327 %",
+				"Cryptopia": 19.4961
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "68.2067982571 %",
+				"Cryptopia": 19.4961
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "49.4361476752 %",
+				"Trade Satoshi": 38.2813,
+				"Kucoin": 19.3565
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "32.707918331 %",
+				"Kucoin": 19.3565
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "68.4344505036 %",
+				"Kucoin": 19.3565
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "51.9794259861 %",
+				"Trade Satoshi": 38.2813,
+				"Gate.io": 18.3829
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "36.0925989661 %",
+				"Gate.io": 18.3829
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "70.0221455409 %",
+				"Gate.io": 18.3829
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "50.7425296424 %",
+				"Trade Satoshi": 38.2813,
+				"C-CEX": 18.8564
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "34.4464955553 %",
+				"C-CEX": 18.8564
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "69.249986954 %",
+				"C-CEX": 18.8564
+			}, {
+				"pair": "HSR/BTC",
+				"max diff": "50.780407144 %",
+				"Trade Satoshi": 38.2813,
+				"HitBTC": 18.8419
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "34.4969042131 %",
+				"HitBTC": 18.8419
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "69.2736327819 %",
+				"HitBTC": 18.8419
+			}, {
+				"pair": "HSR/BTC",
+				"Abucoins": 19.6375,
+				"max diff": "48.7021078177 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"Abucoins": 19.6375,
+				"max diff": "31.731033308 %",
+				"Hypex": 28.7649
+			}, {
+				"pair": "HSR/BTC",
+				"Abucoins": 19.6375,
+				"QBTC": 61.3216,
+				"max diff": "67.9762106664 %"
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"max diff": "33.08337592 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"QBTC": 61.3216,
+				"max diff": "37.5728943798 %",
+				"Trade Satoshi": 38.2813
+			}, {
+				"pair": "HSR/BTC",
+				"Hypex": 28.7649,
+				"QBTC": 61.3216,
+				"max diff": "53.0917327663 %"
+			}],
+			[{
+				"pair": "HSR/DOGE",
+				"max diff": "52.920996794 %",
+				"Trade Satoshi": 12.159,
+				"Cryptopia": 25.8268
+			}]
+		],
+		"Market Cap": "$802,190,897",
+		"Coin URL": "https://coinmarketcap.com/currencies/hshare/",
+		"Coin ID": "49",
+		"Price": "$18.88",
+		"Change": "8.16%"
+	}
+}, {
+	"Basic Attenti...": {
+		"Differnce": [
+			[{
+				"pair": "BAT/BTC",
+				"Huobi": 0.744605,
+				"max diff": "20.3880495203 %",
+				"Mercatox": 0.935293
+			}, {
+				"pair": "BAT/BTC",
+				"Binance": 0.743767,
+				"max diff": "20.4776471117 %",
+				"Mercatox": 0.935293
+			}, {
+				"pair": "BAT/BTC",
+				"Liqui": 0.738044,
+				"max diff": "21.0895409246 %",
+				"Mercatox": 0.935293
+			}, {
+				"pair": "BAT/BTC",
+				"max diff": "21.7910323289 %",
+				"Mercatox": 0.935293,
+				"Gate.io": 0.731483
+			}]
+		],
+		"Market Cap": "$755,269,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/basic-attention-token/",
+		"Coin ID": "50",
+		"Price": "$0.755269",
+		"Change": "6.05%"
+	}
+}, {
+	"Golem": {
+		"Differnce": [
+			[{
+				"pair": "GNT/BTC",
+				"max diff": "42.3290014553 %",
+				"Mercatox": 1.56668,
+				"Bittrex": 0.90352
+			}, {
+				"pair": "GNT/BTC",
+				"Poloniex": 0.905608,
+				"max diff": "42.1957259938 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Liqui": 0.898228,
+				"max diff": "42.6667858146 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Bitfinex": 0.898645,
+				"max diff": "42.6401690198 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Huobi": 0.907488,
+				"max diff": "42.0757270151 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"max diff": "42.6667858146 %",
+				"Mercatox": 1.56668,
+				"Cryptopia": 0.898228
+			}, {
+				"pair": "GNT/BTC",
+				"Exrates": 0.850879,
+				"max diff": "45.689036689 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Abucoins": 0.923294,
+				"max diff": "41.0668419843 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Tux Exchange": 0.893771,
+				"max diff": "75.2887484602 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"Tidex": 0.849347,
+				"max diff": "84.4570004957 %",
+				"Mercatox": 1.56668
+			}, {
+				"pair": "GNT/BTC",
+				"max diff": "50.1010778443 %",
+				"Mercatox": 1.56668,
+				"Heat Wallet": 1.04375
+			}],
+			[{
+				"pair": "GNT/ETH",
+				"Huobi": 0.901793,
+				"max diff": "99.9927502191 %",
+				"CryptoDerivatives": 12438.9
+			}, {
+				"pair": "GNT/ETH",
+				"Poloniex": 0.889223,
+				"max diff": "99.992851273 %",
+				"CryptoDerivatives": 12438.9
+			}, {
+				"pair": "GNT/ETH",
+				"Bitfinex": 0.888638,
+				"max diff": "99.992855976 %",
+				"CryptoDerivatives": 12438.9
+			}, {
+				"pair": "GNT/ETH",
+				"max diff": "99.9927999743 %",
+				"CryptoDerivatives": 12438.9,
+				"Bittrex": 0.895604
+			}, {
+				"pair": "GNT/ETH",
+				"Liqui": 0.888701,
+				"max diff": "99.9928554695 %",
+				"CryptoDerivatives": 12438.9
+			}, {
+				"pair": "GNT/ETH",
+				"max diff": "99.9927499699 %",
+				"CryptoDerivatives": 12438.9,
+				"Gate.io": 0.901824
+			}]
+		],
+		"Market Cap": "$739,599,125",
+		"Coin URL": "https://coinmarketcap.com/currencies/golem-network-tokens/",
+		"Coin ID": "52",
+		"Price": "$0.886531",
+		"Change": "2.19%"
+	}
+}, {
+	"PIVX": {
+		"Differnce": [
+			[{
+				"pair": "PIVX/BTC",
+				"max diff": "26.5459858662 %",
+				"CoinExchange": 17.5891,
+				"Bittrex": 12.9199
+			}, {
+				"pair": "PIVX/BTC",
+				"max diff": "24.6971135533 %",
+				"CoinExchange": 17.5891,
+				"Cryptopia": 13.2451
+			}, {
+				"pair": "PIVX/BTC",
+				"Livecoin": 12.9722,
+				"max diff": "26.2486426253 %",
+				"CoinExchange": 17.5891
+			}, {
+				"pair": "PIVX/BTC",
+				"YoBit": 12.7035,
+				"max diff": "38.4586924863 %",
+				"CoinExchange": 17.5891
+			}]
+		],
+		"Market Cap": "$706,063,490",
+		"Coin URL": "https://coinmarketcap.com/currencies/pivx/",
+		"Coin ID": "55",
+		"Price": "$12.76",
+		"Change": "4.52%"
+	}
+}, {
+	"SmartCash": {
+		"Differnce": [
+			[{
+				"pair": "SMART/BTC",
+				"Stocks.Exchange": 2.7852,
+				"max diff": "57.1499353727 %",
+				"HitBTC": 1.19346
+			}, {
+				"pair": "SMART/BTC",
+				"max diff": "287.607825816 %",
+				"Cryptopia": 0.307904,
+				"HitBTC": 1.19346
+			}, {
+				"pair": "SMART/BTC",
+				"Stocks.Exchange": 2.7852,
+				"max diff": "53.8298865432 %",
+				"CoinExchange": 1.28593
+			}, {
+				"pair": "SMART/BTC",
+				"max diff": "317.639913739 %",
+				"CoinExchange": 1.28593,
+				"Cryptopia": 0.307904
+			}, {
+				"pair": "SMART/BTC",
+				"Stocks.Exchange": 2.7852,
+				"max diff": "804.567657452 %",
+				"Cryptopia": 0.307904
+			}],
+			[{
+				"pair": "SMART/DOGE",
+				"max diff": "192.269374271 %",
+				"CoinExchange": 1.47034,
+				"Cryptopia": 0.503077
+			}]
+		],
+		"Market Cap": "$635,011,579",
+		"Coin URL": "https://coinmarketcap.com/currencies/smartcash/",
+		"Coin ID": "59",
+		"Price": "$1.11",
+		"Change": "78.80%"
+	}
+}, {
+	"Experience Po...": {
+		"Differnce": [
+			[{
+				"pair": "XP/DOGE",
+				"CryptoBridge": 0.00220295,
+				"max diff": "33.9812524115 %",
+				"CoinExchange": 0.00295154
+			}, {
+				"pair": "XP/DOGE",
+				"CryptoBridge": 0.00220295,
+				"max diff": "22.0680213389 %",
+				"Trade Satoshi": 0.00282676
+			}]
+		],
+		"Market Cap": "$625,871,320",
+		"Coin URL": "https://coinmarketcap.com/currencies/experience-points/",
+		"Coin ID": "61",
+		"Price": "$0.002971",
+		"Change": "5.92%"
+	}
+}, {
+	"Kyber Network": {
+		"Differnce": [
+			[{
+				"pair": "KNC/ETH",
+				"max diff": "31.7584935042 %",
+				"Kucoin": 5.2798,
+				"Mercatox": 4.00718
+			}],
+			[{
+				"pair": "KNC/BTC",
+				"Binance": 4.74277,
+				"max diff": "20.0588926364 %",
+				"COSS": 5.93283
+			}, {
+				"pair": "KNC/BTC",
+				"Binance": 4.74277,
+				"max diff": "28.2075749671 %",
+				"Tidex": 3.69929
+			}, {
+				"pair": "KNC/BTC",
+				"Binance": 4.74277,
+				"max diff": "109.01270531 %",
+				"BigONE": 2.26913
+			}, {
+				"pair": "KNC/BTC",
+				"Tidex": 3.69929,
+				"Huobi": 4.7857,
+				"max diff": "29.3680679265 %"
+			}, {
+				"pair": "KNC/BTC",
+				"Huobi": 4.7857,
+				"max diff": "110.904619832 %",
+				"BigONE": 2.26913
+			}, {
+				"pair": "KNC/BTC",
+				"OKEx": 4.79163,
+				"max diff": "29.5283689573 %",
+				"Tidex": 3.69929
+			}, {
+				"pair": "KNC/BTC",
+				"OKEx": 4.79163,
+				"max diff": "111.165953471 %",
+				"BigONE": 2.26913
+			}, {
+				"pair": "KNC/BTC",
+				"Tidex": 3.69929,
+				"max diff": "33.9586785572 %",
+				"Kucoin": 4.95552
+			}, {
+				"pair": "KNC/BTC",
+				"max diff": "118.38854539 %",
+				"BigONE": 2.26913,
+				"Kucoin": 4.95552
+			}, {
+				"pair": "KNC/BTC",
+				"Liqui": 4.70801,
+				"max diff": "20.6447850351 %",
+				"COSS": 5.93283
+			}, {
+				"pair": "KNC/BTC",
+				"Liqui": 4.70801,
+				"max diff": "27.2679351984 %",
+				"Tidex": 3.69929
+			}, {
+				"pair": "KNC/BTC",
+				"Liqui": 4.70801,
+				"max diff": "107.480840675 %",
+				"BigONE": 2.26913
+			}, {
+				"pair": "KNC/BTC",
+				"Tidex": 3.69929,
+				"max diff": "31.6982447983 %",
+				"Cryptopia": 4.8719
+			}, {
+				"pair": "KNC/BTC",
+				"max diff": "114.703432593 %",
+				"BigONE": 2.26913,
+				"Cryptopia": 4.8719
+			}, {
+				"pair": "KNC/BTC",
+				"max diff": "37.0836597048 %",
+				"COSS": 5.93283,
+				"Mercatox": 4.32789
+			}, {
+				"pair": "KNC/BTC",
+				"Tidex": 3.69929,
+				"max diff": "60.3775319048 %",
+				"COSS": 5.93283
+			}, {
+				"pair": "KNC/BTC",
+				"BigONE": 2.26913,
+				"max diff": "161.458356286 %",
+				"COSS": 5.93283
+			}, {
+				"pair": "KNC/BTC",
+				"max diff": "90.7290459339 %",
+				"BigONE": 2.26913,
+				"Mercatox": 4.32789
+			}, {
+				"pair": "KNC/BTC",
+				"Tidex": 3.69929,
+				"max diff": "63.0267988172 %",
+				"BigONE": 2.26913
+			}]
+		],
+		"Market Cap": "$593,895,318",
+		"Coin URL": "https://coinmarketcap.com/currencies/kyber-network/",
+		"Coin ID": "63",
+		"Price": "$4.43",
+		"Change": "-1.52%"
+	}
+}, {
+	"ReddCoin": {
+		"Differnce": [
+			[{
+				"pair": "RDD/LTC",
+				"max diff": "39.9846536885 %",
+				"Trade Satoshi": 0.0260881,
+				"Cryptopia": 0.0186364
+			}]
+		],
+		"Market Cap": "$577,437,099",
+		"Coin URL": "https://coinmarketcap.com/currencies/reddcoin/",
+		"Coin ID": "65",
+		"Price": "$0.020107",
+		"Change": "2.55%"
+	}
+}, {
+	"GXShares": {
+		"Differnce": [
+			[{
+				"pair": "GXS/BTC",
+				"Binance": 9.02348,
+				"OEX": 13.3468,
+				"max diff": "32.3921838943 %"
+			}, {
+				"pair": "GXS/BTC",
+				"Binance": 9.02348,
+				"QBTC": 3.01231,
+				"max diff": "199.55349881 %"
+			}, {
+				"pair": "GXS/BTC",
+				"OEX": 13.3468,
+				"max diff": "28.8789822279 %",
+				"Bit-Z": 9.49238
+			}, {
+				"pair": "GXS/BTC",
+				"QBTC": 3.01231,
+				"max diff": "215.119625802 %",
+				"Bit-Z": 9.49238
+			}, {
+				"pair": "GXS/BTC",
+				"OEX": 13.3468,
+				"BigONE": 9.07401,
+				"max diff": "32.0135912728 %"
+			}, {
+				"pair": "GXS/BTC",
+				"QBTC": 3.01231,
+				"max diff": "201.230949006 %",
+				"BigONE": 9.07401
+			}, {
+				"pair": "GXS/BTC",
+				"OEX": 13.3468,
+				"max diff": "37.2451823658 %",
+				"Allcoin": 8.37576
+			}, {
+				"pair": "GXS/BTC",
+				"QBTC": 3.01231,
+				"max diff": "178.051063802 %",
+				"Allcoin": 8.37576
+			}, {
+				"pair": "GXS/BTC",
+				"QBTC": 3.01231,
+				"OEX": 13.3468,
+				"max diff": "343.075247899 %"
+			}]
+		],
+		"Market Cap": "$570,247,800",
+		"Coin URL": "https://coinmarketcap.com/currencies/gxshares/",
+		"Coin ID": "66",
+		"Price": "$9.50",
+		"Change": "18.10%"
+	}
+}, {
+	"Bytom": {
+		"Differnce": [
+			[{
+				"pair": "BTM/BTC",
+				"Huobi": 0.661694,
+				"max diff": "31.0177810397 %",
+				"Allcoin": 0.959224
+			}, {
+				"pair": "BTM/BTC",
+				"Bibox": 0.682374,
+				"max diff": "28.8618716796 %",
+				"Allcoin": 0.959224
+			}, {
+				"pair": "BTM/BTC",
+				"OKEx": 0.654522,
+				"max diff": "31.7654687539 %",
+				"Allcoin": 0.959224
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "29.1522105369 %",
+				"Kucoin": 0.679589,
+				"Allcoin": 0.959224
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "32.7817068797 %",
+				"Allcoin": 0.959224,
+				"Gate.io": 0.644774
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "27.9181922054 %",
+				"Allcoin": 0.959224,
+				"Cryptopia": 0.691426
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "31.0395694853 %",
+				"Allcoin": 0.959224,
+				"HitBTC": 0.661485
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "30.1248717713 %",
+				"Allcoin": 0.959224,
+				"EXX": 0.670259
+			}, {
+				"pair": "BTM/BTC",
+				"max diff": "23.9547801139 %",
+				"BigONE": 0.729444,
+				"Allcoin": 0.959224
+			}, {
+				"pair": "BTM/BTC",
+				"CoolCoin": 0.682235,
+				"max diff": "28.8763625597 %",
+				"Allcoin": 0.959224
+			}],
+			[{
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"Huobi": 0.64787,
+				"max diff": "30.5546771913 %"
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"Bibox": 0.617793,
+				"max diff": "33.7786372051 %"
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"max diff": "32.1333746373 %",
+				"Gate.io": 0.633142
+			}, {
+				"pair": "BTM/ETH",
+				"OKEx": 0.636924,
+				"max diff": "31.7279812546 %",
+				"EtherDelta": 0.932921
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"max diff": "28.2667021109 %",
+				"Kucoin": 0.669215
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"max diff": "29.9999678429 %",
+				"EXX": 0.653045
+			}, {
+				"pair": "BTM/ETH",
+				"max diff": "20.5781982746 %",
+				"Allcoin": 0.73141,
+				"HitBTC": 0.580899
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"max diff": "37.7333128957 %",
+				"HitBTC": 0.580899
+			}, {
+				"pair": "BTM/ETH",
+				"EtherDelta": 0.932921,
+				"max diff": "21.6000068602 %",
+				"Allcoin": 0.73141
+			}]
+		],
+		"Market Cap": "$553,840,245",
+		"Coin URL": "https://coinmarketcap.com/currencies/bytom/",
+		"Coin ID": "67",
+		"Price": "$0.561135",
+		"Change": "7.14%"
+	}
+}, {
+	"Factom": {
+		"Differnce": [
+			[{
+				"pair": "FCT/BTC",
+				"BCEX": 46.3739,
+				"max diff": "32.3235699391 %",
+				"Bit-Z": 61.3636
+			}, {
+				"pair": "FCT/BTC",
+				"Poloniex": 61.3636,
+				"BCEX": 46.3739,
+				"max diff": "32.3235699391 %"
+			}, {
+				"pair": "FCT/BTC",
+				"BCEX": 46.3739,
+				"max diff": "33.2456403279 %",
+				"Bittrex": 61.7912
+			}, {
+				"pair": "FCT/BTC",
+				"BCEX": 46.3739,
+				"max diff": "28.8410075495 %",
+				"Cryptopia": 59.7486
+			}, {
+				"pair": "FCT/BTC",
+				"BCEX": 46.3739,
+				"Qryptos": 61.9806,
+				"max diff": "33.6540597189 %"
+			}]
+		],
+		"Market Cap": "$521,991,640",
+		"Coin URL": "https://coinmarketcap.com/currencies/factom/",
+		"Coin ID": "70",
+		"Price": "$59.69",
+		"Change": "-4.22%"
+	}
+}, {
+	"aelf": {
+		"Differnce": [
+			[{
+				"pair": "ELF/BTC",
+				"Binance": 2.12465,
+				"BCEX": 1.74495,
+				"max diff": "21.7599358148 %"
+			}, {
+				"pair": "ELF/BTC",
+				"OKEx": 2.10259,
+				"BCEX": 1.74495,
+				"max diff": "20.4957162096 %"
+			}, {
+				"pair": "ELF/BTC",
+				"BCEX": 1.74495,
+				"Bibox": 2.38709,
+				"max diff": "36.7999083068 %"
+			}]
+		],
+		"Market Cap": "$511,640,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/aelf/",
+		"Coin ID": "71",
+		"Price": "$2.05",
+		"Change": "4.77%"
+	}
+}, {
+	"Aeternity": {
+		"Differnce": [
+			[{
+				"pair": "AE/ETH",
+				"max diff": "38.466588775 %",
+				"Mercatox": 3.73168,
+				"Gate.io": 2.29623
+			}, {
+				"pair": "AE/ETH",
+				"Liqui": 2.22657,
+				"max diff": "40.3333083223 %",
+				"Mercatox": 3.73168
+			}, {
+				"pair": "AE/ETH",
+				"EtherDelta": 2.73657,
+				"max diff": "26.6665416113 %",
+				"Mercatox": 3.73168
+			}],
+			[{
+				"pair": "AE/BTC",
+				"Liqui": 2.27147,
+				"max diff": "53.3838459502 %",
+				"Mercatox": 4.87271
+			}, {
+				"pair": "AE/BTC",
+				"Liqui": 2.27147,
+				"max diff": "158.959088142 %",
+				"Hypex": 0.877154
+			}, {
+				"pair": "AE/BTC",
+				"max diff": "51.9862663692 %",
+				"Mercatox": 4.87271,
+				"HitBTC": 2.33957
+			}, {
+				"pair": "AE/BTC",
+				"Hypex": 0.877154,
+				"max diff": "166.722833163 %",
+				"HitBTC": 2.33957
+			}, {
+				"pair": "AE/BTC",
+				"AEX": 2.36742,
+				"max diff": "51.4147158357 %",
+				"Mercatox": 4.87271
+			}, {
+				"pair": "AE/BTC",
+				"AEX": 2.36742,
+				"max diff": "169.897874262 %",
+				"Hypex": 0.877154
+			}, {
+				"pair": "AE/BTC",
+				"max diff": "54.0210683583 %",
+				"BigONE": 2.24042,
+				"Mercatox": 4.87271
+			}, {
+				"pair": "AE/BTC",
+				"Hypex": 0.877154,
+				"max diff": "155.419230831 %",
+				"BigONE": 2.24042
+			}, {
+				"pair": "AE/BTC",
+				"Hypex": 0.877154,
+				"max diff": "455.513627026 %",
+				"Mercatox": 4.87271
+			}]
+		],
+		"Market Cap": "$510,985,933",
+		"Coin URL": "https://coinmarketcap.com/currencies/aeternity/",
+		"Coin ID": "72",
+		"Price": "$2.19",
+		"Change": "1.03%"
+	}
+}, {
+	"Nexus": {
+		"Differnce": [
+			[{
+				"pair": "NXS/BTC",
+				"Stocks.Exchange": 11.831,
+				"max diff": "22.197447384 %",
+				"Bittrex": 9.20482
+			}, {
+				"pair": "NXS/BTC",
+				"Stocks.Exchange": 11.831,
+				"max diff": "22.2033640436 %",
+				"Cryptopia": 9.20412
+			}]
+		],
+		"Market Cap": "$501,556,113",
+		"Coin URL": "https://coinmarketcap.com/currencies/nexus/",
+		"Coin ID": "75",
+		"Price": "$9.13",
+		"Change": "-3.27%"
+	}
+}, {
+	"Enigma": {
+		"Differnce": [
+			[{
+				"pair": "ENG/ETH",
+				"Binance": 6.90324,
+				"max diff": "46.0443724203 %",
+				"Mercatox": 4.72681
+			}, {
+				"pair": "ENG/ETH",
+				"Binance": 6.90324,
+				"max diff": "354.893743205 %",
+				"Tidex": 1.51755
+			}, {
+				"pair": "ENG/ETH",
+				"max diff": "42.1491449836 %",
+				"Mercatox": 4.72681,
+				"Bittrex": 6.71912
+			}, {
+				"pair": "ENG/ETH",
+				"Tidex": 1.51755,
+				"max diff": "342.761029291 %",
+				"Bittrex": 6.71912
+			}, {
+				"pair": "ENG/ETH",
+				"Liqui": 6.8289,
+				"max diff": "44.4716415511 %",
+				"Mercatox": 4.72681
+			}, {
+				"pair": "ENG/ETH",
+				"Liqui": 6.8289,
+				"max diff": "349.995057823 %",
+				"Tidex": 1.51755
+			}, {
+				"pair": "ENG/ETH",
+				"EtherDelta": 7.89876,
+				"max diff": "67.1055109048 %",
+				"Mercatox": 4.72681
+			}, {
+				"pair": "ENG/ETH",
+				"EtherDelta": 7.89876,
+				"max diff": "420.494217653 %",
+				"Tidex": 1.51755
+			}, {
+				"pair": "ENG/ETH",
+				"Tidex": 1.51755,
+				"max diff": "211.47639287 %",
+				"Mercatox": 4.72681
+			}]
+		],
+		"Market Cap": "$490,839,969",
+		"Coin URL": "https://coinmarketcap.com/currencies/enigma-project/",
+		"Coin ID": "76",
+		"Price": "$6.56",
+		"Change": "-10.54%"
+	}
+}, {
+	"Substratum": {
+		"Differnce": [
+			[{
+				"pair": "SUB/ETH",
+				"EtherDelta": 2.47411,
+				"max diff": "20.9508445161 %",
+				"OKEx": 2.04555
+			}]
+		],
+		"Market Cap": "$474,936,741",
+		"Coin URL": "https://coinmarketcap.com/currencies/substratum/",
+		"Coin ID": "78",
+		"Price": "$2.10",
+		"Change": "-4.12%"
+	}
+}, {
+	"Nxt": {
+		"Differnce": [
+			[{
+				"pair": "ADL/NXT",
+				"Stocks.Exchange": 0.173897,
+				"Nxt Asset Exchange": 0.521691,
+				"max diff": "200.0 %"
+			}],
+			[{
+				"pair": "DIX/NXT",
+				"Stocks.Exchange": 0.472026,
+				"Nxt Asset Exchange": 0.367373,
+				"max diff": "28.4868512384 %"
+			}]
+		],
+		"Market Cap": "$454,834,683",
+		"Coin URL": "https://coinmarketcap.com/currencies/nxt/",
+		"Coin ID": "82",
+		"Price": "$0.455290",
+		"Change": "10.12%"
+	}
+}, {
+	"DigitalNote": {
+		"Differnce": [
+			[{
+				"pair": "XDN/BTC",
+				"max diff": "33.5785529065 %",
+				"HitBTC": 0.0492076,
+				"Bittrex": 0.0657308
+			}]
+		],
+		"Market Cap": "$423,155,178",
+		"Coin URL": "https://coinmarketcap.com/currencies/digitalnote/",
+		"Coin ID": "84",
+		"Price": "$0.061381",
+		"Change": "-5.66%"
+	}
+}, {
+	"MaidSafeCoin": {
+		"Differnce": [
+			[{
+				"pair": "MAID/BTC",
+				"Poloniex": 0.997102,
+				"max diff": "24.3486394134 %",
+				"HitBTC": 0.80186
+			}, {
+				"pair": "MAID/BTC",
+				"max diff": "24.9906467463 %",
+				"HitBTC": 0.80186,
+				"Bittrex": 1.00225
+			}, {
+				"pair": "MAID/BTC",
+				"Livecoin": 1.01938,
+				"max diff": "21.3384606329 %",
+				"HitBTC": 0.80186
+			}, {
+				"pair": "MAID/BTC",
+				"max diff": "24.2370415163 %",
+				"Cryptopia": 1.05838,
+				"HitBTC": 0.80186
+			}, {
+				"pair": "MAID/BTC",
+				"max diff": "33.0466584282 %",
+				"OpenLedger DEX": 1.19764,
+				"HitBTC": 0.80186
+			}],
+			[{
+				"pair": "MAID/USDT",
+				"Omni DEX": 5.00336,
+				"max diff": "84.1922627994 %",
+				"HitBTC": 0.790918
+			}]
+		],
+		"Market Cap": "$413,983,633",
+		"Coin URL": "https://coinmarketcap.com/currencies/maidsafecoin/",
+		"Coin ID": "85",
+		"Price": "$0.914775",
+		"Change": "-4.41%"
+	}
+}, {
+	"Walton": {
+		"Differnce": [
+			[{
+				"pair": "WTC/BTC",
+				"Binance": 18.4241,
+				"max diff": "95.5899995213 %",
+				"COSS": 417.78
+			}, {
+				"pair": "WTC/BTC",
+				"max diff": "95.500023936 %",
+				"COSS": 417.78,
+				"Kucoin": 18.8
+			}, {
+				"pair": "WTC/BTC",
+				"OKEx": 18.065,
+				"max diff": "95.6759538513 %",
+				"COSS": 417.78
+			}, {
+				"pair": "WTC/BTC",
+				"max diff": "95.5666618795 %",
+				"COSS": 417.78,
+				"HitBTC": 18.5216
+			}]
+		],
+		"Market Cap": "$413,720,575",
+		"Coin URL": "https://coinmarketcap.com/currencies/walton/",
+		"Coin ID": "86",
+		"Price": "$16.62",
+		"Change": "9.53%"
+	}
+}, {
+	"DigixDAO": {
+		"Differnce": [
+			[{
+				"pair": "DGD/ETH",
+				"EtherDelta": 339.244,
+				"Huobi": 196.647,
+				"max diff": "42.0337574135 %"
+			}, {
+				"pair": "DGD/ETH",
+				"Huobi": 196.647,
+				"max diff": "20.9551449278 %",
+				"IDEX": 248.779
+			}, {
+				"pair": "DGD/ETH",
+				"Binance": 192.804,
+				"max diff": "43.1665703741 %",
+				"EtherDelta": 339.244
+			}, {
+				"pair": "DGD/ETH",
+				"Binance": 192.804,
+				"max diff": "22.4998894601 %",
+				"IDEX": 248.779
+			}, {
+				"pair": "DGD/ETH",
+				"EtherDelta": 339.244,
+				"max diff": "43.5332680902 %",
+				"Bittrex": 191.56
+			}, {
+				"pair": "DGD/ETH",
+				"max diff": "22.9999316663 %",
+				"IDEX": 248.779,
+				"Bittrex": 191.56
+			}, {
+				"pair": "DGD/ETH",
+				"Liqui": 202.104,
+				"max diff": "40.4251806959 %",
+				"EtherDelta": 339.244
+			}, {
+				"pair": "DGD/ETH",
+				"OKEx": 198.564,
+				"max diff": "41.4686774121 %",
+				"EtherDelta": 339.244
+			}, {
+				"pair": "DGD/ETH",
+				"OKEx": 198.564,
+				"max diff": "20.184581496 %",
+				"IDEX": 248.779
+			}, {
+				"pair": "DGD/ETH",
+				"EtherDelta": 339.244,
+				"max diff": "40.4838405396 %",
+				"Gate.io": 201.905
+			}, {
+				"pair": "DGD/ETH",
+				"EtherDelta": 339.244,
+				"max diff": "36.3635998215 %",
+				"IDEX": 248.779
+			}]
+		],
+		"Market Cap": "$410,268,000",
+		"Coin URL": "https://coinmarketcap.com/currencies/digixdao/",
+		"Coin ID": "87",
+		"Price": "$205.13",
+		"Change": "3.81%"
+	}
+}, {
+	"Neblio": {
+		"Differnce": [
+			[{
+				"pair": "NEBL/BTC",
+				"Binance": 39.0806,
+				"OEX": 23.117,
+				"max diff": "69.055673314 %"
+			}, {
+				"pair": "NEBL/BTC",
+				"OEX": 23.117,
+				"max diff": "68.6758662456 %",
+				"Cryptopia": 38.9928
+			}, {
+				"pair": "NEBL/BTC",
+				"OEX": 23.117,
+				"max diff": "77.7120733659 %",
+				"Kucoin": 41.0817
+			}, {
+				"pair": "NEBL/BTC",
+				"OEX": 23.117,
+				"max diff": "77.1099191072 %",
+				"HitBTC": 40.9425
+			}]
+		],
+		"Market Cap": "$404,197,046",
+		"Coin URL": "https://coinmarketcap.com/currencies/neblio/",
+		"Coin ID": "88",
+		"Price": "$31.79",
+		"Change": "-10.10%"
+	}
+}, {
+	"Santiment Net...": {
+		"Differnce": [
+			[{
+				"pair": "SAN/ETH",
+				"Liqui": 6.51968,
+				"max diff": "30.1261221095 %",
+				"IDEX": 9.33064
+			}, {
+				"pair": "SAN/ETH",
+				"Bitfinex": 6.67048,
+				"IDEX": 9.33064,
+				"max diff": "28.5099414402 %"
+			}, {
+				"pair": "SAN/ETH",
+				"max diff": "32.9435065547 %",
+				"IDEX": 9.33064,
+				"HitBTC": 6.2568
+			}, {
+				"pair": "SAN/ETH",
+				"OKEx": 6.68449,
+				"max diff": "28.3597909683 %",
+				"IDEX": 9.33064
+			}, {
+				"pair": "SAN/ETH",
+				"EtherDelta": 6.7246,
+				"max diff": "27.9299169189 %",
+				"IDEX": 9.33064
+			}]
+		],
+		"Market Cap": "$400,286,769",
+		"Coin URL": "https://coinmarketcap.com/currencies/santiment/",
+		"Coin ID": "90",
+		"Price": "$6.61",
+		"Change": "0.42%"
+	}
+}, {
+	"BitcoinDark": {
+		"Differnce": [
+			[{
+				"pair": "BTCD/DOGE",
+				"max diff": "27.1350804246 %",
+				"Cryptopia": 438.672,
+				"Bleutrade": 319.638
+			}]
+		],
+		"Market Cap": "$398,831,959",
+		"Coin URL": "https://coinmarketcap.com/currencies/bitcoindark/",
+		"Coin ID": "91",
+		"Price": "$309.44",
+		"Change": "-1.57%"
+	}
+}, {
+	"Iconomi": {
+		"Differnce": [
+			[{
+				"pair": "ICN/ETH",
+				"Binance": 3.89439,
+				"max diff": "22.0017544843 %",
+				"IDEX": 4.99292
+			}, {
+				"pair": "ICN/ETH",
+				"Liqui": 3.92449,
+				"max diff": "21.3989008436 %",
+				"IDEX": 4.99292
+			}, {
+				"pair": "ICN/ETH",
+				"OKEx": 3.70886,
+				"max diff": "25.7176161445 %",
+				"IDEX": 4.99292
+			}],
+			[{
+				"pair": "ICN/BTC",
+				"max diff": "39.4020158871 %",
+				"Kraken": 3.94931,
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"max diff": "99.5645609787 %",
+				"Kraken": 3.94931,
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"Binance": 3.93006,
+				"max diff": "39.6973867732 %",
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"Binance": 3.93006,
+				"max diff": "99.5666834257 %",
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"Liqui": 3.99259,
+				"max diff": "38.7379300715 %",
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"Liqui": 3.99259,
+				"max diff": "99.5597890563 %",
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"Livecoin": 4.15636,
+				"max diff": "36.2250526681 %",
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"Livecoin": 4.15636,
+				"max diff": "99.5417322696 %",
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"max diff": "33.3319523785 %",
+				"Mercatox": 6.51723,
+				"HitBTC": 4.34491
+			}, {
+				"pair": "ICN/BTC",
+				"max diff": "99.5209433147 %",
+				"Bitsane": 906.972,
+				"HitBTC": 4.34491
+			}, {
+				"pair": "ICN/BTC",
+				"OKEx": 3.98855,
+				"max diff": "38.7999195977 %",
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"OKEx": 3.98855,
+				"max diff": "99.5602344946 %",
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"Tux Exchange": 4.03854,
+				"max diff": "38.0328759304 %",
+				"Mercatox": 6.51723
+			}, {
+				"pair": "ICN/BTC",
+				"Tux Exchange": 4.03854,
+				"max diff": "99.5547227478 %",
+				"Bitsane": 906.972
+			}, {
+				"pair": "ICN/BTC",
+				"max diff": "99.2814298567 %",
+				"Mercatox": 6.51723,
+				"Bitsane": 906.972
+			}]
+		],
+		"Market Cap": "$392,132,151",
+		"Coin URL": "https://coinmarketcap.com/currencies/iconomi/",
+		"Coin ID": "93",
+		"Price": "$3.93",
+		"Change": "-0.54%"
+	}
+}, {
+	"Gnosis": {
+		"Differnce": [
+			[{
+				"pair": "GNO/ETH",
+				"EtherDelta": 497.558,
+				"max diff": "25.730869567 %",
+				"Kraken": 369.532
+			}, {
+				"pair": "GNO/ETH",
+				"Liqui": 370.814,
+				"max diff": "25.4732111633 %",
+				"EtherDelta": 497.558
+			}, {
+				"pair": "GNO/ETH",
+				"Poloniex": 369.379,
+				"max diff": "25.7616197509 %",
+				"EtherDelta": 497.558
+			}, {
+				"pair": "GNO/ETH",
+				"EtherDelta": 497.558,
+				"max diff": "25.2089203671 %",
+				"Bittrex": 372.129
+			}, {
+				"pair": "GNO/ETH",
+				"EtherDelta": 497.558,
+				"max diff": "33.3356558278 %",
+				"HitBTC": 373.162
+			}, {
+				"pair": "GNO/ETH",
+				"EtherDelta": 497.558,
+				"max diff": "43.3686406491 %",
+				"Livecoin": 347.048
+			}],
+			[{
+				"pair": "GNO/BTC",
+				"max diff": "65.4577887801 %",
+				"Mercatox": 1098.76,
+				"Bittrex": 379.536
+			}, {
+				"pair": "GNO/BTC",
+				"max diff": "69.0257199024 %",
+				"Kraken": 340.333,
+				"Mercatox": 1098.76
+			}, {
+				"pair": "GNO/BTC",
+				"Poloniex": 378.42,
+				"max diff": "65.5593578215 %",
+				"Mercatox": 1098.76
+			}, {
+				"pair": "GNO/BTC",
+				"Liqui": 373.924,
+				"max diff": "65.9685463614 %",
+				"Mercatox": 1098.76
+			}, {
+				"pair": "GNO/BTC",
+				"max diff": "65.9314135935 %",
+				"Mercatox": 1098.76,
+				"Cryptopia": 374.332
+			}, {
+				"pair": "GNO/BTC",
+				"max diff": "65.4625213877 %",
+				"Mercatox": 1098.76,
+				"HitBTC": 379.484
+			}, {
+				"pair": "GNO/BTC",
+				"Livecoin": 330.746,
+				"max diff": "232.206587532 %",
+				"Mercatox": 1098.76
+			}]
+		],
+		"Market Cap": "$385,857,588",
+		"Coin URL": "https://coinmarketcap.com/currencies/gnosis-gno/",
+		"Coin ID": "94",
+		"Price": "$349.32",
+		"Change": "2.04%"
+	}
+}, {
+	"TenX": {
+		"Differnce": [
+			[{
+				"pair": "PAY/ETH",
+				"Huobi": 3.66203,
+				"max diff": "34.5777512581 %",
+				"IDEX": 5.59753
+			}, {
+				"pair": "PAY/ETH",
+				"max diff": "34.4469792927 %",
+				"IDEX": 5.59753,
+				"Bittrex": 3.66935
+			}, {
+				"pair": "PAY/ETH",
+				"IDEX": 5.59753,
+				"max diff": "36.1127140006 %",
+				"ChaoEX": 3.57611
+			}, {
+				"pair": "PAY/ETH",
+				"max diff": "35.1333534613 %",
+				"IDEX": 5.59753,
+				"Kucoin": 3.63093
+			}, {
+				"pair": "PAY/ETH",
+				"OKEx": 3.60961,
+				"max diff": "35.5142357433 %",
+				"IDEX": 5.59753
+			}, {
+				"pair": "PAY/ETH",
+				"Liqui": 3.64138,
+				"max diff": "34.946663975 %",
+				"IDEX": 5.59753
+			}, {
+				"pair": "PAY/ETH",
+				"max diff": "34.7999921394 %",
+				"IDEX": 5.59753,
+				"Gate.io": 3.64959
+			}, {
+				"pair": "PAY/ETH",
+				"max diff": "36.5777405391 %",
+				"IDEX": 5.59753,
+				"HitBTC": 3.55008
+			}, {
+				"pair": "PAY/ETH",
+				"EtherDelta": 3.66949,
+				"max diff": "34.4444781895 %",
+				"IDEX": 5.59753
+			}, {
+				"pair": "PAY/ETH",
+				"Livecoin": 3.48291,
+				"max diff": "37.7777341077 %",
+				"IDEX": 5.59753
+			}, {
+				"pair": "PAY/ETH",
+				"IDEX": 5.59753,
+				"max diff": "33.3334524335 %",
+				"COSS": 3.73168
+			}]
+		],
+		"Market Cap": "$384,797,772",
+		"Coin URL": "https://coinmarketcap.com/currencies/tenx/",
+		"Coin ID": "95",
+		"Price": "$3.68",
+		"Change": "17.35%"
+	}
+}, {
+	"ZCoin": {
+		"Differnce": [
+			[{
+				"pair": "XZC/BTC",
+				"max diff": "23.6135458489 %",
+				"CoinExchange": 123.787,
+				"Bittrex": 94.5565
+			}, {
+				"pair": "XZC/BTC",
+				"Binance": 93.8335,
+				"max diff": "24.1976136428 %",
+				"CoinExchange": 123.787
+			}, {
+				"pair": "XZC/BTC",
+				"max diff": "21.2501312739 %",
+				"CoinExchange": 123.787,
+				"Cryptopia": 97.4821
+			}, {
+				"pair": "XZC/BTC",
+				"AEX": 93.3043,
+				"max diff": "24.6251221857 %",
+				"CoinExchange": 123.787
+			}]
+		],
+		"Market Cap": "$381,949,232",
+		"Coin URL": "https://coinmarketcap.com/currencies/zcoin/",
+		"Coin ID": "96",
+		"Price": "$98.91",
+		"Change": "7.90%"
+	}
+}, {
+	"ChainLink": {
+		"Differnce": [
+			[{
+				"pair": "LINK/BTC",
+				"Binance": 1.09793,
+				"max diff": "21.0729869812 %",
+				"COSS": 1.39107
+			}, {
+				"pair": "LINK/BTC",
+				"OKEx": 1.10851,
+				"max diff": "20.3124213735 %",
+				"COSS": 1.39107
+			}],
+			[{
+				"pair": "LINK/ETH",
+				"Binance": 1.06895,
+				"max diff": "28.2733122639 %",
+				"Mercatox": 1.49031
+			}, {
+				"pair": "LINK/ETH",
+				"Binance": 1.06895,
+				"max diff": "90.566895225 %",
+				"IDEX": 11.3319
+			}, {
+				"pair": "LINK/ETH",
+				"max diff": "22.2933483638 %",
+				"Mercatox": 1.49031,
+				"Gate.io": 1.15807
+			}, {
+				"pair": "LINK/ETH",
+				"max diff": "89.7804428207 %",
+				"IDEX": 11.3319,
+				"Gate.io": 1.15807
+			}, {
+				"pair": "LINK/ETH",
+				"EtherDelta": 1.33418,
+				"Token Store": 1.08965,
+				"max diff": "22.4411508282 %"
+			}, {
+				"pair": "LINK/ETH",
+				"EtherDelta": 1.33418,
+				"max diff": "26.1862651446 %",
+				"COSS": 1.05731
+			}, {
+				"pair": "LINK/ETH",
+				"EtherDelta": 1.33418,
+				"max diff": "88.226334507 %",
+				"IDEX": 11.3319
+			}, {
+				"pair": "LINK/ETH",
+				"Token Store": 1.08965,
+				"max diff": "26.8843394998 %",
+				"Mercatox": 1.49031
+			}, {
+				"pair": "LINK/ETH",
+				"Token Store": 1.08965,
+				"IDEX": 11.3319,
+				"max diff": "90.3842250638 %"
+			}, {
+				"pair": "LINK/ETH",
+				"max diff": "29.0543578182 %",
+				"COSS": 1.05731,
+				"Mercatox": 1.49031
+			}, {
+				"pair": "LINK/ETH",
+				"IDEX": 11.3319,
+				"max diff": "90.6696140983 %",
+				"COSS": 1.05731
+			}, {
+				"pair": "LINK/ETH",
+				"max diff": "86.8485426098 %",
+				"IDEX": 11.3319,
+				"Mercatox": 1.49031
+			}]
+		],
+		"Market Cap": "$371,794,500",
+		"Coin URL": "https://coinmarketcap.com/currencies/chainlink/",
+		"Coin ID": "98",
+		"Price": "$1.06",
+		"Change": "-9.33%"
+	}
+}, {
+	"iExec RLC": {
+		"Differnce": [
+			[{
+				"pair": "RLC/BTC",
+				"max diff": "59.504928508 %",
+				"Gatecoin": 2.79192,
+				"Bittrex": 4.45325
+			}, {
+				"pair": "RLC/BTC",
+				"Binance": 4.29816,
+				"max diff": "53.9499699132 %",
+				"Gatecoin": 2.79192
+			}, {
+				"pair": "RLC/BTC",
+				"Liqui": 4.24441,
+				"max diff": "52.0247714834 %",
+				"Gatecoin": 2.79192
+			}, {
+				"pair": "RLC/BTC",
+				"max diff": "51.7249777931 %",
+				"Gatecoin": 2.79192,
+				"HitBTC": 4.23604
+			}, {
+				"pair": "RLC/BTC",
+				"Livecoin": 4.47251,
+				"max diff": "60.1947763546 %",
+				"Gatecoin": 2.79192
+			}],
+			[{
+				"pair": "RLC/ETH",
+				"max diff": "21.0124285435 %",
+				"Gate.io": 3.62633,
+				"Bittrex": 4.38831
+			}]
+		],
+		"Market Cap": "$366,386,381",
+		"Coin URL": "https://coinmarketcap.com/currencies/rlc/",
+		"Coin ID": "100",
+		"Price": "$4.63",
+		"Change": "117.24%"
+	}
+}]
